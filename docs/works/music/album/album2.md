@@ -1,0 +1,130 @@
+---
+icon: album
+title: 专辑：我很张含韵
+---
+
+《我很张含韵》于2005年7月20日发行，为张含韵发行的第一张录音室专辑，共收录十首歌曲，仓雁彬担任制作人。该专辑曾创下2005年度销量80万张的成绩，位居当年度唱片销量冠军[^Elle]。
+
+## 专辑名称由来
+
+本张专辑的起名原由，是因为专辑制作人、唱片公司老板以及工作人员认为张含韵是跟大家距离最近、最亲切的小朋友，希望她以最本身、最本质的形象和最自我的状态面对大家，不经过太多遮盖和刻意包装，继续给大家特别亲切的感觉[^新浪娱乐]。
+
+## 曲目
+
+<table style="text-align:center; font-size:90%; width:100%; display:table">
+<thead>
+<tr>
+    <th style="background:pink">曲序</th>
+    <th style="background:pink">曲目</th>
+    <th style="background:pink">作词</th>
+    <th style="background:pink">作曲</th>
+    <th style="background:pink">MV导演</th>
+    <th style="background:pink">备注</th>
+    <th style="background:pink">时长</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <td>1</td>
+    <td>放假了</td>
+    <td>文雅</td>
+    <td>仓雁彬</td>
+    <td>ziv</td>
+    <td>第一主打歌</td>
+    <td>4:08</td>
+</tr>
+<tr>
+    <td>2</td>
+    <td>精灵</td>
+    <td>张楠</td>
+    <td>吴梦奇</td>
+    <td></td>
+    <td></td>
+    <td>3:09</td>
+</tr>
+<tr>
+    <td>3</td>
+    <td>一个人长大</td>
+    <td>阿紫、张悠悠</td>
+    <td>仓雁彬</td>
+    <td></td>
+    <td></td>
+    <td>3:59</td>
+</tr>
+<tr>
+    <td>4</td>
+    <td>考试中</td>
+    <td>文雅</td>
+    <td>吴梦奇</td>
+    <td></td>
+    <td>与张赫合唱</td>
+    <td>3:18</td>
+</tr>
+<tr>
+    <td>5</td>
+    <td>梦游记</td>
+    <td>崔恕</td>
+    <td>张艺</td>
+    <td></td>
+    <td></td>
+    <td>3:53</td>
+</tr>
+<tr>
+    <td>6</td>
+    <td>妈妈我爱你</td>
+    <td>文雅</td>
+    <td>仓雁彬</td>
+    <td>ziv</td>
+    <td></td>
+    <td>4:01</td>
+</tr>
+<tr>
+    <td>7</td>
+    <td>青蛙公主</td>
+    <td>曹方</td>
+    <td>曹方</td>
+    <td></td>
+    <td></td>
+    <td>4:01</td>
+</tr>
+<tr>
+    <td>8</td>
+    <td>酸酸甜甜就是我</td>
+    <td>方解</td>
+    <td>方解</td>
+    <td></td>
+    <td>蒙牛酸酸乳2005年度广告曲</td>
+    <td>3:39</td>
+</tr>
+<tr>
+    <td>9</td>
+    <td>星期天</td>
+    <td>夏费思</td>
+    <td>夏费思</td>
+    <td></td>
+    <td></td>
+    <td>3:54</td>
+</tr>
+<tr>
+    <td>10</td>
+    <td>想唱就唱</td>
+    <td>文雅</td>
+    <td>陈超</td>
+    <td></td>
+    <td>2005年超级女声主题曲</td>
+    <td>3:58</td>
+</tr>
+</tbody>
+</table>
+
+## 奖项
+
+- 首届中国国际音像博览会：唱片销量冠军
+- 广州电台、广州电视台2005金曲金榜：内地十大金曲《酸酸甜甜就是我》
+- 首届中国（三亚）国际电视广告艺术金椰子周：最佳广告歌曲奖《酸酸甜甜就是我》
+- 第六届百事音乐风云榜年度盛典：内地最佳新人
+
+<!--参考资料-->
+
+[^Elle]: 张绮汶. [她们用了多少年，洗掉了少女偶像的标签？](https://www.ellechina.com/celeb/gossip/a31466955/shaonvouxiang-200313/). Elle世界时装之苑. 2020-03-16.
+[^新浪娱乐]: [可爱女生张含韵作客新浪聊《我很张含韵》](http://ent.sina.com.cn/y/2005-07-27/ba793471.shtml). 新浪娱乐. 2005-07-27.

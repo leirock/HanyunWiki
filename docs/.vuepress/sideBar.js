@@ -1,0 +1,101 @@
+const { sidebarConfig } = require("vuepress-theme-hope");
+
+module.exports = sidebarConfig({
+  //走近小花
+  "/intro/": [
+    "", //认识含韵
+    {
+      title: "时间轴",
+      icon: "footprint",
+      prefix: "timeline/",
+      collapsable: false,
+      children: [
+        "early", //1989-2003年：早年经历
+        "debut", //2004年：超女出道
+        "vogue", //2005-2007年：迅速走红
+        "trough", //2008-2010年：陷入低谷
+        "transformation", //2011-2019年：转型演员
+        "back", //2020年至今：重回视野
+      ],
+    },
+    {
+      title: "奖项荣誉",
+      icon: "trophy",
+      prefix: "award/",
+      collapsable: false,
+      children: [
+        "music", //音乐奖项
+        "other", //其他荣誉
+      ],
+    },
+    {
+      title: "形象代言",
+      icon: "ad",
+      prefix: "branding/",
+      collapsable: false,
+      children: [
+        "psa", //公益代言 (public service advertising)
+        "business", //商业代言
+      ],
+    },
+  ],
+
+  //音乐作品
+  "/works/music/": [
+    "album/", //专辑
+    "single", //录音室单曲
+    "concert", //专场歌友会
+    {
+      title: "舞台表演",
+      icon: "apps",
+      prefix: "stage/",
+      collapsable: false,
+      children: [
+        "gala", //大型晚会典礼
+        "cctv", //央视《欢乐中国行》等舞台
+      ],
+    },
+  ],
+
+  //影视作品
+  "/works/tvshow/": [
+    "drama", //电视剧
+    "movie", //电影
+    {
+      title: "综艺节目",
+      icon: "magic",
+      prefix: "variety/",
+      collapsable: false,
+      children: [
+        "fixed", //固定综艺节目
+        "nonfixed", //非固定综艺节目
+      ],
+    },
+    "interview", //访谈节目
+    "host", //节目主持
+    "short", //短片作品
+  ],
+
+  //出版物
+  "/works/publication/": [
+    "book", //书籍
+    "magazine", //报刊杂志
+  ],
+
+  //圆桌会
+  "/roundtable/": [
+    "collection", //文集
+    "sentence", //金句
+    "viewpoint/", //观点
+    "anecdote", //轶事
+  ],
+
+  //关于
+  "/about/": [
+    "", //关于本站
+    "disclaimer", //免责声明
+    "copyright", //著作权信息
+    "update", //更新日志
+    "contact", //联系方式
+  ],
+});
