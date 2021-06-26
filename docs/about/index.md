@@ -19,7 +19,7 @@ title: 关于本站
 
 含韵百科依托 [Vuepress](https://vuepress-theme-hope.github.io/zh) 创建，本站项目代码托管于 [GitHub](https://github.com/lei2rock/HanyunWiki)，由 GitHub Actions 构建后部署在位于中国香港的服务器上。
 
-含韵百科当前由站长 [Lei2Rock](https://blog.dlzhang.com)（微博：[@醉里挑灯赏猫](https://weibo.com/7216640993)）进行维护。同时，含韵百科欢迎其他张含韵支持者参与本站的管理维护。
+含韵百科当前由站长 [Lei2Rock](https://dlzhang.com)（微博：[@醉里挑灯赏猫](https://weibo.com/7216640993)）进行维护。同时，含韵百科欢迎其他张含韵支持者参与本站的管理维护。
 
 ## 资金
 

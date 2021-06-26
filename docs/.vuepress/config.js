@@ -48,7 +48,7 @@ module.exports = config({
     repo: "https://github.com/lei2rock/HanyunWiki",
 
     //仓库分支
-    docsBranch: "master",
+    docsBranch: "main",
 
     //文档位置
     docsDir: "docs",
