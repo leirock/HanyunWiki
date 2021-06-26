@@ -36,7 +36,7 @@ title: 专辑：一人一梦
     <td>公主的魔法项链</td>
     <td>萧萧</td>
     <td>林从胤</td>
-    <td></td>
+    <td>林从胤</td>
     <td>李丰博@pple</td>
     <td></td>
     <td>3:52</td>
@@ -106,7 +106,7 @@ title: 专辑：一人一梦
     <td>星星的眼睛</td>
     <td>何厚华</td>
     <td>殷文琦</td>
-    <td></td>
+    <td>殷文琦</td>
     <td>李丰博@pple</td>
     <td></td>
     <td>4:08</td>
@@ -116,7 +116,7 @@ title: 专辑：一人一梦
     <td>哎呀呀</td>
     <td>王韵淳、王韵晴、萧萧</td>
     <td>王韵淳、王韵晴</td>
-    <td></td>
+    <td>林从胤</td>
     <td></td>
     <td></td>
     <td>3:27</td>

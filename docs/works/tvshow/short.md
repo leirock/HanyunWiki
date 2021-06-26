@@ -39,5 +39,11 @@ title: 短片作品
     <td>手语推广大使</td>
     <td>北京电视台各频道播出</td>
 </tr>
+<tr>
+    <td>2015</td>
+    <td><a href="https://www.bilibili.com/video/BV16y4y1m7uq" target="_blank" rel="noopener noreferrer">胖小花的逆袭之路</a></td>
+    <td>本人</td>
+    <td>参加《偶像来了》前的减肥记录</td>
+</tr>
 </tbody>
 </table>

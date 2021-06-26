@@ -3,7 +3,7 @@ icon: creative
 title: 商业代言
 ---
 
-点击表格中的链接可查看相关媒体报道。
+不包括无头衔仅单次推广的品牌，点击表格中的链接可查看相关媒体报道或广告视频。
 
 <table style="text-align:center; font-size:90%; width:100%; display:table">
 <thead>
@@ -23,7 +23,7 @@ title: 商业代言
 </tr>
 <tr>
     <td>蒙牛酸酸乳饮料</td>
-    <td><a href="http://ent.sina.com.cn/s/m/2005-02-25/1202662163.html" target="_blank" rel="noopener noreferrer">代言人</a></td>
+    <td><a href="https://www.bilibili.com/video/BV15x411e7g1" target="_blank" rel="noopener noreferrer">代言人</a></td>
     <td></td>
 </tr>
 <tr>
@@ -38,8 +38,8 @@ title: 商业代言
 </tr>
 <tr>
     <td rowspan="4">2006</td>
-    <td>联合利华 旁氏洗颜泥</td>
-    <td>形象代言人</td>
+    <td>联合利华 旁氏天然泥之旅</td>
+    <td><a href="https://yule.sohu.com/20060708/n244152951.shtml" target="_blank" rel="noopener noreferrer">活动大使</a></td>
     <td></td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ title: 商业代言
 </tr>
 <tr>
     <td>拉芳国际 缤纯系列</td>
-    <td>形象代言人</td>
+    <td><a href="http://www.iqiyi.com/w_19rsf12n35.html" target="_blank" rel="noopener noreferrer">形象代言人</a></td>
     <td></td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ title: 商业代言
 </tr>
 <tr>
     <td>香港中联集团 喜盈盈系列食品</td>
-    <td>形象代言人</td>
+    <td><a href="https://www.bilibili.com/video/BV1vk4y1d7p6" target="_blank" rel="noopener noreferrer">形象代言人</a></td>
     <td></td>
 </tr>
 <tr>
@@ -86,18 +86,24 @@ title: 商业代言
 <tr>
     <td rowspan="2">2009</td>
     <td>奥玛国际 肌肤快线系列</td>
-    <td>形象代言人</td>
+    <td><a href="http://vic.sina.com.cn/news/27/2009/0821/4725.html" target="_blank" rel="noopener noreferrer">形象代言人</a></td>
     <td></td>
 </tr>
 <tr>
-    <td>广东蕾琪化妆品公司 蕾琪系列</td>
-    <td>形象代言人</td>
+    <td>蕾琪化妆品</td>
+    <td><a href="https://v.qq.com/x/page/b01403whyt5.html" target="_blank" rel="noopener noreferrer">形象代言人</a></td>
     <td></td>
 </tr>
 <tr>
     <td>2011</td>
     <td>思威琪</td>
-    <td>品牌代言人</td>
+    <td><a href="http://www.isfashion.com/fashion/20161127/70031.html" target="_blank" rel="noopener noreferrer">品牌代言人</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>2014</td>
+    <td>OPING 欧品</td>
+    <td><a href="https://xian.qq.com/a/20140925/069752.htm" target="_blank" rel="noopener noreferrer">品牌推广大使</a></td>
     <td></td>
 </tr>
 <tr>
@@ -109,7 +115,7 @@ title: 商业代言
 <tr>
     <td>2019</td>
     <td>一扫光零食家</td>
-    <td>品牌形象代言人</td>
+    <td><a href="https://weibo.com/5426667447/I55Aopkw4" target="_blank" rel="noopener noreferrer">品牌形象代言人</a></td>
     <td>至今</td>
 </tr>
 <tr>
@@ -135,7 +141,7 @@ title: 商业代言
 </tr>
 <tr>
     <td>手机游戏《开心消消乐》</td>
-    <td>首席开心大使</td>
+    <td><a href="https://weibo.com/3653487227/JguQS0Y7s" target="_blank" rel="noopener noreferrer">首席开心大使</a></td>
     <td></td>
 </tr>
 <tr>
@@ -145,17 +151,17 @@ title: 商业代言
 </tr>
 <tr>
     <td>URBAN REVIVO</td>
-    <td>星推官</td>
+    <td><a href="https://weibo.com/7478524420/Jn9FbDi0W" target="_blank" rel="noopener noreferrer">星推官</a></td>
     <td></td>
 </tr>
 <tr>
     <td>OLAY</td>
-    <td>防晒挚友</td>
+    <td><a href="https://weibo.com/2964573141/JfsYfpD5v" target="_blank" rel="noopener noreferrer">防晒挚友</a></td>
     <td></td>
 </tr>
 <tr>
     <td>奔驰 EQC 电动汽车</td>
-    <td>体验官</td>
+    <td><a href="https://weibo.com/5664119488/J2v02oWIa" target="_blank" rel="noopener noreferrer">体验官</a></td>
     <td></td>
 </tr>
 <tr>
@@ -165,7 +171,7 @@ title: 商业代言
 </tr>
 <tr>
     <td>Nutrition Care</td>
-    <td>品牌推荐官</td>
+    <td><a href="https://weibo.com/5985137686/JolV4usQd" target="_blank" rel="noopener noreferrer">品牌推荐官</a></td>
     <td></td>
 </tr>
 <tr>

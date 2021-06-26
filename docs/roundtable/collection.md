@@ -13,6 +13,15 @@ title: 文集
 
 - 23年的牛顿：[张含韵--伊人若水](https://weibo.com/ttarticle/p/show?id=2309404616776616116246)
 
+- 浪花刘硬炮：面组七人往事
+
+    - [（一）从电视选秀开始说起](https://weibo.com/ttarticle/p/show?id=2309404646349856702651)
+
+    - [（五）0403988](https://weibo.com/ttarticle/p/show?id=2309404649908673315003)
+
+    - [（六）再说电视选秀：得意失意，时耶命耶](https://weibo.com/ttarticle/p/show?id=2309404651629222953121)
+
+
 ## 豆瓣
 
 - ΩДΩ：[张含韵全面安利帖](https://www.douban.com/group/topic/175468942/)
@@ -23,9 +32,11 @@ title: 文集
 
 -  ∫0_dt：[张含韵看过来：或许你并不需要转型](https://www.douban.com/group/topic/190341054/)
 
-- 老坚果：[三十多岁的我为什么把张含韵视作偶像？（一）](https://www.douban.com/note/793351931/)
+- 老坚果：
 
-- 老坚果：[三十多岁的我为什么把张含韵视作偶像？（二）](https://www.douban.com/note/793586597/)
+    - [三十多岁的我为什么把张含韵视作偶像？（一）](https://www.douban.com/note/793351931/)
+
+    - [三十多岁的我为什么把张含韵视作偶像？（二）](https://www.douban.com/note/793586597/)
 
 - Tim Ting：[一首Wonderful U，张含韵唱出16年的奋斗辛酸，你也整装待发了吗](https://www.douban.com/note/775526103/)
 

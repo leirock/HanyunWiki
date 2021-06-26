@@ -191,5 +191,7 @@ title: 录音室单曲
 </table>
 
 <small>
-注：除《我不是复制品》未正式发行，《相思赋》、《问别》、《开心就好》、《温柔反击》、《逛》等五首单曲的音源在网易云音乐之外，其余单曲音源均在 QQ 音乐。
+<b>注释：</b><br/>
+1. 《我不是复制品》未正式发行，故没有录音室版本，可<a href="https://v.youku.com/v_show/id_XMjY1MDI0OTAw.html" target="_blank" rel="noopener noreferrer">观看现场演唱视频</a>。<br/>
+2. 《相思赋》、《问别》、《开心就好》、《温柔反击》、《逛》等五首单曲的音源在网易云音乐，其余单曲音源均在 QQ 音乐。
 </small>

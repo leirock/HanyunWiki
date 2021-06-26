@@ -16,7 +16,7 @@ action:
 features:
   - title: 时间轴
     details: 张含韵自 2004 年出道以来的点滴记录
-    link: /intro/timeline/early/
+    link: /intro/timeline/89-03-early/
 
   - title: 音乐作品
     details: 录音室专辑、单曲、专场歌友会、舞台表演

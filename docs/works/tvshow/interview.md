@@ -61,7 +61,13 @@ title: 访谈节目
     <td>张含韵成长日记</td>
 </tr>
 <tr>
-    <td rowspan="2">2007</td>
+    <td rowspan="3">2007</td>
+    <td>1月20日</td>
+    <td>北京电视台文艺频道</td>
+    <td><a href="https://v.youku.com/v_show/id_XMTM1Mjc5MzQ0.html" target="_blank" rel="noopener noreferrer">快乐到家</a></td>
+    <td>宣传新歌</td>
+</tr>
+<tr>
     <td>1月24日</td>
     <td>天津卫视</td>
     <td><a href="https://www.bilibili.com/video/BV1TK411T7Kg" target="_blank" rel="noopener noreferrer">沟通</a></td>
