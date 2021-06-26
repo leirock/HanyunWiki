@@ -24,7 +24,7 @@ features:
 
   - title: 影视作品
     details: 电视剧、电影、综艺节目、访谈节目、节目主持等作品
-    link: /works/tvshow/
+    link: /works/video/
 
   - title: 出版物
     details: 书籍、报刊、杂志等平面出版品

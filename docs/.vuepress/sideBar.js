@@ -58,7 +58,7 @@ module.exports = sidebarConfig({
   ],
 
   //影视作品
-  "/works/tvshow/": [
+  "/works/video/": [
     "drama", //电视剧
     "movie", //电影
     {

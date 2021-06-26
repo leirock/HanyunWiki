@@ -8,7 +8,7 @@ module.exports = navbarConfig([
     prefix: "/works/",
     items: [
       { text: "音乐作品", link: "music/", icon: "music" },
-      { text: "影视作品", link: "tvshow/", icon: "movie" },
+      { text: "影视作品", link: "video/", icon: "movie" },
       { text: "出版物", link: "publication/", icon: "book-open" },
     ],
   },

@@ -36,7 +36,7 @@ title: 公告板
 - [商业代言](/intro/branding/business/)：各个商业代言的截止时间
 - [专场歌友会](/works/music/concert/)：待补充有视频资料的专场歌友会
 - [舞台表演-央视舞台](/works/music/stage/cctv/)：部分舞台播出日期待核实、视频待补充
-- [舞台表演-大型晚会典礼](/works/music/stage/cctv/)、[非固定综艺节目](/works/tvshow/variety/nonfixed/)：相应视频待补充
+- [舞台表演-大型晚会典礼](/works/music/stage/cctv/)、[非固定综艺节目](/works/video/variety/nonfixed/)：相应视频待补充
 - [圆桌会](/roundtable/)：其下的各条目待补充
 
 ### 施工中条目

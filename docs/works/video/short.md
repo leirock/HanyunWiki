@@ -3,8 +3,45 @@ icon: mv
 title: 短片作品
 ---
 
-除为个人专辑、单曲、商业广告之外拍摄的短片作品，点击表格内链接可查看相应短片视频。
+点击表格内链接可查看相应短片视频。
 
+::: center
+**经典商业广告片**
+:::
+<table style="text-align:center; font-size:90%; width:100%; display:table">
+<thead>
+<tr>
+    <th style="background:pink">年份</th>
+    <th style="background:pink">品牌</th>
+    <th style="background:pink">备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <td>2005</td>
+    <td><a href="https://www.bilibili.com/video/BV15x411e7g1" target="_blank" rel="noopener noreferrer">蒙牛酸酸乳</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td rowspan="3">2020</td>
+    <td><a href="https://www.bilibili.com/video/BV1H54y1B7yQ" target="_blank" rel="noopener noreferrer">奔驰 EQC 电动汽车</a></td>
+    <td>一起奔驰吧 EQC Radio，清唱《丹青墨绿》</td>
+</tr>
+<tr>
+    <td><a href="https://www.bilibili.com/video/BV1az4y1X7xy" target="_blank" rel="noopener noreferrer">奥利奥</a></td>
+    <td>《乘风破浪的的姐姐》中插广告</td>
+</tr>
+<tr>
+    <td><a href="https://www.bilibili.com/video/BV1LZ4y1u7Pe" target="_blank" rel="noopener noreferrer">vivo X50 系列 5G 手机</a></td>
+    <td>《乘风破浪的的姐姐》中插广告</td>
+</tr>
+</tbody>
+</table>
+
+
+::: center
+**除为个人专辑、单曲、商业广告之外拍摄的短片**
+:::
 <table style="text-align:center; font-size:90%; width:100%; display:table">
 <thead>
 <tr>
@@ -47,3 +84,5 @@ title: 短片作品
 </tr>
 </tbody>
 </table>
+
+

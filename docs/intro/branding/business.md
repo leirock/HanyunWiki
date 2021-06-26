@@ -3,7 +3,7 @@ icon: creative
 title: 商业代言
 ---
 
-不包括无头衔仅单次推广的品牌，点击表格中的链接可查看相关媒体报道或广告视频。
+不包括无头衔仅单次推广的品牌，点击表格中的链接可查看相关媒体报道。
 
 <table style="text-align:center; font-size:90%; width:100%; display:table">
 <thead>
@@ -23,7 +23,7 @@ title: 商业代言
 </tr>
 <tr>
     <td>蒙牛酸酸乳饮料</td>
-    <td><a href="https://www.bilibili.com/video/BV15x411e7g1" target="_blank" rel="noopener noreferrer">代言人</a></td>
+    <td><a href="http://ent.sina.com.cn/s/m/2005-02-25/1202662163.html" target="_blank" rel="noopener noreferrer">代言人</a></td>
     <td></td>
 </tr>
 <tr>
