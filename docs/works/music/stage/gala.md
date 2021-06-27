@@ -18,7 +18,7 @@ title: 大型晚会典礼
 </thead>
 <tbody>
 <tr>
-    <td rowspan="8">2005</td>
+    <td rowspan="9">2005</td>
     <td>1月1日</td>
     <td>湖南卫视元旦晚会</td>
     <td></td>
@@ -33,6 +33,13 @@ title: 大型晚会典礼
     <td></td>
 </tr>
 <tr>
+    <td>5月6日</td>
+    <td>2005超级女声广州唱区总决赛</td>
+    <td><a href="https://www.bilibili.com/video/BV1rW411D7FB" target="_blank" rel="noopener noreferrer">想唱就唱</a></td>
+    <td></td>
+    <td>广东电视台<br/>珠江频道</td>
+</tr>
+<tr>
     <td>8月19日</td>
     <td>首届中韩电子竞技大赛开幕式</td>
     <td><a href="https://v.youku.com/v_show/id_XMTE2OTEyMzIw.html" target="_blank" rel="noopener noreferrer">放假了</a>、<a href="https://v.youku.com/v_show/id_XMTE2OTEyMDY4.html" target="_blank" rel="noopener noreferrer">想唱就唱</a></td>
@@ -40,7 +47,7 @@ title: 大型晚会典礼
     <td></td>
 </tr>
 <tr>
-    <td>9月19日<br/><sup id="cite_ref-1-0"><a href="#cite_note-1-0">[注 1]</a></sup></td>
+    <td>9月19日<sup id="cite_ref-1-0"><a href="#cite_note-1-0">[1]</a></sup></td>
     <td>《音画时尚》节目六周年晚会</td>
     <td><a href="https://www.bilibili.com/video/BV1ex411B7Za" target="_blank" rel="noopener noreferrer">让我们荡起双桨</a></td>
     <td></td>
@@ -75,7 +82,7 @@ title: 大型晚会典礼
     <td>TVB翡翠台</td>
 </tr>
 <tr>
-    <td rowspan="8">2006</td>
+    <td rowspan="9">2006</td>
     <td>1月2日</td>
     <td>北京卫视「我的父亲母亲」评选活动颁奖晚会</td>
     <td><a href="https://v.youku.com/v_show/id_XMTE2NzkyMTU2.html" target="_blank" rel="noopener noreferrer">妈妈我爱你</a></td>
@@ -91,10 +98,17 @@ title: 大型晚会典礼
 </tr>
 <tr>
     <td>2月12日</td>
-    <td>广播过大年 蒙牛九连环<br/>活动收官联谊会</td>
+    <td>北京广播电台<br/>广播过大年 蒙牛九连环收官联谊会</td>
     <td><a href="https://v.youku.com/v_show/id_XMTE2MzA5Mzk2.html" target="_blank" rel="noopener noreferrer">哎呀呀</a></td>
     <td></td>
-    <td>北京广播电台</td>
+    <td></td>
+</tr>
+<tr>
+    <td>2月12日</td>
+    <td>河北电视台元宵晚会</td>
+    <td><a href="https://v.youku.com/v_show/id_XNDkxNDE0NA==.html" target="_blank" rel="noopener noreferrer">放假了</a></td>
+    <td></td>
+    <td></td>
 </tr>
 <tr>
     <td>3月25日</td>
@@ -169,7 +183,7 @@ title: 大型晚会典礼
 </tr>
 <tr>
     <td rowspan="2">2008</td>
-    <td>2月11日<br/><sup id="cite_ref-2"><a href="#cite_note-2">[注 2]</a></sup></td>
+    <td>2月11日<sup id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></td>
     <td>电影频道 2008 新春电影音乐会</td>
     <td><a href="https://v.youku.com/v_show/id_XMTA2MDI4NDAw.html" target="_blank" rel="noopener noreferrer">一人一梦</a></td>
     <td></td>
@@ -184,7 +198,7 @@ title: 大型晚会典礼
 </tr>
 <tr>
     <td>2009</td>
-    <td>7月10日<br/><sup id="cite_ref-1-1"><a href="#cite_note-1-1">[注 1]</a></sup></td>
+    <td>7月10日<sup id="cite_ref-1-1"><a href="#cite_note-1-1">[1]</a></sup></td>
     <td>第六届全国德艺双馨电视艺术工作者表彰典礼</td>
     <td><a href="https://www.youtube.com/watch?v=-vTLR4g5iDc" target="_blank" rel="noopener noreferrer">妈妈我爱你</a></td>
     <td></td>
@@ -326,14 +340,14 @@ title: 大型晚会典礼
 <tr>
     <td>9月29日</td>
     <td>电影《我和我的家乡》首映礼</td>
-    <td><a href="https://www.bilibili.com/video/BV1t5411j777" target="_blank" rel="noopener noreferrer">小村之恋</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1Nv411y792" target="_blank" rel="noopener noreferrer">小村之恋</a></td>
     <td></td>
     <td>央视综艺频道</td>
 </tr>
 <tr>
     <td>10月1日</td>
     <td>中央广播电视总台中秋晚会</td>
-    <td><a href="https://www.bilibili.com/video/BV1f54y117y5" target="_blank" rel="noopener noreferrer">异乡人</a><sup id="cite_ref-3"><a href="#cite_note-3">[注 3]</a></sup></td>
+    <td><a href="https://www.bilibili.com/video/BV1f54y117y5" target="_blank" rel="noopener noreferrer">异乡人</a><sup id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></td>
     <td>佟铁鑫</td>
     <td>央视综合频道</td>
 </tr>

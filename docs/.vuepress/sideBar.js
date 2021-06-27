@@ -55,6 +55,7 @@ module.exports = sidebarConfig({
         "cctv", //央视《欢乐中国行》等舞台
       ],
     },
+    "live",
   ],
 
   //影视作品

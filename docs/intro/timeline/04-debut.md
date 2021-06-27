@@ -64,8 +64,8 @@ title: 2004年：超女出道
     <td style="background:#90FF90">晋级</td>
 </tr>
 <tr>
-    <th rowspan="4">唱区决赛<br/><small>（8月23日）</small></th>
-    <th>开场合唱</th>
+    <th rowspan="4">唱区<br/>决赛<br/><small>（8月23日）</small></th>
+    <th>开场秀</th>
     <td>你给我记住</td>
     <td>曹兰</td>
     <td style="font-size:smaller;">不适用</td>
@@ -73,7 +73,7 @@ title: 2004年：超女出道
     <td style="background: #ececec; font-size: smaller; ">不适用</td>
 </tr>
 <tr>
-    <th>五进四</th>
+    <th>5进4</th>
     <td>你的甜蜜</td>
     <td>范晓萱</td>
     <td>65399</td>
@@ -81,7 +81,7 @@ title: 2004年：超女出道
     <td style="background:#90FF90">晋级</td>
 </tr>
 <tr>
-    <th>四进三</th>
+    <th>4进3</th>
     <td>在我生命中的每一天<br/>（与李好合唱）</td>
     <td>成龙、 苏慧伦</td>
     <td>67971</td>
@@ -98,12 +98,10 @@ title: 2004年：超女出道
 </tr>
 <tr>
     <th rowspan="16">全<br/>国<br/>总<br/>决<br/>赛</th>
-    <th rowspan="6">亚军突围战<br/><small>（9月10日）</small><br/>
-        <sup id="cite_ref-1"><a href="#cite_note-1">[注 1]</a></sup>
+    <th rowspan="6">亚军<br/>突围战<sup id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><br/><small>（9月10日）</small>
     </th>
     <th rowspan="2">
-        亚军三进二<br/>
-        <sup id="cite_ref-2"><a href="#cite_note-2">[注 2]</a></sup>
+        亚军3进2<sup id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
     </th>
     <td>说爱你</td>
     <td>蔡依林</td>
@@ -117,14 +115,12 @@ title: 2004年：超女出道
 </tr>
 <tr>
     <th rowspan="2">
-        原音PK<br/>
-        <sup id="cite_ref-3"><a href="#cite_note-3">[注 3]</a></sup>
+        原音PK<sup id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
     </th>
     <td>Dear Friend</td>
     <td>顺子</td>
     <td rowspan="2">
-        54376<br/>
-        <sup id="cite_ref-4-0"><a href="#cite_note-4-0">[注 4]</a></sup>
+        54376<sup id="cite_ref-4-0"><a href="#cite_note-4-0">[4]</a></sup>
     </td>
 <td rowspan="2">1
 </td>
@@ -139,8 +135,7 @@ title: 2004年：超女出道
     <td>雪人</td>
     <td>范晓萱</td>
     <td rowspan="2">
-        10602<br/>
-        <sup id="cite_ref-4-1"><a href="#cite_note-4-1">[注 4]</a></sup>
+        10602<sup id="cite_ref-4-1"><a href="#cite_note-4-1">[4]</a></sup>
     </td>
     <td rowspan="2">1</td>
     <td rowspan="2" style="background:#ececec; font-size:smaller;">不适用</td>
@@ -151,7 +146,7 @@ title: 2004年：超女出道
 </tr>
 <tr>
     <th rowspan="5">五进三<br/><small>（9月17日）</small></th>
-    <th>开场合唱</th>
+    <th>开场秀</th>
     <td>姐妹们的聚会</td>
     <td>范晓萱、大S、阿雅、小S</td>
     <td style="font-size:smaller;">不适用</td>
@@ -160,8 +155,7 @@ title: 2004年：超女出道
 </tr>
 <tr>
     <th>
-        五进四<br/>
-        <sup id="cite_ref-5"><a href="#cite_note-5">[注 5]</a></sup>
+        5进4<sup id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
     </th>
     <td>柠檬树</td>
     <td>傻瓜花园<br/>（中文原唱：苏慧伦）</td>
@@ -171,8 +165,7 @@ title: 2004年：超女出道
 </tr>
 <tr>
     <th>
-        四进三<br/>
-        <sup id="cite_ref-6"><a href="#cite_note-6">[注 6]</a></sup>
+        4进3<sup id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
     </th>
     <td style="font-size:smaller;">不适用</td>
     <td style="font-size:smaller;">不适用</td>
@@ -181,14 +174,13 @@ title: 2004年：超女出道
     <td style="background:#FFD">待定</td>
 </tr>
 <tr>
-    <th>四进三淘汰</th>
+    <th>4进3淘汰</th>
     <td>热情的沙漠</td>
     <td>庾澄庆</td>
     <td style="font-size:smaller;">不适用</td>
     <td style="font-size:smaller;">不适用</td>
     <td style="background:#90FF90">
-        晋级<br/>
-        <sup id="cite_ref-7"><a href="#cite_note-7">[注 7]</a></sup>
+        晋级<sup id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
     </td>
 </tr>
 <tr>
@@ -201,7 +193,7 @@ title: 2004年：超女出道
 </tr>
 <tr>
     <th rowspan="5">总决赛<br/><small>（9月22日）</small></th>
-    <th>开场合唱</th>
+    <th>开场秀</th>
     <td>Super Star</td>
     <td>S.H.E</td>
     <td style="font-size:smaller;">不适用</td>
@@ -211,16 +203,14 @@ title: 2004年：超女出道
 <tr>
     <th>个性秀</th>
     <td>
-        孤单抗体<br/>
-        <sup id="cite_ref-8"><a href="#cite_note-8">[注 8]</a></sup>
+        孤单抗体<sup id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
     </td>
     <td>
         Brown Eyed Girls<br/>
         （中文原唱：许慧欣）
     </td>
     <td>
-        52474<br/>
-        <sup id="cite_ref-4-2"><a href="#cite_note-4-2">[注 4]</a></sup>
+        52474<sup id="cite_ref-4-2"><a href="#cite_note-4-2">[4]</a></sup>
     </td>
     <td>3</td>
     <td style="background:#ececec; font-size:smaller;">不适用</td>
@@ -240,8 +230,7 @@ title: 2004年：超女出道
     <td style="font-size:smaller;">未公布</td>
     <td style="font-size:smaller;">未公布</td>
     <td style="background:#FFD;">
-        待定<br/>
-        <sup id="cite_ref-9"><a href="#cite_note-9">[注 9]</a></sup>
+        待定<sup id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
     </td>
 </tr>
 <tr>
@@ -251,8 +240,7 @@ title: 2004年：超女出道
     <td style="font-size:smaller;">不适用</td>
     <td style="font-size:smaller;">不适用</td>
     <td style="background:#D9A821;">
-        季军<br/>
-        <sup id="cite_ref-10"><a href="#cite_note-10">[注 10]</a></sup>
+        季军<sup id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
     </td>
 </tr>
 </tbody>

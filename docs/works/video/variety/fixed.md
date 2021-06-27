@@ -20,14 +20,14 @@ title: 固定综艺节目
     <td>2004</td>
     <td><a href="https://baike.baidu.com/item/超级女声/2689" target="_blank" rel="noopener noreferrer">超级女声</a></td>
     <td>湖南卫视</td>
-    <td><a href="https://www.mgtv.com/h/54734.html" target="_blank" rel="noopener noreferrer">芒果TV</a><sup id="cite_ref-1"><a href="#cite_note-1">[注 1]</a></sup></td>
+    <td><a href="https://www.mgtv.com/h/54734.html" target="_blank" rel="noopener noreferrer">芒果TV</a><sup id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
     <td>季军</td>
 </tr>
 <tr>
     <td>2010</td>
     <td><a href="https://baike.baidu.com/item/非同凡响/7525553" target="_blank" rel="noopener noreferrer">非同凡响</a></td>
     <td>浙江卫视</td>
-    <td><a href="https://www.youku.com/profile/index/?uid=UMjc5ODk3NTI0" target="_blank" rel="noopener noreferrer">优酷</a><sup id="cite_ref-2"><a href="#cite_note-2">[注 2]</a></sup></td>
+    <td><a href="https://www.youku.com/profile/index/?uid=UMjc5ODk3NTI0" target="_blank" rel="noopener noreferrer">优酷</a><sup id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></td>
     <td>季军</td>
 </tr>
 <tr>

@@ -1,10 +1,13 @@
 ---
 icon: chat-smile
-title: 访谈节目
+title: 采访访谈
 ---
 
 点击表格内链接可查看相应节目视频。
 
+::: center
+**谈话类节目专访**
+::: 
 <table style="text-align:center; font-size:90%; width:100%; display:table">
 <thead>
 <tr>
@@ -17,11 +20,23 @@ title: 访谈节目
 </thead>
 <tbody>
 <tr>
-    <td rowspan="2">2005</td>
+    <td rowspan="4">2005</td>
+    <td>8月28日</td>
+    <td>天府热线</td>
+    <td><a href="https://www.bilibili.com/video/BV1Ub4y1S7hA" target="_blank" rel="noopener noreferrer">张含韵专访</a></td>
+    <td></td>
+</tr>
+<tr>
     <td>8月31日</td>
     <td>湖南卫视</td>
     <td>天下女人</td>
     <td>超女现象</td>
+</tr>
+<tr>
+    <td>9月10日</td>
+    <td>福建电视台综合频道</td>
+    <td><a href="https://www.bilibili.com/video/BV1jy4y177b9" target="_blank" rel="noopener noreferrer">新视觉</a></td>
+    <td>灰姑娘的童话</td>
 </tr>
 <tr>
     <td>10月12日</td>
@@ -30,7 +45,7 @@ title: 访谈节目
     <td>与经纪人</td>
 </tr>
 <tr>
-    <td rowspan="5">2006</td>
+    <td rowspan="6">2006</td>
     <td>1月17日</td>
     <td>央视社会与法频道</td>
     <td>大家说法</td>
@@ -45,7 +60,7 @@ title: 访谈节目
 <tr>
     <td>2月4日</td>
     <td>浙江卫视</td>
-    <td><a href="https://www.bilibili.com/video/BV1PK4y1T7HQ" target="_blank" rel="noopener noreferrer">娱乐天天星：记者耍大牌</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1PK4y1T7HQ" target="_blank" rel="noopener noreferrer">娱乐天天星·记者耍大牌</a></td>
     <td>接受群访</td>
 </tr>
 <tr>
@@ -61,7 +76,13 @@ title: 访谈节目
     <td>张含韵成长日记</td>
 </tr>
 <tr>
-    <td rowspan="3">2007</td>
+    <td>9月26日</td>
+    <td>猫扑</td>
+    <td><a href="https://www.youtube.com/watch?v=rmzwr57jPa8" target="_blank" rel="noopener noreferrer">猫扑访谈</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td rowspan="5">2007</td>
     <td>1月20日</td>
     <td>北京电视台文艺频道</td>
     <td><a href="https://v.youku.com/v_show/id_XMTM1Mjc5MzQ0.html" target="_blank" rel="noopener noreferrer">快乐到家</a></td>
@@ -72,6 +93,18 @@ title: 访谈节目
     <td>天津卫视</td>
     <td><a href="https://www.bilibili.com/video/BV1TK411T7Kg" target="_blank" rel="noopener noreferrer">沟通</a></td>
     <td>讲述从艺之路</td>
+</tr>
+<tr>
+    <td>3月8日</td>
+    <td>TOM网</td>
+    <td><a href="https://www.bilibili.com/video/BV1La4y1E7dV" target="_blank" rel="noopener noreferrer">TOM访谈</a></td>
+    <td>宣传专辑《青春无敌》</td>
+</tr>
+<tr>
+    <td>3月27日</td>
+    <td>网易</td>
+    <td><a href="https://www.bilibili.com/video/BV1hz4y1C7ti" target="_blank" rel="noopener noreferrer">网易聊天室</a></td>
+    <td>宣传专辑《青春无敌》</td>
 </tr>
 <tr>
     <td>5月17日</td>
@@ -87,11 +120,23 @@ title: 访谈节目
     <td>张含韵回家</td>
 </tr>
 <tr>
-    <td>2013</td>
+    <td rowspan="3">2013</td>
+    <td>3月1日</td>
+    <td>央视社会与法频道</td>
+    <td><a href="https://tv.cctv.com/2013/03/02/VIDE1362153967100951.shtml" target="_blank" rel="noopener noreferrer">夜线·本命年</a></td>
+    <td>蛇年特别节目</td>
+</tr>
+<tr>
     <td>7月2日</td>
     <td>北京电视台文艺频道</td>
     <td><a href="https://www.youtube.com/watch?v=EkTOK0Xa7_g" target="_blank" rel="noopener noreferrer">最佳现场</a></td>
     <td>探究张含韵的雪藏之谜</td>
+</tr>
+<tr>
+    <td>7月2日</td>
+    <td>湖南潇湘电影频道</td>
+    <td><a href="https://www.mgtv.com/b/293781/3223581.html" target="_blank" rel="noopener noreferrer">电影大事件</a></td>
+    <td>电影《初恋未满》独家专访</td>
 </tr>
 <tr>
     <td>2015</td>
@@ -125,6 +170,74 @@ title: 访谈节目
     <td>优酷</td>
     <td><a href="https://v.youku.com/v_show/id_XNDc2MDM3MTM4MA==.html" target="_blank" rel="noopener noreferrer">闺蜜好美</a></td>
     <td>与孟佳</td>
+</tr>
+</tbody>
+</table>
+
+
+::: center
+**剧组主演、演出后台采访**
+::: 
+
+<table style="text-align:center; font-size:90%; width:100%; display:table">
+<thead>
+<tr>
+    <th style="background:pink">年份</th>
+    <th style="background:pink">播出日期</th>
+    <th style="background:pink">播放平台</th>
+    <th style="background:pink">采访内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <td>2005</td>
+    <td>5月6日</td>
+    <td></td>
+    <td><a href="https://www.bilibili.com/video/BV1wa4y1E7mb" target="_blank" rel="noopener noreferrer">2005超级女声广州唱区总决赛后台采访</a></td>
+</tr>
+<tr>
+    <td>2010</td>
+    <td>8月18日</td>
+    <td>浙江卫视《非凡十分》</td>
+    <td><a href="https://v.youku.com/v_show/id_XMTk4OTQ5NzYw.html" target="_blank" rel="noopener noreferrer">《非同凡响》选手采访</a></td>
+</tr>
+<tr>
+    <td>2013</td>
+    <td>7月18日</td>
+    <td>央视音乐频道《今乐坛》</td>
+    <td><a href="https://tv.cctv.com/2013/07/18/VIDE1374143592580106.shtml" target="_blank" rel="noopener noreferrer">电影《初恋未满》主演采访</a></td>
+</tr>
+<tr>
+    <td rowspan="3">2016</td>
+    <td>2月26日</td>
+    <td>芒果TV《芒果捞星闻》</td>
+    <td><a href="https://www.mgtv.com/b/101575/2993038.html" target="_blank" rel="noopener noreferrer">2016元宵喜乐会录制采访</a></td>
+</tr>
+<tr>
+    <td>4月11日</td>
+    <td>芒果TV《芒果捞星闻》</td>
+    <td><a href="https://www.mgtv.com/b/101575/3109423.html" target="_blank" rel="noopener noreferrer">2016超级女声《有梦别放下》MV采访</a></td>
+</tr>
+<tr>
+    <td>11月24日</td>
+    <td>芒果TV</td>
+    <td><a href="https://www.mgtv.com/b/52918/3712722.html" target="_blank" rel="noopener noreferrer">电视剧《兰陵王妃》主演采访</a></td>
+</tr>
+<tr>
+    <td rowspan="3">2020</td>
+    <td>1月13日</td>
+    <td>芒果TV《芒果捞星闻》</td>
+    <td><a href="https://www.mgtv.com/b/334758/7425311.html" target="_blank" rel="noopener noreferrer">《声临其境（第三季）》嘉宾采访</a></td>
+</tr>
+<tr>
+    <td>9月15日</td>
+    <td>央视新闻网络直播</td>
+    <td><a href="https://www.bilibili.com/video/BV1a54y1C7eV" target="_blank" rel="noopener noreferrer">中秋晚会录制后采访</a></td>
+</tr>
+<tr>
+    <td>12月20日</td>
+    <td>央视频直播</td>
+    <td><a href="https://www.bilibili.com/video/BV1vf4y1e78n" target="_blank" rel="noopener noreferrer">启航2021跨年盛典探班</a></td>
 </tr>
 </tbody>
 </table>

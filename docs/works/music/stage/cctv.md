@@ -19,7 +19,7 @@ title: 央视《欢乐中国行》等舞台
 <tbody>
 <tr>
     <td rowspan="2">2005</td>
-    <td>8月7日<sup id="cite_ref-1"><a href="#cite_note-1">[注 1]</a></sup></td>
+    <td>8月7日<sup id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
     <td rowspan="5">综艺频道</td>
     <td>欢乐中国行</td>
     <td>魅力锦州</td>
@@ -33,7 +33,7 @@ title: 央视《欢乐中国行》等舞台
 </tr>
 <tr>
     <td rowspan="4">2006</td>
-    <td>4月2日<br>4月9日<sup id="cite_ref-2"><a href="#cite_note-2">[注 2]</a></sup></td>
+    <td>4月2日<br>4月9日<sup id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></td>
     <td rowspan="3">欢乐中国行</td>
     <td>魅力虎门</td>
     <td>酸酸甜甜就是我</td>
@@ -49,11 +49,11 @@ title: 央视《欢乐中国行》等舞台
     <td>妈妈我爱你</td>
 </tr>
 <tr>
-    <td>12月15日<sup id="cite_ref-3"><a href="#cite_note-3">[注 3]</a></sup></td>
+    <td>12月15日<sup id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></td>
     <td>中文国际频道</td>
     <td>中华情</td>
     <td>欢聚中山</td>
-    <td><a href="https://www.bilibili.com/video/BV1ft4y1i7Ze" target="_blank" rel="noopener noreferrer">酸酸甜甜就是我</a><sup id="cite_ref-4"><a href="#cite_note-4">[注 4]</a></sup></td>
+    <td><a href="https://www.bilibili.com/video/BV1ft4y1i7Ze" target="_blank" rel="noopener noreferrer">酸酸甜甜就是我</a><sup id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></td>
 </tr>
 <tr>
     <td rowspan="6">2007</td>
@@ -94,7 +94,7 @@ title: 央视《欢乐中国行》等舞台
     <td>中文国际频道</td>
     <td>中华情</td>
     <td>和谐张家港</td>
-    <td><a href="https://tv.sohu.com/v/cGwvNTA0NDYzOC8xNjk2NjM0OC5zaHRtbA==.html" target="_blank" rel="noopener noreferrer">酸酸甜甜就是我</a>、<a href="https://www.bilibili.com/video/BV1Mz4y1Q7k1" target="_blank" rel="noopener noreferrer">一人一梦</a><sup id="cite_ref-5"><a href="#cite_note-5">[注 5]</a></sup></td>
+    <td><a href="https://tv.sohu.com/v/cGwvNTA0NDYzOC8xNjk2NjM0OC5zaHRtbA==.html" target="_blank" rel="noopener noreferrer">酸酸甜甜就是我</a>、<a href="https://www.bilibili.com/video/BV1Mz4y1Q7k1" target="_blank" rel="noopener noreferrer">一人一梦</a><sup id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></td>
 </tr>
 <tr>
     <td>9月28日</td>
@@ -124,7 +124,7 @@ title: 央视《欢乐中国行》等舞台
     <td>中文国际频道</td>
     <td>中华情</td>
     <td><a href="https://tv.cctv.com/2010/07/20/VIDE1341990009844156.shtml" target="_blank" rel="noopener noreferrer">舞动夏日</a></td>
-    <td><a href="https://www.bilibili.com/video/BV1Cz4y1D7cv" target="_blank" rel="noopener noreferrer">公主的魔法项链</a><sup id="cite_ref-6"><a href="#cite_note-6">[注 6]</a></sup></td>
+    <td><a href="https://www.bilibili.com/video/BV1Cz4y1D7cv" target="_blank" rel="noopener noreferrer">公主的魔法项链</a><sup id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></td>
 </tr>
 <tr>
     <td>6月29日</td>
@@ -137,7 +137,7 @@ title: 央视《欢乐中国行》等舞台
     <td>7月12日</td>
     <td rowspan="3">欢乐中国行</td>
     <td>魅力诸城</td>
-    <td><a href="https://tv.cctv.com/2011/01/11/VIDEu8eKegWlWjEh2LEL2glg110111.shtml" target="_blank" rel="noopener noreferrer">Baby Baby</a><sup id="cite_ref-7"><a href="#cite_note-7">[注 7]</a></sup></td>
+    <td><a href="https://tv.cctv.com/2011/01/11/VIDEu8eKegWlWjEh2LEL2glg110111.shtml" target="_blank" rel="noopener noreferrer">Baby Baby</a><sup id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></td>
 </tr>
 <tr>
     <td>9月27日</td>

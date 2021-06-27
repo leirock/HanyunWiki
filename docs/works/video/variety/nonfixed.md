@@ -17,20 +17,14 @@ title: 非固定综艺节目
 </thead>
 <tbody>
 <tr>
-    <td rowspan="12">2005</td>
-    <td>5月6日</td>
-    <td>广东电视台<br/>珠江频道</td>
-    <td><a href="https://www.mgtv.com/b/295736/3340343.html" target="_blank" rel="noopener noreferrer">2005超级女声广州唱区总决赛</a></td>
-    <td><a href="https://www.bilibili.com/video/BV1rW411D7FB" target="_blank" rel="noopener noreferrer">演唱《想唱就唱》</a></td>
-</tr>
-<tr>
-    <td>7月18日<sup id="cite_ref-1"><a href="#cite_note-1">[注 1]</a></sup></td></td>
+    <td rowspan="11">2005</td>
+    <td>7月18日<sup id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td></td>
     <td>央视体育频道</td>
     <td>天下足球</td>
     <td>拜仁豪门周，演唱《想唱就唱》</td>
 </tr>
 <tr>
-    <td>7月19日<sup id="cite_ref-2-0"><a href="#cite_note-2-0">[注 2]</a></sup></td></td>
+    <td>7月19日<sup id="cite_ref-2-0"><a href="#cite_note-2-0">[2]</a></sup></td></td>
     <td>央视综艺频道</td>
     <td>想挑战吗·动感夏日</td>
     <td></td>
@@ -123,12 +117,12 @@ title: 非固定综艺节目
 <tr>
     <td>12月23日</td>
     <td>陕西卫视</td>
-    <td><a href="https://v.qq.com/x/page/0nYLEowMxgg.html" target="_blank" rel="noopener noreferrer">周六乐翻天</a></td>
-    <td>与赵丽颖、张杰</td>
+    <td>周六乐翻天</td>
+    <td>与赵丽颖、张杰 <a href="https://v.qq.com/x/page/0nYLEowMxgg.html" target="_blank" rel="noopener noreferrer">[片段1]</a> <a href="https://v.youku.com/v_show/id_XMzU5NDM2MTM1Ng==.html" target="_blank" rel="noopener noreferrer">[片段2]</a></td>
 </tr>
 <tr>
     <td rowspan="10">2007</td>
-    <td>2月3日<sup id="cite_ref-2-1"><a href="#cite_note-2-1">[注 2]</a></sup></td>
+    <td>2月3日<sup id="cite_ref-2-1"><a href="#cite_note-2-1">[2]</a></sup></td>
     <td>山东卫视</td>
     <td><a href="https://v.youku.com/v_show/id_XMTEyMTQ3MzI0.html" target="_blank" rel="noopener noreferrer">阳光快车道</a></td>
     <td>魅力红歌会</td>
@@ -249,7 +243,7 @@ title: 非固定综艺节目
     <td>9月27日</td>
     <td>湖南卫视</td>
     <td><a href="https://www.mgtv.com/b/5535/466920.html" target="_blank" rel="noopener noreferrer">2013快乐男声<br/>全国总决赛冠军之夜</a></td>
-    <td><a href="https://www.bilibili.com/video/BV1rb411H7rm" target="_blank" rel="noopener noreferrer">演唱《想唱就唱》</a></td>
+    <td>超级V神团，<a href="https://www.bilibili.com/video/BV1rb411H7rm" target="_blank" rel="noopener noreferrer">超女快男合唱</a></td>
 </tr>
 <tr>
     <td>10月5日</td>
@@ -312,7 +306,7 @@ title: 非固定综艺节目
     <td rowspan="2">2020</td>
     <td>2月23日</td>
     <td>湖南卫视</td>
-    <td><a href="https://www.mgtv.com/b/334728/7594196.html" target="_blank" rel="noopener noreferrer">天天向上</a><sup id="cite_ref-3"><a href="#cite_note-3">[注 3]</a></sup></td></td>
+    <td><a href="https://www.mgtv.com/b/334728/7594196.html" target="_blank" rel="noopener noreferrer">天天向上</a><sup id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></td></td>
     <td><a href="https://www.bilibili.com/video/BV1r7411M7wu" target="_blank" rel="noopener noreferrer">表演《你看起来好像很好吃》配音</a></td>
 </tr>
 <tr>

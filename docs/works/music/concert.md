@@ -16,7 +16,7 @@ title: 专场歌友会
 </thead>
 <tbody>
 <tr>
-    <td rowspan="6">2005</td>
+    <td rowspan="7">2005</td>
     <td>8月27日</td>
     <td>成都电视台经济资讯频道</td>
     <td><a href="https://v.youku.com/v_show/id_XMTI5NjAzNDg0.html" target="_blank" rel="noopener noreferrer">成都歌友会</a></td>
@@ -47,7 +47,12 @@ title: 专场歌友会
     <td><a href="https://www.bilibili.com/video/BV1Uy4y1m7wm" target="_blank" rel="noopener noreferrer">音乐不断歌友会</a></td>
 </tr>
 <tr>
-    <td rowspan="5">2007</td>
+    <td>12月23日</td>
+    <td>搜狐</td>
+    <td><a href="https://www.bilibili.com/video/BV1av411h7xd" target="_blank" rel="noopener noreferrer">《最想念的季节》张含韵圣诞联欢会</a></td>
+</tr>
+<tr>
+    <td rowspan="6">2007</td>
     <td>2月9日</td>
     <td>沈阳电台音乐台</td>
     <td><a href="https://v.youku.com/v_show/id_XOTE0NzM3ODA=.html" target="_blank" rel="noopener noreferrer">沈阳歌友会</a></td>
@@ -58,7 +63,12 @@ title: 专场歌友会
     <td><a href="https://v.youku.com/v_show/id_XOTI2NTAxMDA=.html" target="_blank" rel="noopener noreferrer">天地英雄校园行</a></td>
 </tr>
 <tr>
-    <td>4月24日<sup id="cite_ref-1"><a href="#cite_note-1">[注 1]</a></sup></td>
+    <td>4月29日</td>
+    <td>江苏宜兴市广播电视台</td>
+    <td>宜兴歌友会 <a href="https://v.youku.com/v_show/id_XNTQ2MTg2MDA=.html" target="_blank" rel="noopener noreferrer">[a]</a> <a href="https://v.youku.com/v_show/id_XNTQ2MTkxNjg=.html" target="_blank" rel="noopener noreferrer">[b]</a> <a href="https://v.youku.com/v_show/id_XNTQ2MTk4MTI=.html" target="_blank" rel="noopener noreferrer">[c]</a> <a href="https://v.youku.com/v_show/id_XNTQ2MjA0Njg=.html" target="_blank" rel="noopener noreferrer">[d]</a></td>
+</tr>
+<tr>
+    <td>4月24日<sup id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
     <td>河南卫视</td>
     <td><a href="https://v.youku.com/v_show/id_XMTEyMTU2MjAw.html" target="_blank" rel="noopener noreferrer">星登陆</a></td>
 </tr>
@@ -70,7 +80,13 @@ title: 专场歌友会
 <tr>
     <td>12月8日</td>
     <td>东南卫视</td>
-    <td><a href="https://www.bilibili.com/video/BV1Ct4y1S7Vw/" target="_blank" rel="noopener noreferrer">搜狐歌会</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1Ct4y1S7Vw" target="_blank" rel="noopener noreferrer">搜狐歌会</a></td>
+</tr>
+<tr>
+    <td>2009</td>
+    <td>10月31日</td>
+    <td>海南三亚学院</td>
+    <td><a href="https://v.youku.com/v_show/id_XMTQyMjc4Nzgw.html" target="_blank" rel="noopener noreferrer">「国家-爱-用音乐祝福祖国」张含韵歌友会</a></td>
 </tr>
 </tbody>
 </table>
