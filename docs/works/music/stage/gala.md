@@ -392,7 +392,7 @@ title: 大型晚会典礼
     <td>央视综合频道</td>
 </tr>
 <tr>
-    <td rowspan="5">2021</td>
+    <td rowspan="6">2021</td>
     <td>1月24日</td>
     <td>2020王者荣耀年度颁奖典礼</td>
     <td><a href="https://www.bilibili.com/video/BV1ut4y167oJ" target="_blank" rel="noopener noreferrer">你我皆王者</a></td>
@@ -426,6 +426,13 @@ title: 大型晚会典礼
     <td><a href="https://www.bilibili.com/video/BV1th411D7XA" target="_blank" rel="noopener noreferrer">我们都是追梦人</a></td>
     <td>朱正廷</td>
     <td>央视综艺频道</td>
+</tr>
+<tr>
+    <td>4月16日</td>
+    <td>乘风破浪的姐姐（第二季）成团夜</td>
+    <td><a href="https://www.bilibili.com/video/BV1iK4y1m7PS" target="_blank" rel="noopener noreferrer">大碗宽面</a></td>
+    <td>郁可唯、孟佳、李斯丹妮、沈梦辰、金晨</td>
+    <td>唱跳舞台</td>
 </tr>
 </tbody>
 </table>

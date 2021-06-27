@@ -316,7 +316,7 @@ title: 非固定综艺节目
     <td>《赤狐书生》剧组</td>
 </tr>
 <tr>
-    <td rowspan="10">2021</td>
+    <td rowspan="9">2021</td>
     <td>1月8日</td>
     <td>湖南卫视</td>
     <td><a href="https://www.mgtv.com/b/348499/10832150.html" target="_blank" rel="noopener noreferrer">姐姐的爱乐之程 第10期</a></td>
@@ -345,12 +345,6 @@ title: 非固定综艺节目
     <td>芒果TV</td>
     <td><a href="https://www.mgtv.com/b/365824/11689662.html" target="_blank" rel="noopener noreferrer">杠上姐妹花</a></td>
     <td>特别篇：姐姐成团夜麻将局</td>
-</tr>
-<tr>
-    <td>4月16日</td>
-    <td>芒果TV</td>
-    <td><a href="https://www.mgtv.com/b/354045/11694968.html" target="_blank" rel="noopener noreferrer">乘风破浪的姐姐 第二季<br/>成团之夜</a></td>
-    <td><a href="https://www.bilibili.com/video/BV1iK4y1m7PS" target="_blank" rel="noopener noreferrer">唱跳表演《大碗宽面》</a></td>
 </tr>
 <tr>
     <td>4月30日</td>
