@@ -113,6 +113,13 @@ title: 采访访谈
     <td>宣传专辑《青春无敌》</td>
 </tr>
 <tr>
+    <td>2008</td>
+    <td>2月26日</td>
+    <td>搜狐娱乐播报</td>
+    <td><a href="http://music.yule.sohu.com/20080226/n255370914.shtml" target="_blank" rel="noopener noreferrer">明星在线</a></td>
+    <td>讲述演艺经历</td>
+</tr>
+<tr>
     <td>2011</td>
     <td>4月15日</td>
     <td>四川德阳电视台</td>

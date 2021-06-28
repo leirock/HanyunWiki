@@ -21,8 +21,6 @@ title: 著作权信息
 
 其他类型作品（包括但不限于图片、本站项目代码、图标等）著作权归原作者所有，如有作者授权则遵照授权协议使用。无作者授权协议情况下，以评论，报道为目的，遵照 [《中华人民共和国著作权法》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNDc2NmJhYjE1NTc%3D)第二十四条、[《信息网络传播权保护条例》](https://flk.npc.gov.cn/detail.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTM5OTJiMjFkYjk%3D)第六条「合理使用」原则使用，标注来源。
 
-作为用户提供内容的百科类站点，含韵百科遵守[《信息网络传播权保护条例》](https://flk.npc.gov.cn/detail.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTM5OTJiMjFkYjk%3D)第十四至十七条「避风港」原则，在正式收到著作权权利人删除内容通知书后，24小时内删除侵权内容。
-
 ## 文本内容许可协议
 
 ### 知识共享 署名-相同方式共享 协议
