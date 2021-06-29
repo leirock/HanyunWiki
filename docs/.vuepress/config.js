@@ -38,7 +38,7 @@ module.exports = config({
     sidebar: sideBarConfig,
 
     //当前网站部署到的域名
-    hostname: "https://zhy.dlzhang.com",
+    hostname: "https://www.hanyunzhang.com",
 
     //导航栏的 logo 图片，需填入绝对路径并放入`.vuepress/public`文件夹。
     //黑暗模式 logo 需配置 darkLogo
