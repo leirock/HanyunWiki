@@ -17,9 +17,13 @@ title: 关于本站
 
 ## 运行维护
 
-含韵百科依托 [Vuepress](https://vuepress-theme-hope.github.io/zh) 创建，本站项目代码托管于 [GitHub](https://github.com/lei2rock/HanyunWiki)，由 GitHub Actions 构建后部署在位于中国香港的服务器上。
+含韵百科当前由站长 [Lei2Rock](https://dlzhang.com)（微博：[@醉里挑灯赏猫](https://weibo.com/7216640993)）进行维护，依托 [Vuepress](https://vuepress-theme-hope.github.io/zh) 创建，项目代码托管于 [GitHub](https://github.com/lei2rock/HanyunWiki)，部署在位于中国香港的服务器上。
 
-含韵百科当前由站长 [Lei2Rock](https://dlzhang.com)（微博：[@醉里挑灯赏猫](https://weibo.com/7216640993)）进行维护。同时，含韵百科欢迎其他张含韵支持者参与本站的管理维护。
+含韵百科运行维护遵循以下方针：
+
+1. 行文撰写尽量客观，确需使用主观判断性词汇的，尽量补充相应的媒体报道；
+1. 参考资料来源以纸质出版物、正规媒体在线报道、大型新闻网站报道为主，尽量不采用自媒体文章；
+1. 商务演出、网络个人直播、抖音视频等行程或动态如无特殊情况，暂不收录。
 
 ## 资金
 
