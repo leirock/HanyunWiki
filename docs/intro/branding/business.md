@@ -107,6 +107,12 @@ title: 商业代言
     <td></td>
 </tr>
 <tr>
+    <td>2016</td>
+    <td>手机游戏《贝特农场》</td>
+    <td><a href="https://m.weibo.cn/status/3983770929668060" target="_blank" rel="noopener noreferrer">代言人</a></td>
+    <td></td>
+</tr>
+<tr>
     <td>2018</td>
     <td>金嘉福珠宝</td>
     <td><a href="http://www.kingkaifook.com/news/53.html" target="_blank" rel="noopener noreferrer">品牌形象代言人</a></td>
