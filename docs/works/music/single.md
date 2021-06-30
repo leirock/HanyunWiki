@@ -159,7 +159,7 @@ title: 录音室单曲
     <td></td>
 </tr>
 <tr>
-    <td rowspan="4">2021</td>
+    <td rowspan="5">2021</td>
     <td>1月18日</td>
     <td>逛</td>
     <td>单曲</td>
@@ -185,6 +185,13 @@ title: 录音室单曲
     <td>天街小雨</td>
     <td>央视《经典咏流传》第四季演唱</td>
     <td>常静（古筝）</td>
+    <td></td>
+</tr>
+<tr>
+    <td>7月10日</td>
+    <td>极速战姬</td>
+    <td>手游《QQ飞车》机甲主题曲</td>
+    <td></td>
     <td></td>
 </tr>
 </tbody>

@@ -175,7 +175,12 @@ title: 商业代言
     <td></td>
 </tr>
 <tr>
-    <td rowspan="3">2021</td>
+    <td rowspan="5">2021</td>
+    <td>手机游戏《王者荣耀》</td>
+    <td><a href="https://weibo.com/6479255096/JDLrvoQYX" target="_blank" rel="noopener noreferrer">微视电竞星战队</a></td>
+    <td></td>
+</tr>
+<tr>
     <td>NBA 中国</td>
     <td><a href="https://nbachina.qq.com/a/20210205/006168.htm" target="_blank" rel="noopener noreferrer">新春观赛星</a></td>
     <td>至2021年</td>
@@ -189,6 +194,11 @@ title: 商业代言
     <td>汤臣倍健 Yep</td>
     <td><a href="https://www.prnasia.com/story/313822-1.shtml" target="_blank" rel="noopener noreferrer">玩美形象大使</a></td>
     <td>至今</td>
+</tr>
+<tr>
+    <td>手机游戏《QQ飞车》</td>
+    <td><a href="https://weibo.com/6444402026/KkVJxoBJH" target="_blank" rel="noopener noreferrer">元气赛车手</a></td>
+    <td></td>
 </tr>
 </tbody>
 </table>
