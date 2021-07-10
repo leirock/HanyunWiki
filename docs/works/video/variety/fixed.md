@@ -3,7 +3,7 @@ icon: creative
 title: 固定综艺节目
 ---
 
-点击综艺节目名称可查看该节目在百度百科中的相关介绍。
+以常驻嘉宾、参赛选手等身份参与的综艺节目，点击综艺节目名称可查看该节目在百度百科中的相关介绍。
 
 <table style="text-align:center; font-size:90%; width:100%; display:table">
 <thead>
@@ -11,7 +11,7 @@ title: 固定综艺节目
     <th style="background:pink">年份</th>
     <th style="background:pink">节目</th>
     <th style="background:pink">首播平台</th>
-    <th style="background:pink">在线观看</th>
+    <th style="background:pink">观看</th>
     <th style="background:pink">备注</th>
 </tr>
 </thead>

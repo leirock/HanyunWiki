@@ -3,7 +3,7 @@ icon: star
 title: 经典现场
 ---
 
-点击表格内链接可查看相应现场表演视频。
+歌唱表演中的代表性现场汇总，点击表格内链接可查看相应现场表演视频。
 
 <table style="text-align:center; font-size:90%; width:100%; display:table">
 <thead>

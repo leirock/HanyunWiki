@@ -3,7 +3,7 @@ icon: disc
 title: 录音室单曲
 ---
 
-未收录在个人专辑里的录音室单曲，原唱、翻唱均列入。
+正式发行但是未收录于张含韵个人专辑里的录音室单曲，原唱、翻唱单曲均列入，以影视剧的原声带歌曲为主。
 
 <table style="text-align:center; font-size:90%; width:100%; display:table">
 <thead>

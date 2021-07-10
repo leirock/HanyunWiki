@@ -6,7 +6,7 @@ title: 短片作品
 点击表格内链接可查看相应短片视频。
 
 ::: center
-**经典商业广告片**
+**表一 经典商业广告片**
 :::
 <table style="text-align:center; font-size:90%; width:100%; display:table">
 <thead>
@@ -40,7 +40,7 @@ title: 短片作品
 
 
 ::: center
-**除为个人专辑、单曲、商业广告之外拍摄的短片**
+**表二 除为专辑、单曲、商业广告外拍摄的短片**
 :::
 <table style="text-align:center; font-size:90%; width:100%; display:table">
 <thead>

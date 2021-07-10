@@ -19,7 +19,7 @@ title: 报刊杂志
     <td rowspan="5">2005</td>
     <td>7月29日</td>
     <td>OK！</td>
-    <td>封底/专访</td>
+    <td>封底专访</td>
 </tr>
 <tr>
     <td>8月上半月 第15期</td>

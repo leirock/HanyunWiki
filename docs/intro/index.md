@@ -78,7 +78,7 @@ title: 认识含韵
 <tr>
     <th>出道作品</th>
     <td>
-        专辑《<a href="/works/music/album/album2/">我很张含韵</a>》<br/>
+        歌曲《酸酸甜甜就是我》、专辑《<a href="/works/music/album/album2/">我很张含韵</a>》<br/>
         <small>（歌手身份）</small><br/>
         电视剧《浪击天涯》<br/>
         <small>（演员身份）</small>
@@ -96,7 +96,7 @@ title: 认识含韵
             《新萧十一郎》<br/>
         <b>综艺</b>：<br/>
             《2004年超级女声》<br/>
-            《乘风破浪的姐姐 (第一季)》<br/>
+            《乘风破浪的姐姐（第一季）》<br/>
     </td>
 </tr>
 <tr>

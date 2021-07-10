@@ -6,7 +6,7 @@ title: 采访访谈
 点击表格内链接可查看相应节目视频。
 
 ::: center
-**谈话类节目专访**
+**表一 谈话类节目**
 ::: 
 <table style="text-align:center; font-size:90%; width:100%; display:table">
 <thead>
@@ -183,7 +183,7 @@ title: 采访访谈
 
 
 ::: center
-**剧组主演、演出后台采访**
+**表二 剧组演员、表演后台采访**
 ::: 
 
 <table style="text-align:center; font-size:90%; width:100%; display:table">

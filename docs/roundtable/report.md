@@ -17,7 +17,7 @@ title: 报道
 
 - 刘磊：[张含韵“隐匿”归来：有梦别放下](http://www.dooland.com/magazine/article_874577.html) - 恋爱婚姻家庭，2016年第7期
 
-- [张含韵15岁出道 消失那些年尝尽人间心酸](http://ent.cri.cn/20161206/c01db221-c2fa-fb53-51ba-b0f7edeb3c73-2.html) - 中国青年报，2016年12月6日
+- [张含韵15岁出道 消失那些年尝尽人间心酸](http://ent.cri.cn/20161206/c01db221-c2fa-fb53-51ba-b0f7edeb3c73.html) - 中国青年报，2016年12月6日
 
 - 徐绍娜：[张含韵：节目给了我一套复活甲](http://wap.ycwb.com/2020-04/10/content_752526.htm) - 新快报，2020年4月10日
 

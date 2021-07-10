@@ -3,7 +3,7 @@ icon: creative
 title: 非固定综艺节目
 ---
 
-点击表格内链接可查看相应节目或表演的视频。
+以飞行（临时）嘉宾身份参与的综艺节目，点击表格内链接可查看相应节目或表演的视频。
 
 <table style="text-align:center; font-size:90%; width:100%; display:table">
 <thead>

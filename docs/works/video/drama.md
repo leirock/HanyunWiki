@@ -11,7 +11,7 @@ title: 电视剧
     <th style="background:pink">首播年份</th>
     <th style="background:pink">电视剧</th>
     <th style="background:pink">首播平台</th>
-    <th style="background:pink">在线观看</th>
+    <th style="background:pink">观看</th>
     <th style="background:pink">角色</th>
     <th style="background:pink">备注</th>
 </tr>
