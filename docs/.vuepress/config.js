@@ -10,7 +10,7 @@ module.exports = config({
 
   head: [
     //百度搜索资源平台站点验证
-    ["meta", { name: "baidu-site-verification", content: "code-ZsY85vcVxP"}],
+    ["meta", { name: "baidu-site-verification", content: "code-Ak6ceO0rve"}],
     //谷歌分析代码
     ["script", { async: "", src: "https://www.googletagmanager.com/gtag/js?id=UA-141207776-2"}],
     ["script", { src: "/assets/js/gtag.js"}],
