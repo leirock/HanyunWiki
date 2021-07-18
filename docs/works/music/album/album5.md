@@ -35,7 +35,7 @@ title: 专辑：青春无敌
     <td>萧萧</td>
     <td>林从胤</td>
     <td>林从胤</td>
-    <td>李丰博@pple</td>
+    <td>李丰博 @pple</td>
     <td>第一主打歌</td>
     <td>3:52</td>
 </tr>
@@ -105,7 +105,7 @@ title: 专辑：青春无敌
     <td>何厚华</td>
     <td>殷文琦</td>
     <td>殷文琦</td>
-    <td>李丰博@pple</td>
+    <td>李丰博 @pple</td>
     <td></td>
     <td>4:08</td>
 </tr>

@@ -27,7 +27,7 @@ title: 专辑：一人一梦
     <td>陈少琪</td>
     <td>金培达</td>
     <td>金培达、褚镇东</td>
-    <td></td>
+    <td>李志伦 Jacky@ConceptX</td>
     <td>《宝葫芦的秘密》主题曲</td>
     <td>3:29</td>
 </tr>
@@ -37,7 +37,7 @@ title: 专辑：一人一梦
     <td>萧萧</td>
     <td>林从胤</td>
     <td>林从胤</td>
-    <td>李丰博@pple</td>
+    <td>李丰博 @pple</td>
     <td></td>
     <td>3:52</td>
 </tr>
@@ -107,7 +107,7 @@ title: 专辑：一人一梦
     <td>何厚华</td>
     <td>殷文琦</td>
     <td>殷文琦</td>
-    <td>李丰博@pple</td>
+    <td>李丰博 @pple</td>
     <td></td>
     <td>4:08</td>
 </tr>

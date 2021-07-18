@@ -39,7 +39,7 @@ title: 专辑
 </tr>
 <tr>
     <td>4</td>
-    <td><a href="album4/">Baby Zhang（香港特別版）</a></td>
+    <td><a href="album4/">Baby Zhang 張含韻</a></td>
     <td>同名专辑</td>
     <td>天中文化</td>
     <td>2006年4月19日</td>
