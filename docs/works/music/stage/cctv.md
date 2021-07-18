@@ -1,6 +1,6 @@
 ---
 icon: creative
-title: 央视《欢乐中国行》等舞台
+title: 央视户外歌会节目
 ---
 
 参加中央电视台《[欢乐中国行](https://baike.baidu.com/item/欢乐中国行)》、《[中华情](https://baike.baidu.com/item/中华情/5456307)》等系列户外歌会节目的表演，点击表格内链接可查看相应舞台表演视频。

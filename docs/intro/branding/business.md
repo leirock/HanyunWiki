@@ -113,6 +113,12 @@ title: 商业代言
     <td></td>
 </tr>
 <tr>
+    <td>2017</td>
+    <td>网页游戏《七绝》</td>
+    <td><a href="http://game.people.com.cn/n1/2017/0724/c218877-29425116.html" target="_blank" rel="noopener noreferrer">代言人</a></td>
+    <td></td>
+</tr>
+<tr>
     <td>2018</td>
     <td>金嘉福珠宝</td>
     <td><a href="http://www.kingkaifook.com/news/53.html" target="_blank" rel="noopener noreferrer">品牌形象代言人</a></td>

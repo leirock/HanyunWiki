@@ -16,7 +16,7 @@ title: 报刊杂志
 </thead>
 <tbody>
 <tr>
-    <td rowspan="5">2005</td>
+    <td rowspan="6">2005</td>
     <td>7月29日</td>
     <td>OK！</td>
     <td>封底专访</td>
@@ -41,7 +41,21 @@ title: 报刊杂志
     <td>封底</td>
 </tr>
 <tr>
-    <td rowspan="6">2006</td>
+    <td>769期</td>
+    <td>Yes!<sup id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
+    <td rowspan="2">封面</td>
+</tr>
+<tr>
+    <td rowspan="7">2006</td>
+    <td>774期、782期、798期</td>
+    <td>Yes!</td>
+</tr>
+<tr>
+    <td>781期、792期</td>
+    <td>Yes!</td>
+    <td>内页</td>
+</tr>
+<tr>
     <td>2月</td>
     <td>爱情故事</td>
     <td rowspan="2">封面</td>
@@ -58,15 +72,11 @@ title: 报刊杂志
 <tr>
     <td>8月</td>
     <td>声屏花</td>
-    <td rowspan="4">封面</td>
+    <td rowspan="3">封面</td>
 </tr>
 <tr>
     <td>12月</td>
     <td>娱乐周刊</td>
-</tr>
-<tr>
-    <td>774期、798期</td>
-    <td>Yes!（香港杂志）</td>
 </tr>
 <tr>
     <td rowspan="4">2007</td>
@@ -244,3 +254,8 @@ title: 报刊杂志
 </tr>
 </tbody>
 </table>
+
+<small>
+<b>注释：</b><br/>
+1. <sup id="cite_note-1"><a href="#cite_ref-1">^</a></sup> 《Yes!》为香港出版发行的娱乐杂志。
+</small>

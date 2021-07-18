@@ -52,7 +52,7 @@ module.exports = sidebarConfig({
       collapsable: false,
       children: [
         "gala", //大型晚会典礼
-        "cctv", //央视《欢乐中国行》等舞台
+        "cctv", //央视户外歌会节目
       ],
     },
     "live",
