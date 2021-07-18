@@ -27,7 +27,7 @@ title: 关于本站
 
 ## 资金
 
-含韵百科是一项非营利性计划，运营主要支出为域名和服务器的租赁费用。如果您觉得本站有所助益，欢迎您通过[<font color=#946ce6><i class="fas fa-fw fa-bolt"></i>爱发电</font>](https://afdian.net/@lei2rock) 或者[<font color=#0070ba><i class="fab fa-fw fa-paypal"></i>Paypal</font>](https://paypal.me/lei2rock)支持站长的日常维护。
+含韵百科是一项非营利性计划，运营主要支出为域名和服务器的租赁费用。如果您觉得本站有所助益，欢迎您通过 [<font color=#946ce6><i class="fas fa-fw fa-bolt"></i>爱发电</font>](https://afdian.net/@lei2rock) 或者 [<font color=#0070ba><i class="fab fa-fw fa-paypal"></i>Paypal</font>](https://paypal.me/lei2rock) 支持站长的日常维护。
 
 除接受以上两种方式的资金支持外，本站不会以任何其他形式接受或募集资金、物资。
 
