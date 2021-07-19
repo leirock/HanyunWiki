@@ -31,7 +31,7 @@ title: 专辑：我很张含韵
     <td>仓雁彬</td>
     <td>叶少琥 ziv</td>
     <td>第一主打歌</td>
-    <td>4:08</td>
+    <td>4:03</td>
 </tr>
 <tr>
     <td>2</td>
@@ -40,7 +40,7 @@ title: 专辑：我很张含韵
     <td>吴梦奇</td>
     <td></td>
     <td></td>
-    <td>3:09</td>
+    <td>3:06</td>
 </tr>
 <tr>
     <td>3</td>
@@ -49,7 +49,7 @@ title: 专辑：我很张含韵
     <td>仓雁彬</td>
     <td></td>
     <td></td>
-    <td>3:59</td>
+    <td>3:56</td>
 </tr>
 <tr>
     <td>4</td>
@@ -58,7 +58,7 @@ title: 专辑：我很张含韵
     <td>吴梦奇</td>
     <td></td>
     <td>与张赫合唱</td>
-    <td>3:18</td>
+    <td>3:15</td>
 </tr>
 <tr>
     <td>5</td>
@@ -67,7 +67,7 @@ title: 专辑：我很张含韵
     <td>张艺</td>
     <td></td>
     <td></td>
-    <td>3:53</td>
+    <td>3:50</td>
 </tr>
 <tr>
     <td>6</td>
@@ -76,7 +76,7 @@ title: 专辑：我很张含韵
     <td>仓雁彬</td>
     <td>叶少琥 ziv</td>
     <td></td>
-    <td>4:01</td>
+    <td>3:58</td>
 </tr>
 <tr>
     <td>7</td>
@@ -85,7 +85,7 @@ title: 专辑：我很张含韵
     <td>曹方</td>
     <td></td>
     <td></td>
-    <td>4:01</td>
+    <td>3:57</td>
 </tr>
 <tr>
     <td>8</td>
@@ -94,7 +94,7 @@ title: 专辑：我很张含韵
     <td>方解</td>
     <td></td>
     <td>蒙牛酸酸乳2005年度广告曲</td>
-    <td>3:39</td>
+    <td>3:36</td>
 </tr>
 <tr>
     <td>9</td>
@@ -103,7 +103,7 @@ title: 专辑：我很张含韵
     <td>夏费思</td>
     <td></td>
     <td></td>
-    <td>3:54</td>
+    <td>3:51</td>
 </tr>
 <tr>
     <td>10</td>
@@ -112,7 +112,7 @@ title: 专辑：我很张含韵
     <td>陈超</td>
     <td></td>
     <td>2005年《超级女声》主题曲</td>
-    <td>3:58</td>
+    <td>3:55</td>
 </tr>
 </tbody>
 </table>
