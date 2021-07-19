@@ -8,12 +8,12 @@ title: 短片作品
 ::: center
 **表一 经典商业广告片**
 :::
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">年份</th>
-    <th style="background:pink">品牌</th>
-    <th style="background:pink">备注</th>
+    <th>年份</th>
+    <th>品牌</th>
+    <th>备注</th>
 </tr>
 </thead>
 <tbody>
@@ -42,13 +42,13 @@ title: 短片作品
 ::: center
 **表二 除为专辑、单曲、商业广告外拍摄的短片**
 :::
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">年份</th>
-    <th style="background:pink">短片</th>
-    <th style="background:pink">角色</th>
-    <th style="background:pink">备注</th>
+    <th>年份</th>
+    <th>短片</th>
+    <th>角色</th>
+    <th>备注</th>
 </tr>
 </thead>
 <tbody>

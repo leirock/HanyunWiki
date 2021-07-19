@@ -5,15 +5,15 @@ title: 大型晚会典礼
 
 在大型晚会、典礼、音乐节等舞台的表演，点击表格内链接可查看相应舞台表演视频。
 
-<table style="text-align:center; font-size:84%; width:100%; display:table">
+<table style="font-size:84%;">
 <thead>
 <tr>
-    <th style="background:pink; width:7%">年份</th>
-    <th style="background:pink; width:11%">播出日期</th>
-    <th style="background:pink; width:30%">舞台</th>
-    <th style="background:pink; width:22%">歌曲</th>
-    <th style="background:pink">合作者</th>
-    <th style="background:pink; width:14%">备注</th>
+    <th style="width:7%">年份</th>
+    <th style="width:11%">播出日期</th>
+    <th style="width:30%">舞台</th>
+    <th style="width:22%">歌曲</th>
+    <th>合作者</th>
+    <th style="width:14%">备注</th>
 </tr>
 </thead>
 <tbody>
@@ -42,7 +42,7 @@ title: 大型晚会典礼
 <tr>
     <td>8月19日</td>
     <td>首届中韩电子竞技大赛开幕式</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTE2OTEyMzIw.html" target="_blank" rel="noopener noreferrer">放假了</a>、<a href="https://v.youku.com/v_show/id_XMTE2OTEyMDY4.html" target="_blank" rel="noopener noreferrer">想唱就唱</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTE2OTEyMzIw" target="_blank" rel="noopener noreferrer">放假了</a>、<a href="https://v.youku.com/v_show/id_XMTE2OTEyMDY4" target="_blank" rel="noopener noreferrer">想唱就唱</a></td>
     <td></td>
     <td></td>
 </tr>
@@ -77,7 +77,7 @@ title: 大型晚会典礼
 <tr>
     <td>12月31日</td>
     <td>香港时代广场<br/>跨年倒计时演唱会</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTE1NTI0NjM2.html" target="_blank" rel="noopener noreferrer">最想念的季节</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTE1NTI0NjM2" target="_blank" rel="noopener noreferrer">最想念的季节</a></td>
     <td></td>
     <td>TVB翡翠台</td>
 </tr>
@@ -85,7 +85,7 @@ title: 大型晚会典礼
     <td rowspan="9">2006</td>
     <td>1月2日</td>
     <td>北京卫视「我的父亲母亲」评选活动颁奖晚会</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTE2NzkyMTU2.html" target="_blank" rel="noopener noreferrer">妈妈我爱你</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTE2NzkyMTU2" target="_blank" rel="noopener noreferrer">妈妈我爱你</a></td>
     <td></td>
     <td></td>
 </tr>
@@ -99,21 +99,21 @@ title: 大型晚会典礼
 <tr>
     <td>2月12日</td>
     <td>北京广播电台<br/>广播过大年 蒙牛九连环收官联谊会</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTE2MzA5Mzk2.html" target="_blank" rel="noopener noreferrer">哎呀呀</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTE2MzA5Mzk2" target="_blank" rel="noopener noreferrer">哎呀呀</a></td>
     <td></td>
     <td></td>
 </tr>
 <tr>
     <td>2月12日</td>
     <td>河北电视台元宵晚会</td>
-    <td><a href="https://v.youku.com/v_show/id_XNDkxNDE0NA==.html" target="_blank" rel="noopener noreferrer">放假了</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XNDkxNDE0NA" target="_blank" rel="noopener noreferrer">放假了</a></td>
     <td></td>
     <td></td>
 </tr>
 <tr>
     <td>3月25日</td>
     <td>第十三届东方风云榜颁奖典礼</td>
-    <td><a href="https://v.youku.com/v_show/id_XMjgzNDU5NzA4.html" target="_blank" rel="noopener noreferrer">轻轻地告诉你</a>、<a href="https://www.bilibili.com/video/BV1W5411h7Mw" target="_blank" rel="noopener noreferrer">放假了</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMjgzNDU5NzA4" target="_blank" rel="noopener noreferrer">轻轻地告诉你</a>、<a href="https://www.bilibili.com/video/BV1W5411h7Mw" target="_blank" rel="noopener noreferrer">放假了</a></td>
     <td></td>
     <td>上海大舞台<br/>东方卫视</td>
 </tr>
@@ -134,7 +134,7 @@ title: 大型晚会典礼
 <tr>
     <td>8月27日</td>
     <td>太阳计划2006橙色南区太阳夜</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTE1NTIwOTk2.html" target="_blank" rel="noopener noreferrer">想唱就唱</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTE1NTIwOTk2" target="_blank" rel="noopener noreferrer">想唱就唱</a></td>
     <td></td>
     <td>香港仔运动场<br/>香港电台</td>
 </tr>
@@ -149,50 +149,50 @@ title: 大型晚会典礼
     <td rowspan="5">2007</td>
     <td>1月14日</td>
     <td>第一届无线音乐颁奖盛典</td>
-    <td>希望<br/>（<a href="https://v.youku.com/v_show/id_XNTI5NTE1Ng==.html" target="_blank" rel="noopener noreferrer">优酷</a>、<a href="https://weibo.com/7476304007/JdaoJq2Ak" target="_blank" rel="noopener noreferrer">微博</a>）</td>
+    <td>希望（<a href="https://v.youku.com/v_show/id_XNTI5NTE1Ng" target="_blank" rel="noopener noreferrer">优酷</a>、<a href="https://weibo.com/7476304007/JdaoJq2Ak" target="_blank" rel="noopener noreferrer">微博</a>）</td>
     <td></td>
-    <td>《大长今》主题曲</td>
+    <td>大长今主题曲</td>
 </tr>
 <tr>
     <td>3月4日</td>
     <td>M.MUSIC 无限音乐俱乐部红白歌会</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTE1NTI4MTI4.html" target="_blank" rel="noopener noreferrer">星星的眼睛</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTE1NTI4MTI4" target="_blank" rel="noopener noreferrer">星星的眼睛</a></td>
     <td></td>
     <td>山东卫视</td>
 </tr>
 <tr>
     <td>5月2日</td>
     <td>中国歌曲排行榜红五月歌会</td>
-    <td><a href="https://www.bilibili.com/video/BV1qb411N7VR" target="_blank" rel="noopener noreferrer">北鼻与底儿</a>、<a href="https://v.youku.com/v_show/id_XMTE2MDgxNjEy.html" target="_blank" rel="noopener noreferrer">公主的魔法项链、星星的眼睛、Baby Baby</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1qb411N7VR" target="_blank" rel="noopener noreferrer">北鼻与底儿</a>、<a href="https://v.youku.com/v_show/id_XMTE2MDgxNjEy" target="_blank" rel="noopener noreferrer">公主的魔法项链、星星的眼睛、Baby Baby</a></td>
     <td>张睿</td>
     <td>北京朝阳公园</td>
 </tr>
 <tr>
     <td>5月4日</td>
     <td>北京朝阳流行音乐节</td>
-    <td>妈妈我爱你、<a href="https://v.youku.com/v_show/id_XMjc4MzMzNDI4" target="_blank" rel="noopener noreferrer">青春无敌</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMjc4MzQzNjQ0" target="_blank" rel="noopener noreferrer">妈妈我爱你</a>、<a href="https://v.youku.com/v_show/id_XMjc4MzMzNDI4" target="_blank" rel="noopener noreferrer">青春无敌</a></td>
     <td></td>
     <td>北京朝阳公园</td>
 </tr>
 <tr>
     <td>6月9日</td>
     <td>央视少儿频道晚会</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTE1MjYwMzAw.html" target="_blank" rel="noopener noreferrer">放假了</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTE1MjYwMzAw" target="_blank" rel="noopener noreferrer">放假了</a></td>
     <td></td>
-    <td></td>
+    <td>晚会名称待查</td>
 </tr>
 <tr>
     <td rowspan="2">2008</td>
     <td>2月11日<sup id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></td>
     <td>电影频道 2008 新春电影音乐会</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTA2MDI4NDAw.html" target="_blank" rel="noopener noreferrer">一人一梦</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTA2MDI4NDAw" target="_blank" rel="noopener noreferrer">一人一梦</a></td>
     <td></td>
     <td>梅兰芳大剧院</td>
 </tr>
 <tr>
     <td>5月17日</td>
     <td>「为了灾区的孩子」<br/>海南省抗震救灾义演募捐晚会</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTEwMjA0NDU2.html" target="_blank" rel="noopener noreferrer">好大一棵树</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTEwMjA0NDU2" target="_blank" rel="noopener noreferrer">好大一棵树</a></td>
     <td></td>
     <td>旅游卫视</td>
 </tr>
@@ -208,7 +208,7 @@ title: 大型晚会典礼
     <td rowspan="5">2010</td>
     <td>8月28日</td>
     <td>浙江卫视星耀中国蓝两周年庆典</td>
-    <td><a href="https://v.youku.com/v_show/id_XMjAxOTY4ODY4.html" target="_blank" rel="noopener noreferrer">Dear Friend</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMjAxOTY4ODY4" target="_blank" rel="noopener noreferrer">Dear Friend</a></td>
     <td></td>
     <td></td>
 </tr>
@@ -222,7 +222,7 @@ title: 大型晚会典礼
 <tr>
     <td>10月11日</td>
     <td>第十二届安徽省运动会开幕式</td>
-    <td><a href="https://v.youku.com/v_show/id_XMjE4OTc1NjI4.html" target="_blank" rel="noopener noreferrer">歌声与微笑</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMjE4OTc1NjI4" target="_blank" rel="noopener noreferrer">歌声与微笑</a></td>
     <td></td>
     <td>淮南市体育场</td>
 </tr>
@@ -236,7 +236,7 @@ title: 大型晚会典礼
 <tr>
     <td>12月31日</td>
     <td>浙江卫视2010风尚盛典</td>
-    <td><a href="https://v.youku.com/v_show/id_XMjMzNjUzMzAw.html" target="_blank" rel="noopener noreferrer">Girl Friend</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMjMzNjUzMzAw" target="_blank" rel="noopener noreferrer">Girl Friend</a></td>
     <td></td>
     <td></td>
 </tr>
@@ -288,7 +288,7 @@ title: 大型晚会典礼
     <td>2015</td>
     <td>12月3日</td>
     <td>北京市第四届手语风采大赛颁奖仪式</td>
-    <td>最想念的季节</td>
+    <td><a href="https://weibo.com/2694358341/D6IPUa7e1" target="_blank" rel="noopener noreferrer">最想念的季节</a></td>
     <td></td>
     <td></td>
 </tr>

@@ -8,14 +8,14 @@ title: 采访访谈
 ::: center
 **表一 谈话类节目**
 ::: 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">年份</th>
-    <th style="background:pink">播出日期</th>
-    <th style="background:pink">播放平台</th>
-    <th style="background:pink">节目名称</th>
-    <th style="background:pink">节目内容</th>
+    <th>年份</th>
+    <th>播出日期</th>
+    <th>播放平台</th>
+    <th>节目名称</th>
+    <th>节目内容</th>
 </tr>
 </thead>
 <tbody>
@@ -85,7 +85,7 @@ title: 采访访谈
     <td rowspan="5">2007</td>
     <td>1月20日</td>
     <td>北京电视台文艺频道</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTM1Mjc5MzQ0.html" target="_blank" rel="noopener noreferrer">快乐到家</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTM1Mjc5MzQ0" target="_blank" rel="noopener noreferrer">快乐到家</a></td>
     <td>宣传新歌</td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ title: 采访访谈
 <tr>
     <td>5月17日</td>
     <td>浙江卫视</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTE4OTgxMjk2.html" target="_blank" rel="noopener noreferrer">太可乐了</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTE4OTgxMjk2" target="_blank" rel="noopener noreferrer">太可乐了</a></td>
     <td>宣传专辑《青春无敌》</td>
 </tr>
 <tr>
@@ -123,7 +123,7 @@ title: 采访访谈
     <td>2011</td>
     <td>4月15日</td>
     <td>四川德阳电视台</td>
-    <td><a href="https://v.youku.com/v_show/id_XMjk4MTA5MDg0.html" target="_blank" rel="noopener noreferrer">星娱大秀场</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMjk4MTA5MDg0" target="_blank" rel="noopener noreferrer">星娱大秀场</a></td>
     <td>张含韵回家</td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@ title: 采访访谈
 <tr>
     <td>7月21日</td>
     <td>优酷</td>
-    <td><a href="https://v.youku.com/v_show/id_XNDc2MDM3MTM4MA==.html" target="_blank" rel="noopener noreferrer">闺蜜好美</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XNDc2MDM3MTM4MA" target="_blank" rel="noopener noreferrer">闺蜜好美</a></td>
     <td>与孟佳</td>
 </tr>
 </tbody>
@@ -186,13 +186,13 @@ title: 采访访谈
 **表二 剧组演员、表演后台采访**
 ::: 
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">年份</th>
-    <th style="background:pink">播出日期</th>
-    <th style="background:pink">播放平台</th>
-    <th style="background:pink">采访内容</th>
+    <th>年份</th>
+    <th>播出日期</th>
+    <th>播放平台</th>
+    <th>采访内容</th>
 </tr>
 </thead>
 <tbody>
@@ -206,7 +206,7 @@ title: 采访访谈
     <td>2010</td>
     <td>8月18日</td>
     <td>浙江卫视《非凡十分》</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTk4OTQ5NzYw.html" target="_blank" rel="noopener noreferrer">《非同凡响》选手采访</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTk4OTQ5NzYw" target="_blank" rel="noopener noreferrer">《非同凡响》选手采访</a></td>
 </tr>
 <tr>
     <td>2013</td>

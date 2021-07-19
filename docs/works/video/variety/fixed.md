@@ -5,14 +5,14 @@ title: 固定综艺节目
 
 以常驻嘉宾、参赛选手等身份参与的综艺节目，点击综艺节目名称可查看该节目在百度百科中的相关介绍。
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">年份</th>
-    <th style="background:pink">节目</th>
-    <th style="background:pink">首播平台</th>
-    <th style="background:pink">观看</th>
-    <th style="background:pink">备注</th>
+    <th>年份</th>
+    <th>节目</th>
+    <th>首播平台</th>
+    <th>观看</th>
+    <th>备注</th>
 </tr>
 </thead>
 <tbody>

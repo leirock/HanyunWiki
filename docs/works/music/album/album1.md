@@ -11,15 +11,15 @@ title: 专辑：我很张含韵（预售版）
 
 ### 新歌预览部分
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">曲序</th>
-    <th style="background:pink">曲目</th>
-    <th style="background:pink">作词</th>
-    <th style="background:pink">作曲</th>
-    <th style="background:pink">备注</th>
-    <th style="background:pink">时长</th>
+    <th>曲序</th>
+    <th>曲目</th>
+    <th>作词</th>
+    <th>作曲</th>
+    <th>备注</th>
+    <th>时长</th>
 </tr>
 </thead>
 <tbody>
@@ -55,9 +55,9 @@ title: 专辑：我很张含韵（预售版）
 <table style="text-align:center; font-size:90%; width:100%; display:table">
 <thead>
 <tr>
-    <th style="background:pink">曲序</th>
-    <th style="background:pink">曲目</th>
-    <th style="background:pink">时长</th>
+    <th>曲序</th>
+    <th>曲目</th>
+    <th>时长</th>
 </tr>
 </thead>
 <tbody>

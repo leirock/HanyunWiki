@@ -5,14 +5,14 @@ title: 非固定综艺节目
 
 以飞行（临时）嘉宾身份参与的综艺节目，点击表格内链接可查看相应节目或表演的视频。
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">年份</th>
-    <th style="background:pink">播出日期</th>
-    <th style="background:pink">播放平台</th>
-    <th style="background:pink">节目名称</th>
-    <th style="background:pink">节目内容</th>
+    <th>年份</th>
+    <th>播出日期</th>
+    <th>播放平台</th>
+    <th>节目名称</th>
+    <th>节目内容</th>
 </tr>
 </thead>
 <tbody>
@@ -32,13 +32,13 @@ title: 非固定综艺节目
 <tr>
     <td>7月27日</td>
     <td>北京电视台文艺频道</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTMzNTA3NzI0.html" target="_blank" rel="noopener noreferrer">春华秋实</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTMzNTA3NzI0" target="_blank" rel="noopener noreferrer">春华秋实</a></td>
     <td>演唱首张专辑歌曲</td>
 </tr>
 <tr>
     <td>7月27日</td>
     <td>上海东方电视台<br/>音乐频道</td>
-    <td><a href="http://v.youku.com/v_show/id_XOTM1NzA1Mjg=.html" target="_blank" rel="noopener noreferrer">天地英雄校园行</a></td>
+    <td><a href="http://v.youku.com/v_show/id_XOTM1NzA1Mjg" target="_blank" rel="noopener noreferrer">天地英雄校园行</a></td>
     <td>演唱首张专辑歌曲</td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ title: 非固定综艺节目
     <td>12月28日</td>
     <td>TVB翡翠台</td>
     <td>劲歌金曲</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTMxNzcxNjAzNg==.html" target="_blank" rel="noopener noreferrer">演唱《最想念的季节》</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTMxNzcxNjAzNg" target="_blank" rel="noopener noreferrer">演唱《最想念的季节》</a></td>
 </tr>
 <tr>
     <td>12月31日</td>
@@ -111,7 +111,7 @@ title: 非固定综艺节目
 <tr>
     <td>9月10日</td>
     <td>华娱卫视</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTY3MDMwMzI2MA==.html" target="_blank" rel="noopener noreferrer">大明星突袭小厨房</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTY3MDMwMzI2MA" target="_blank" rel="noopener noreferrer">大明星突袭小厨房</a></td>
     <td></td>
 </tr>
 <tr>
@@ -124,13 +124,13 @@ title: 非固定综艺节目
     <td rowspan="10">2007</td>
     <td>2月3日<sup id="cite_ref-2-1"><a href="#cite_note-2-1">[2]</a></sup></td>
     <td>山东卫视</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTEyMTQ3MzI0.html" target="_blank" rel="noopener noreferrer">阳光快车道</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTEyMTQ3MzI0" target="_blank" rel="noopener noreferrer">阳光快车道</a></td>
     <td>魅力红歌会</td>
 </tr>
 <tr>
     <td>2月20日</td>
     <td>湖南卫视</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTA1ODEzMzQw.html" target="_blank" rel="noopener noreferrer">音乐不断歌友会</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTA1ODEzMzQw" target="_blank" rel="noopener noreferrer">音乐不断歌友会</a></td>
     <td>超级群星贺新春</td>
 </tr>
 <tr>
@@ -148,19 +148,19 @@ title: 非固定综艺节目
 <tr>
     <td>4月8日</td>
     <td>江西卫视</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTExOTcxMjAw.html" target="_blank" rel="noopener noreferrer">明星面对面</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTExOTcxMjAw" target="_blank" rel="noopener noreferrer">明星面对面</a></td>
     <td>张含韵生日专场</td>
 </tr>
 <tr>
     <td>4月15日</td>
     <td>上海东方电视台<br/>音乐频道</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTExNzMzMzIw.html" target="_blank" rel="noopener noreferrer">非常娱乐</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTExNzMzMzIw" target="_blank" rel="noopener noreferrer">非常娱乐</a></td>
     <td>宣传专辑《青春无敌》</td>
 </tr>
 <tr>
     <td>4月21日</td>
     <td>安徽卫视</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTEyOTk3MjI4.html" target="_blank" rel="noopener noreferrer">剧风行动</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTEyOTk3MjI4" target="_blank" rel="noopener noreferrer">剧风行动</a></td>
     <td>与汪涵</td>
 </tr>
 <tr>
@@ -178,21 +178,21 @@ title: 非固定综艺节目
 <tr>
     <td>9月22日</td>
     <td>山东卫视</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTEyOTkzOTgw.html" target="_blank" rel="noopener noreferrer">阳光快车道</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTEyOTkzOTgw" target="_blank" rel="noopener noreferrer">阳光快车道</a></td>
     <td></td>
 </tr>
 <tr>
     <td>2009</td>
     <td>2月21日</td>
     <td>浙江卫视</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTEwMzQyODYw.html" target="_blank" rel="noopener noreferrer">我是大评委</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTEwMzQyODYw" target="_blank" rel="noopener noreferrer">我是大评委</a></td>
     <td></td>
 </tr>
 <tr>
     <td rowspan="4">2010</td>
     <td>9月10日</td>
     <td>浙江卫视</td>
-    <td><a href="https://v.youku.com/v_show/id_XMjA1ODUwMTU2.html" target="_blank" rel="noopener noreferrer">我爱记歌词</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMjA1ODUwMTU2" target="_blank" rel="noopener noreferrer">我爱记歌词</a></td>
     <td>老师你好专场</td>
 </tr>
 <tr>
@@ -236,7 +236,7 @@ title: 非固定综艺节目
 <tr>
     <td>7月5日</td>
     <td>深圳卫视</td>
-    <td><a href="https://v.youku.com/v_show/id_XNTgyNTc0MjMy.html" target="_blank" rel="noopener noreferrer">年代秀</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XNTgyNTc0MjMy" target="_blank" rel="noopener noreferrer">年代秀</a></td>
     <td>演唱《恋曲1980》</td>
 </tr>
 <tr>

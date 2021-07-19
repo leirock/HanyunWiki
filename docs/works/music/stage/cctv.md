@@ -5,15 +5,15 @@ title: 央视户外歌会节目
 
 参加中央电视台《[欢乐中国行](https://baike.baidu.com/item/欢乐中国行)》、《[中华情](https://baike.baidu.com/item/中华情/5456307)》等系列户外歌会节目的表演，点击表格内链接可查看相应舞台表演视频。
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">年份</th>
-    <th style="background:pink">播出日期</th>
-    <th style="background:pink">中央电视台频道</th>
-    <th style="background:pink">节目</th>
-    <th style="background:pink">期别</th>
-    <th style="background:pink">演唱歌曲</th>
+    <th>年份</th>
+    <th>播出日期</th>
+    <th>中央电视台频道</th>
+    <th>节目</th>
+    <th>期别</th>
+    <th>演唱歌曲</th>
 </tr>
 </thead>
 <tbody>
@@ -29,7 +29,7 @@ title: 央视户外歌会节目
     <td>9月4日</td>
     <td>同一首歌</td>
     <td>走进南京 为十运喝彩</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTE0NzY2MzAw.html" target="_blank" rel="noopener noreferrer">放假了</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTE0NzY2MzAw" target="_blank" rel="noopener noreferrer">放假了</a></td>
 </tr>
 <tr>
     <td rowspan="4">2006</td>

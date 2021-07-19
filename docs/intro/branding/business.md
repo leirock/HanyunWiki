@@ -5,13 +5,13 @@ title: 商业代言
 
 不包括无头衔仅单次推广的品牌，点击表格中的链接可查看相关媒体报道。
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">年份</th>
-    <th style="background:pink">品牌/活动</th>
-    <th style="background:pink">代言类型</th>
-    <th style="background:pink">备注</th>
+    <th>年份</th>
+    <th>品牌/活动</th>
+    <th>代言类型</th>
+    <th>备注</th>
 </tr>
 </thead>
 <tbody>

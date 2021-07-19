@@ -9,16 +9,16 @@ title: 2004年：超女出道
 ::: center
 **张含韵 2004 年《超级女声》比赛进程**
 :::
-<table style="text-align:center; font-size:85%; width:101%;">
+<table style="font-size:85%; width:101%;">
 <thead>
 <tr>
-    <th style="background:pink">赛区</th>
-    <th colspan="2" style="background:pink">场次</th>
-    <th style="background:pink">演唱歌曲</th>
-    <th style="background:pink">原唱</th>
-    <th style="background:pink">票数</th>
-    <th style="background:pink">排名</th>
-    <th style="background:pink">结果</th>
+    <th>赛区</th>
+    <th colspan="2">场次</th>
+    <th>演唱歌曲</th>
+    <th>原唱</th>
+    <th>票数</th>
+    <th>排名</th>
+    <th>结果</th>
 </tr>
 </thead>
 <tbody>
@@ -27,24 +27,24 @@ title: 2004年：超女出道
     <th colspan="2">海选<small>（7月14日）</small></th>
     <td>遗失的美好</td>
     <td>张韶涵</td>
-    <td style="font-size:smaller;">不适用</td>
-    <td style="font-size:smaller;">不适用</td>
+    <td class="na"></td>
+    <td class="na"></td>
     <td style="background:#90FF90">晋级</td>
 </tr>
 <tr>
     <th colspan="2">50进20<small>（7月24日）</small></th>
     <td>Pretty Boy</td>
     <td>M2M 组合</td>
-    <td style="font-size:smaller;">不适用</td>
-    <td style="font-size:smaller;">不适用</td>
+    <td class="na"></td>
+    <td class="na"></td>
     <td style="background:#90FF90">晋级</td>
 </tr>
 <tr>
     <th colspan="2">20进10<small>（8月4日）</small></th>
     <td>Cappuccino</td>
     <td>萧亚轩</td>
-    <td style="font-size:smaller;">不适用</td>
-    <td style="font-size:smaller;">不适用</td>
+    <td class="na"></td>
+    <td class="na"></td>
     <td style="background:#90FF90">晋级</td>
 </tr>
 <tr>
@@ -68,9 +68,9 @@ title: 2004年：超女出道
     <th>开场秀</th>
     <td>你给我记住</td>
     <td>曹兰</td>
-    <td style="font-size:smaller;">不适用</td>
-    <td style="font-size:smaller;">不适用</td>
-    <td style="background: #ececec; font-size: smaller; ">不适用</td>
+    <td class="na"></td>
+    <td class="na"></td>
+    <td class="na-grey"></td>
 </tr>
 <tr>
     <th>5进4</th>
@@ -138,7 +138,7 @@ title: 2004年：超女出道
         10602<sup id="cite_ref-4-1"><a href="#cite_note-4-1">[4]</a></sup>
     </td>
     <td rowspan="2">1</td>
-    <td rowspan="2" style="background:#ececec; font-size:smaller;">不适用</td>
+    <td rowspan="2" class="na-grey"></td>
 </tr>
 <tr>
     <td>水晶<br/>（与支持者合唱）</td>
@@ -149,9 +149,9 @@ title: 2004年：超女出道
     <th>开场秀</th>
     <td>姐妹们的聚会</td>
     <td>范晓萱、大S、阿雅、小S</td>
-    <td style="font-size:smaller;">不适用</td>
-    <td style="font-size:smaller;">不适用</td>
-    <td style="background:#ececec; font-size:smaller;">不适用</td>
+    <td class="na"></td>
+    <td class="na"></td>
+    <td class="na-grey"></td>
 </tr>
 <tr>
     <th>
@@ -167,8 +167,8 @@ title: 2004年：超女出道
     <th>
         4进3<sup id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
     </th>
-    <td style="font-size:smaller;">不适用</td>
-    <td style="font-size:smaller;">不适用</td>
+    <td class="na"></td>
+    <td class="na"></td>
     <td>50486</td>
     <td>2</td>
     <td style="background:#FFD">待定</td>
@@ -177,8 +177,8 @@ title: 2004年：超女出道
     <th>4进3淘汰</th>
     <td>热情的沙漠</td>
     <td>庾澄庆</td>
-    <td style="font-size:smaller;">不适用</td>
-    <td style="font-size:smaller;">不适用</td>
+    <td class="na"></td>
+    <td class="na"></td>
     <td style="background:#90FF90">
         晋级<sup id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
     </td>
@@ -187,18 +187,18 @@ title: 2004年：超女出道
     <th>三强合唱</th>
     <td>你给我记住</td>
     <td>曹兰</td>
-    <td style="font-size:smaller;">不适用</td>
-    <td style="font-size:smaller;">不适用</td>
-    <td style="background:#ececec; font-size:smaller;">不适用</td>
+    <td class="na"></td>
+    <td class="na"></td>
+    <td class="na-grey"></td>
 </tr>
 <tr>
     <th rowspan="5">总决赛<br/><small>（9月22日）</small></th>
     <th>开场秀</th>
     <td>Super Star</td>
     <td>S.H.E</td>
-    <td style="font-size:smaller;">不适用</td>
-    <td style="font-size:smaller;">不适用</td>
-    <td style="background:#ececec; font-size:smaller;">不适用</td>
+    <td class="na"></td>
+    <td class="na"></td>
+    <td class="na-grey"></td>
 </tr>
 <tr>
     <th>个性秀</th>
@@ -213,7 +213,7 @@ title: 2004年：超女出道
         52474<sup id="cite_ref-4-2"><a href="#cite_note-4-2">[4]</a></sup>
     </td>
     <td>3</td>
-    <td style="background:#ececec; font-size:smaller;">不适用</td>
+    <td class="na-grey"></td>
 </tr>
 <tr>
     <th>最佳拍档秀</th>
@@ -221,7 +221,7 @@ title: 2004年：超女出道
     <td>黄磊</td>
     <td>56666</td>
     <td>3</td>
-    <td style="background:#ececec; font-size:smaller;">不适用</td>
+    <td class="na-grey"></td>
 </tr>
 <tr>
     <th>古词新秀</th>
@@ -237,8 +237,8 @@ title: 2004年：超女出道
     <th>终极原音PK</th>
     <td>遗失的美好</td>
     <td>张韶涵</td>
-    <td style="font-size:smaller;">不适用</td>
-    <td style="font-size:smaller;">不适用</td>
+    <td class="na"></td>
+    <td class="na"></td>
     <td style="background:#D9A821;">
         季军<sup id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
     </td>

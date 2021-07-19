@@ -1,3 +1,58 @@
 // import icon
 //@import '//at.alicdn.com/t/font_2410206_kxwb6og9m5.css'
 @import '//at.alicdn.com/t/font_2629682_w7f7d1vp64.css';
+
+// 表格首行颜色
+table thead tr:first-child th {
+    background:pink
+}
+
+// 表格默认属性
+table {
+    text-align: center; 
+    display: table;
+    font-size: 90%;
+    width: 100%;
+}
+
+// 单元格-打勾
+.tick {
+    background: #D2FFD2;
+    font-weight: bold;
+    &:after {
+        content: '✓';
+    }
+}
+
+// 单元格-获奖
+.won {
+    background: #99FF99;
+    &:after {
+        content: '获奖';
+    }
+}
+
+// 单元格-提名
+.nom {
+    background: #FDD;
+    &:after {
+        content: '提名';
+    }
+}
+
+// 单元格-不适用（透明底色）
+.na {
+    font-size: smaller;
+    &:after {
+        content: '不适用';
+    }
+}
+
+// 单元格-不适用（灰色底色）
+.na-grey {
+    font-size: smaller;
+    background: #ececec;
+    &:after {
+        content: '不适用';
+    }
+}

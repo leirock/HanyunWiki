@@ -15,10 +15,10 @@ title: 认识含韵
 
 ## 基本信息
 
-<table style="text-align:left; font-size:90%; line-height: 1.5em; width:100%;display:table">
+<table style="text-align:left; line-height: 1.5em;">
 <thead>
 <tr>
-    <th colspan="2" style="text-align:center; font-size:110%; font-weight:bold; background:pink">张含韵</th>
+    <th colspan="2" style="text-align:center; font-size:110%;">张含韵</th>
 </tr>
 </thead>
 <tbody>
@@ -125,12 +125,12 @@ title: 认识含韵
     </td>
 </tr>
 <tr>
-    <th colspan="2" style="text-align:center; font-weight:bold;">
+    <th colspan="2" style="text-align:center;">
         <a href="https://movie.douban.com/celebrity/1312921/" target="_blank" rel="noopener noreferrer">豆瓣电影信息</a> · <a href="https://music.douban.com/musician/104835/" target="_blank" rel="noopener noreferrer">豆瓣音乐信息</a>
     </th>
 </tr>
 <tr>
-    <th colspan="2" style="text-align:center; font-weight:bold;">
+    <th colspan="2" style="text-align:center;">
         <a href="https://www.imdb.com/name/nm07479446/" target="_blank" rel="noopener noreferrer">互联网电影数据库（IMDb）信息</a><br/>
     </th>
 </tr>

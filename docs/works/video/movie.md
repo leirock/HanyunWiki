@@ -5,14 +5,14 @@ title: 电影
 
 点击电视剧名称可查看该电影在豆瓣影视中的相关信息。
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">上映年份</th>
-    <th style="background:pink">电影</th>
-    <th style="background:pink">观看</th>
-    <th style="background:pink">角色</th>
-    <th style="background:pink">备注</th>
+    <th>上映年份</th>
+    <th>电影</th>
+    <th>观看</th>
+    <th>角色</th>
+    <th>备注</th>
 </tr>
 </thead>
 <tbody>

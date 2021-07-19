@@ -7,13 +7,13 @@ title: 专场歌友会
 
 点击表格内链接可查看相应歌友会视频。
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">年份</th>
-    <th style="background:pink">播出日期</th>
-    <th style="background:pink">播放平台/地点</th>
-    <th style="background:pink">歌友会</th>
+    <th>年份</th>
+    <th>播出日期</th>
+    <th>播放平台/地点</th>
+    <th>歌友会</th>
 </tr>
 </thead>
 <tbody>
@@ -21,7 +21,7 @@ title: 专场歌友会
     <td rowspan="7">2005</td>
     <td>8月27日</td>
     <td>成都电视台经济资讯频道</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTI5NjAzNDg0.html" target="_blank" rel="noopener noreferrer">成都歌友会</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTI5NjAzNDg0" target="_blank" rel="noopener noreferrer">成都歌友会</a></td>
 </tr>
 <tr>
     <td>9月15日</td>
@@ -57,27 +57,33 @@ title: 专场歌友会
     <td rowspan="6">2007</td>
     <td>2月9日</td>
     <td>沈阳电台音乐台</td>
-    <td><a href="https://v.youku.com/v_show/id_XOTE0NzM3ODA=.html" target="_blank" rel="noopener noreferrer">沈阳歌友会</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XOTE0NzM3ODA" target="_blank" rel="noopener noreferrer">沈阳歌友会</a></td>
 </tr>
 <tr>
     <td>4月15日</td>
     <td>上海东方电视台音乐频道</td>
-    <td><a href="https://v.youku.com/v_show/id_XOTI2NTAxMDA=.html" target="_blank" rel="noopener noreferrer">天地英雄校园行</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XOTI2NTAxMDA" target="_blank" rel="noopener noreferrer">天地英雄校园行</a></td>
 </tr>
 <tr>
     <td>4月29日</td>
     <td>江苏宜兴市广播电视台</td>
-    <td>宜兴歌友会 <a href="https://v.youku.com/v_show/id_XNTQ2MTg2MDA=.html" target="_blank" rel="noopener noreferrer">[a]</a> <a href="https://v.youku.com/v_show/id_XNTQ2MTkxNjg=.html" target="_blank" rel="noopener noreferrer">[b]</a> <a href="https://v.youku.com/v_show/id_XNTQ2MTk4MTI=.html" target="_blank" rel="noopener noreferrer">[c]</a> <a href="https://v.youku.com/v_show/id_XNTQ2MjA0Njg=.html" target="_blank" rel="noopener noreferrer">[d]</a></td>
+    <td>
+        宜兴歌友会
+        <a href="https://v.youku.com/v_show/id_XNTQ2MTg2MDA" target="_blank" rel="noopener noreferrer">[a]</a>
+        <a href="https://v.youku.com/v_show/id_XNTQ2MTkxNjg" target="_blank" rel="noopener noreferrer">[b]</a>
+        <a href="https://v.youku.com/v_show/id_XNTQ2MTk4MTI" target="_blank" rel="noopener noreferrer">[c]</a>
+        <a href="https://v.youku.com/v_show/id_XNTQ2MjA0Njg" target="_blank" rel="noopener noreferrer">[d]</a>
+    </td>
 </tr>
 <tr>
     <td>4月24日<sup id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
     <td>河南卫视</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTEyMTU2MjAw.html" target="_blank" rel="noopener noreferrer">星登陆</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTEyMTU2MjAw" target="_blank" rel="noopener noreferrer">星登陆</a></td>
 </tr>
 <tr>
     <td>6月10日</td>
     <td>广东电视台公共频道</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTEzNDQ4MDY0.html" target="_blank" rel="noopener noreferrer">最爱主打星</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTEzNDQ4MDY0" target="_blank" rel="noopener noreferrer">最爱主打星</a></td>
 </tr>
 <tr>
     <td>12月8日</td>
@@ -88,7 +94,7 @@ title: 专场歌友会
     <td>2009</td>
     <td>10月31日</td>
     <td>海南三亚学院</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTQyMjc4Nzgw.html" target="_blank" rel="noopener noreferrer">「国家-爱-用音乐祝福祖国」张含韵歌友会</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMTQyMjc4Nzgw" target="_blank" rel="noopener noreferrer">「国家-爱-用音乐祝福祖国」张含韵歌友会</a></td>
 </tr>
 </tbody>
 </table>

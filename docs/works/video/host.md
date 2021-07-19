@@ -5,13 +5,13 @@ title: 节目主持
 
 点击表格内链接可查看相应节目视频。
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">年份</th>
-    <th style="background:pink">播放平台</th>
-    <th style="background:pink">节目</th>
-    <th style="background:pink">备注</th>
+    <th>年份</th>
+    <th>播放平台</th>
+    <th>节目</th>
+    <th>备注</th>
 </tr>
 </thead>
 <tbody>

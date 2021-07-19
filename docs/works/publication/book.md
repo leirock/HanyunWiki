@@ -5,14 +5,14 @@ title: 书籍
 
 点击书籍名称可查看该书在豆瓣读书中的相关信息。
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">年份</th>
-    <th style="background:pink">书名</th>
-    <th style="background:pink">作者</th>
-    <th style="background:pink">出版社</th>
-    <th style="background:pink">ISBN</th>
+    <th>年份</th>
+    <th>书名</th>
+    <th>作者</th>
+    <th>出版社</th>
+    <th>ISBN</th>
 </tr>
 </thead>
 <tbody>

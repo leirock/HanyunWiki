@@ -4,12 +4,12 @@ title: 其他荣誉
 
 除音乐、表演奖项外所获得的其他奖项荣誉，点击所获荣誉的链接可查看相关媒体报道。
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">年份</th>
-    <th style="background:pink">颁奖单位</th>
-    <th style="background:pink">荣誉</th>
+    <th>年份</th>
+    <th>颁奖单位</th>
+    <th>荣誉</th>
 </tr>
 </thead>
 <tbody>

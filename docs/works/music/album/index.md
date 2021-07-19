@@ -5,14 +5,14 @@ title: 专辑
 
 点击专辑的链接可查看对应专辑详细信息。
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">次序</th>
-    <th style="background:pink">专辑名称</th>
-    <th style="background:pink">专辑类型</th>
-    <th style="background:pink">发行公司</th>
-    <th style="background:pink">发行日期</th>
+    <th>次序</th>
+    <th>专辑名称</th>
+    <th>专辑类型</th>
+    <th>发行公司</th>
+    <th>发行日期</th>
 </tr>
 </thead>
 <tbody>

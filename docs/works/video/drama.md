@@ -5,15 +5,15 @@ title: 电视剧
 
 点击电视剧名称可查看该剧在豆瓣影视中的相关信息。
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">首播年份</th>
-    <th style="background:pink">电视剧</th>
-    <th style="background:pink">首播平台</th>
-    <th style="background:pink">观看</th>
-    <th style="background:pink">角色</th>
-    <th style="background:pink">备注</th>
+    <th>首播年份</th>
+    <th>电视剧</th>
+    <th>首播平台</th>
+    <th>观看</th>
+    <th>角色</th>
+    <th>备注</th>
 </tr>
 </thead>
 <tbody>
@@ -74,7 +74,7 @@ title: 电视剧
     <td>2018</td>
     <td><a href="https://movie.douban.com/subject/26928226/" target="_blank" rel="noopener noreferrer">知否？知否？应是绿肥红瘦</a></td>
     <td>湖南卫视</td>
-    <td><a href="https://v.youku.com/v_show/id_XMzk3NDA1Mjc3Ng==.html" target="_blank" rel="noopener noreferrer">优酷</a>、<a href="https://www.iqiyi.com/a_19rrhvtr9p.html" target="_blank" rel="noopener noreferrer">爱奇艺</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XMzk3NDA1Mjc3Ng" target="_blank" rel="noopener noreferrer">优酷</a>、<a href="https://www.iqiyi.com/a_19rrhvtr9p.html" target="_blank" rel="noopener noreferrer">爱奇艺</a></td>
     <td>盛淑兰</td>
     <td>客串</td>
 </tr>
@@ -82,7 +82,7 @@ title: 电视剧
     <td>2019</td>
     <td><a href="https://movie.douban.com/subject/26717008/" target="_blank" rel="noopener noreferrer">重耳传奇</a></td>
     <td>浙江卫视</td>
-    <td><a href="https://v.youku.com/v_show/id_XNDA5MTM3NTIzMg==.html" target="_blank" rel="noopener noreferrer">优酷</a>、<a href="https://www.iqiyi.com/a_19rrhtyu5l.html" target="_blank" rel="noopener noreferrer">爱奇艺</a></td>
+    <td><a href="https://v.youku.com/v_show/id_XNDA5MTM3NTIzMg" target="_blank" rel="noopener noreferrer">优酷</a>、<a href="https://www.iqiyi.com/a_19rrhtyu5l.html" target="_blank" rel="noopener noreferrer">爱奇艺</a></td>
     <td>齐姜</td>
     <td>女主角</td>
 </tr>

@@ -5,13 +5,13 @@ title: 经典现场
 
 歌唱表演中的代表性现场汇总，点击表格内链接可查看相应现场表演视频。
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
   <tr>
-    <th style="background:pink">年份</th>
-    <th style="background:pink">播出日期</th>
-    <th style="background:pink">节目</th>
-    <th style="background:pink">曲目</th>
+    <th>年份</th>
+    <th>播出日期</th>
+    <th>节目</th>
+    <th>曲目</th>
   </tr>
 </thead>
 <tbody>
@@ -58,7 +58,7 @@ title: 经典现场
   <tr>
     <td>2010</td>
     <td>7月30日</td>
-    <td>浙江卫视 非同凡响</td>
+    <td>非同凡响</td>
     <td><a href="https://www.bilibili.com/video/BV1NA411v7uG" target="_blank" rel="noopener noreferrer">我是一只小小鸟</a></td>
   </tr>
   <tr>

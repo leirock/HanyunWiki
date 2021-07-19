@@ -5,13 +5,13 @@ title: 报刊杂志
 
 以张含韵为封面人物报道的报刊杂志均收录，内页关于张含韵的报道的仅列举影视时尚类杂志。
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table>
 <thead>
 <tr>
-    <th style="background:pink">年份</th>
-    <th style="background:pink">期别</th>
-    <th style="background:pink">杂志</th>
-    <th style="background:pink">备注</th>
+    <th>年份</th>
+    <th>期别</th>
+    <th>杂志</th>
+    <th>备注</th>
 </tr>
 </thead>
 <tbody>

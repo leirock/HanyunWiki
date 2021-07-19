@@ -7,17 +7,17 @@ title: 专辑：一人一梦
 
 ## 曲目
 
-<table style="text-align:center; font-size:80%; width:100%; display:table">
+<table style="font-size:80%;">
 <thead>
 <tr>
-    <th style="background:pink; width:7%">曲序</th>
-    <th style="background:pink; width:15%">曲目</th>
-    <th style="background:pink">作词</th>
-    <th style="background:pink">作曲</th>
-    <th style="background:pink">编曲</th>
-    <th style="background:pink">MV导演</th>
-    <th style="background:pink">备注</th>
-    <th style="background:pink; width:7%">时长</th>
+    <th style="width:7%">曲序</th>
+    <th style="width:15%">曲目</th>
+    <th>作词</th>
+    <th>作曲</th>
+    <th>编曲</th>
+    <th>MV导演</th>
+    <th>备注</th>
+    <th style="width:7%">时长</th>
 </tr>
 </thead>
 <tbody>
@@ -28,7 +28,7 @@ title: 专辑：一人一梦
     <td>金培达</td>
     <td>金培达、褚镇东</td>
     <td>李志伦 Jacky@ConceptX</td>
-    <td>《宝葫芦的秘密》主题曲</td>
+    <td>电影《宝葫芦的秘密》主题曲</td>
     <td>3:29</td>
 </tr>
 <tr>
