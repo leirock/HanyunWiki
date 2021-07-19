@@ -128,3 +128,7 @@ title: 专辑：我很张含韵（预售版）
 </tr>
 </tbody>
 </table>
+
+<small>
+<b>注：</b>曲目时长依据 QQ 音乐。
+</small>

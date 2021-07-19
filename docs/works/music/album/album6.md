@@ -133,3 +133,7 @@ title: 专辑：一人一梦
 </tr>
 </tbody>
 </table>
+
+<small>
+<b>注：</b>曲目时长依据 QQ 音乐。
+</small>

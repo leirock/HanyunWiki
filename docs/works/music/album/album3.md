@@ -41,6 +41,10 @@ title: 专辑：Baby X’mas 新年好
 </tbody>
 </table>
 
+<small>
+<b>注：</b>曲目时长依据 QQ 音乐。
+</small>
+
 ## 轶事
 
 - 2016年1月1日播出的[四川卫视「花开天下」新春演唱会](https://www.bilibili.com/video/BV1gp4y1q7F4)字幕中，《追梦》的作词、作曲信息有误，应以上表为准。
