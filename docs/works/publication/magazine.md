@@ -3,14 +3,14 @@ icon: newspaper
 title: 报刊杂志
 ---
 
-以张含韵为封面人物报道的报刊杂志均收录，内页关于张含韵的报道的仅列举影视时尚类杂志。
+以张含韵为封面人物报道的报刊杂志均收录，内页关于张含韵的报道的仅列举影视时尚类杂志。点击期别链接可查看相关图片，点击报刊杂志的链接可查阅报道的具体内容。
 
 <table>
 <thead>
 <tr>
     <th>年份</th>
     <th>期别</th>
-    <th>杂志</th>
+    <th>报刊杂志</th>
     <th>备注</th>
 </tr>
 </thead>
@@ -237,12 +237,12 @@ title: 报刊杂志
     <td>ICON-F 时尚画报</td>
 </tr>
 <tr>
-    <td><a data-fancybox data-caption="知音 2017年12月月末版 第36期" href="https://website-1256060851.file.myqcloud.com/zhy/magazine/201712_知音.jpg">12月下 第36期</a></td>
+    <td><a data-fancybox data-caption="知音 2017年12月下 第36期" href="https://website-1256060851.file.myqcloud.com/zhy/magazine/201712_知音.jpg">12月下 第36期</a></td>
     <td>知音</td>
 </tr>
 <tr>
     <td rowspan="3">2018</td>
-    <td><a data-fancybox data-caption="知音 2018年6月下半月 第17期" href="https://website-1256060851.file.myqcloud.com/zhy/magazine/201806_知音.jpg">6月中 第17期</a></td>
+    <td><a data-fancybox data-caption="知音 2018年6月中 第17期" href="https://website-1256060851.file.myqcloud.com/zhy/magazine/201806_知音.jpg">6月中 第17期</a></td>
     <td>知音</td>
 </tr>
 <tr>
@@ -272,7 +272,7 @@ title: 报刊杂志
 </tr>
 <tr>
     <td rowspan="8">2020</td>
-    <td><a data-fancybox data-caption="TOP旅行 2020年2-3月 第二期" href="https://website-1256060851.file.myqcloud.com/zhy/magazine/202003_TOP旅行.jpg">2-3月 第二期</a></td>
+    <td><a data-fancybox data-caption="TOP旅行 2020年2-3月 第2期" href="https://website-1256060851.file.myqcloud.com/zhy/magazine/202003_TOP旅行.jpg">2-3月 第2期</a></td>
     <td>TOP 旅行</td>
 </tr>
 <tr>
@@ -280,7 +280,7 @@ title: 报刊杂志
     <td>职业教育</td>
 </tr>
 <tr>
-    <td><a data-fancybox data-caption="知音 2020年7月上半月 第19期" href="https://website-1256060851.file.myqcloud.com/zhy/magazine/202007_知音.jpg">7月上 第19期</a></td>
+    <td><a data-fancybox data-caption="知音 2020年7月上 第19期" href="https://website-1256060851.file.myqcloud.com/zhy/magazine/202007_知音.jpg">7月上 第19期</a></td>
     <td>知音</td>
 </tr>
 <tr>
