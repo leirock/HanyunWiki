@@ -26,3 +26,5 @@ title: 报道
 - 曾索狄：[张含韵：16年后的今天，自己选择命运](https://www.shxwcb.com/508287.html) - 新闻晨报，2020年9月2日第11版
 
 - 林夏生：[张含韵：次第花开](https://www.fx361.com/page/2020/1102/7167022.shtml) - 女友，2020年第10期
+
+- 吴净净：[30+的张含韵：放过自己](http://www.mf-china.com.cn/MarryAndFamily/twolistController/content/1/32/17593.do) - 婚姻与家庭，2021年2月
