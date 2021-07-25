@@ -9,15 +9,19 @@ module.exports = config({
   dest: "./dist",
 
   head: [
+    ["script", { src: "https://cdn.jsdelivr.net/npm/react/umd/react.production.min.js"}],
+    ["script", { src: "https://cdn.jsdelivr.net/npm/react-dom/umd/react-dom.production.min.js"}],
+    ["script", { src: "https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js"}],
+    ["script", { src: "https://cdn.jsdelivr.net/npm/@babel/standalone/babel.min.js"}],
     //百度搜索资源平台站点验证
     ["meta", { name: "baidu-site-verification", content: "code-exBGMGg3gF"}],
     //谷歌分析代码
     ["script", { async: "", src: "https://www.googletagmanager.com/gtag/js?id=UA-141207776-2"}],
     ["script", { src: "/assets/js/gtag.js"}],
-    ["script", { src: "https://cdn.jsdelivr.net/npm/react/umd/react.production.min.js"}],
-    ["script", { src: "https://cdn.jsdelivr.net/npm/react-dom/umd/react-dom.production.min.js"}],
-    ["script", { src: "https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js"}],
-    ["script", { src: "https://cdn.jsdelivr.net/npm/@babel/standalone/babel.min.js"}],
+    //Fancybox
+    ['script', { src: 'https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js' }],
+    ['script', { src: 'https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js' }],
+    ['link', { rel: 'stylesheet', type: 'text/css', href: 'https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css' }],    
   ],
 
   locales: {
@@ -71,7 +75,7 @@ module.exports = config({
     //switch："关闭 | 打开" 的切换式开关
     //auto：自动根据用户设备主题或当前时间决定是否应用深色模式
     //disable：禁用深色模式
-    darkmode: "auto-switch",
+    darkmode: "disable",
 
     //主题色选项配置
     themeColor: false,
