@@ -38,21 +38,21 @@ title: 录音室单曲
     <td>初恋未满</td>
     <td>电影《初恋未满》主题曲</td>
     <td>曹轩宾</td>
-    <td class="tick"></td>
+    <td class="yes"></td>
 </tr>
 <tr>
     <td>9月28日</td>
     <td>照顾自己</td>
     <td>电视剧《因为爱情有多美》片尾曲</td>
     <td></td>
-    <td class="tick"></td>
+    <td class="yes"></td>
 </tr>
 <tr>
     <td>9月28日</td>
     <td>我是你的谁</td>
     <td>电视剧《因为爱情有多美》片尾曲</td>
     <td></td>
-    <td class="tick"></td>
+    <td class="yes"></td>
 </tr>
 <tr>
     <td>2015</td>
@@ -60,7 +60,7 @@ title: 录音室单曲
     <td>你是偶像</td>
     <td>综艺节目《偶像来了》主题曲</td>
     <td>《偶像来了》成员</td>
-    <td class="tick"></td>
+    <td class="yes"></td>
 </tr>
 <tr>
     <td rowspan="4">2016</td>
@@ -82,7 +82,7 @@ title: 录音室单曲
     <td>有梦别放下</td>
     <td>《2016超级女声》追梦能量歌</td>
     <td></td>
-    <td class="tick"></td>
+    <td class="yes"></td>
 </tr>
 <tr>
     <td>7月11日</td>
@@ -135,21 +135,21 @@ title: 录音室单曲
     <td>开心就好</td>
     <td>手游《开心消消乐》开心消除节主题曲</td>
     <td></td>
-    <td class="tick"></td>
+    <td class="yes"></td>
 </tr>
 <tr>
     <td>12月3日</td>
     <td>狐狸怎么叫</td>
     <td>电影《赤狐书生》推广曲<br/>改编自《The Fox》</td>
     <td>黄龄、李斯丹妮</td>
-    <td class="tick"></td>
+    <td class="yes"></td>
 </tr>
 <tr>
     <td>12月23日</td>
     <td>温柔反击</td>
     <td>网易云女性主题众创合辑<br/>《不仅自己可见》</td>
     <td></td>
-    <td class="tick"></td>
+    <td class="yes"></td>
 </tr>
 <tr>
     <td>12月31日</td>
@@ -171,14 +171,14 @@ title: 录音室单曲
     <td>你我皆王者</td>
     <td>手游《王者荣耀》2020冬季冠军杯<br/>女子电竞战歌</td>
     <td>金晨、李斯丹妮、孟佳、郁可唯</td>
-    <td class="tick"></td>
+    <td class="yes"></td>
 </tr>
 <tr>
     <td>2月4日</td>
     <td>我和我追逐的梦</td>
     <td>电影《人潮汹涌》追梦推广曲<br/>原唱：刘德华</td>
     <td>万茜、黄龄、孟佳、朱婧汐</td>
-    <td class="tick"></td>
+    <td class="yes"></td>
 </tr>
 <tr>
     <td>3月28日</td>
