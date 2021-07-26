@@ -19,7 +19,7 @@ title: 著作权信息
 
 ### 其他类型
 
-其他类型作品（包括但不限于图片、本站项目代码、图标等）著作权归原作者所有，如有作者授权则遵照授权协议使用。无作者授权协议情况下，以评论，报道为目的，遵照 [《中华人民共和国著作权法》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNDc2NmJhYjE1NTc%3D)第二十四条、[《信息网络传播权保护条例》](https://flk.npc.gov.cn/detail.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTM5OTJiMjFkYjk%3D)第六条「合理使用」原则使用，标注来源。
+其他类型作品（包括但不限于图片、本站项目代码、图标等）著作权归原作者所有，如有作者授权则遵照授权协议使用。无作者授权协议情况下，以评论，报道为目的，遵照[《中华人民共和国著作权法》](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNDc2NmJhYjE1NTc%3D)第二十四条、[《信息网络传播权保护条例》](https://flk.npc.gov.cn/detail.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTM5OTJiMjFkYjk%3D)第六条「合理使用」原则使用，标注来源。
 
 ## 文本内容许可协议
 
@@ -40,4 +40,4 @@ title: 著作权信息
 
 ### 法律文本
 
-完整的文本内容许可协议之法律文本见《**[知识共享 署名-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-sa/3.0/cn/legalcode)**》。
+完整的文本内容许可协议之法律文本见[《知识共享 署名-相同方式共享 3.0 协议》](https://creativecommons.org/licenses/by-sa/3.0/cn/legalcode)。
