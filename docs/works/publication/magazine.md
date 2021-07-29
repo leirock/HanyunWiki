@@ -70,7 +70,7 @@ title: 报刊杂志
     <td>Yes!</td>
 </tr>
 <tr>
-    <td><a data-fancybox data-caption="Yes! 第781期" href="https://website-1256060851.file.myqcloud.com/zhy/magazine/200600_Yes_781.jpg">781期</a>、<a data-fancybox data-caption="Yes! 第792期" href="https://website-1256060851.file.myqcloud.com/zhy/magazine/200600_Yes_792.jpg">792期</a>、<a data-fancybox data-caption="Yes! 第804期" href="https://website-1256060851.file.myqcloud.com/zhy/magazine/200600_Yes_804.jpg">804期</a></td>
+    <td><a data-fancybox data-caption="Yes! 第781期" href="https://website-1256060851.file.myqcloud.com/zhy/magazine/200600_Yes_781.jpg">781期</a>、<a data-fancybox data-caption="Yes! 第790期" href="https://website-1256060851.file.myqcloud.com/zhy/magazine/200600_Yes_790.jpg">790期</a>、<a data-fancybox data-caption="Yes! 第792期" href="https://website-1256060851.file.myqcloud.com/zhy/magazine/200600_Yes_792.jpg">792期</a>、<a data-fancybox data-caption="Yes! 第804期" href="https://website-1256060851.file.myqcloud.com/zhy/magazine/200600_Yes_804.jpg">804期</a></td>
     <td>Yes!</td>
     <td>内页</td>
 </tr>

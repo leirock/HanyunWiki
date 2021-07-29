@@ -29,6 +29,7 @@ module.exports = config({
   },
 
   themeConfig: {
+
 //****************
 //基本设置
 //****************
@@ -80,6 +81,9 @@ module.exports = config({
     //主题色选项配置
     themeColor: false,
 
+    //博客功能
+    blog: false,
+
     //移动视图下隐藏站点名称
     hideSiteTitleonMobile: false,
 
@@ -89,28 +93,19 @@ module.exports = config({
     //文章基本信息
     pageInfo: false,
 
-
-//****************
-//插件设置
-//****************
     git: {
       timezone: "Asia/Shanghai",
     },
 
+//****************
+//插件设置
+//****************
     //Markdown增强插件
     mdEnhance: {
-      //修复包含特殊字符的图片的引用
-      imageFix: true,
-      //自定义对齐
-      align:true,
-      //上角标
-      sup:true,
-      //下角标
-      sub:true, 
-      //脚注
-      footnote:true,
-      //标记
-      mark: true,
+      //imageFix: true,  //修复包含特殊字符的图片的引用
+      align:true,  //自定义对齐
+      footnote:true,  //脚注
+      mark: true,  //标记
     },
 
     pwa: {

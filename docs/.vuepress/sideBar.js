@@ -74,7 +74,7 @@ module.exports = sidebarConfig({
     },
     "interview", //访谈节目
     "host", //节目主持
-    "short", //短片作品
+    "shorts", //短片作品
   ],
 
   //出版物

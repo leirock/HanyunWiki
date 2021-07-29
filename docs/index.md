@@ -15,15 +15,15 @@ action:
 
 features:
   - title: 时间轴
-    details: 张含韵自 2004 年出道以来的点滴记录
+    details: 自 2004 年出道以来的点滴记录
     link: /intro/timeline/89-03-early/
 
   - title: 音乐作品
-    details: 录音室专辑、单曲、专场歌友会、舞台表演
+    details: 专辑、录音室单曲、专场歌友会、舞台表演、经典现场
     link: /works/music/
 
   - title: 影视作品
-    details: 电视剧、电影、综艺节目、访谈节目、节目主持等作品
+    details: 电视剧、电影、综艺节目、访谈节目、节目主持、短片作品
     link: /works/video/
 
   - title: 出版物
@@ -50,3 +50,10 @@ features:
     details: 张含韵的逸闻趣事
     link: /roundtable/anecdote/
 ---
+
+## 最新动态
+
+- 【音乐】手游《QQ飞车》机甲主题曲《极速战姬》发布 @QQ音乐 2021.07.10
+- 【综艺】《哥哥的滚烫人生》录制 @海口 2021.06.22
+- 【代言】热风微信视频号直播 @上海 2021.05.29
+- 【影视】电视剧《屠户家的小娘子》开机 @横店 2021.04.24
