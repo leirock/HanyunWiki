@@ -14,8 +14,8 @@ title: 采访访谈
     <th>年份</th>
     <th>播出日期</th>
     <th>播放平台</th>
-    <th>节目名称</th>
-    <th>节目内容</th>
+    <th>节目</th>
+    <th>备注</th>
 </tr>
 </thead>
 <tbody>

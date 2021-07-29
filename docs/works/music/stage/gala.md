@@ -11,7 +11,7 @@ title: 大型晚会典礼
     <th style="width:7%">年份</th>
     <th style="width:11%">播出日期</th>
     <th style="width:30%">舞台</th>
-    <th style="width:22%">歌曲</th>
+    <th style="width:22%">曲目</th>
     <th>合作者</th>
     <th style="width:14%">备注</th>
 </tr>
