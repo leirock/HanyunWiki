@@ -39,7 +39,7 @@ features:
     link: /intro/branding/psa/
 
   - title: 文集
-    details: 幸韵星撰写的关于张含韵的文章
+    details: 关于张含韵的媒体报道、文章随笔
     link: /roundtable/collection/
 
   - title: 金句
@@ -47,13 +47,6 @@ features:
     link: /roundtable/sentence/
 
   - title: 轶事
-    details: 张含韵的逸闻趣事
+    details: 关于张含韵的逸闻趣事
     link: /roundtable/anecdote/
 ---
-
-## 最新动态
-
-- 【影视】电视剧《屠户家的小娘子》杀青 @横店 2021.07.31
-- 【音乐】手游《QQ飞车》机甲主题曲《极速战姬》发布 @QQ音乐 2021.07.10
-- 【综艺】《哥哥的滚烫人生》录制 @海口 2021.06.22
-- 【代言】热风微信视频号直播 @上海 2021.05.29

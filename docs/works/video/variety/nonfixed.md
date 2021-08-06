@@ -316,7 +316,7 @@ title: 非固定综艺节目
     <td>《赤狐书生》剧组</td>
 </tr>
 <tr>
-    <td rowspan="9">2021</td>
+    <td rowspan="8">2021</td>
     <td>1月8日</td>
     <td>湖南卫视</td>
     <td><a href="https://www.mgtv.com/b/348499/10832150.html" target="_blank" rel="noopener noreferrer">姐姐的爱乐之程 第10期</a></td>
@@ -356,12 +356,6 @@ title: 非固定综艺节目
     <td>5月7日</td>
     <td>浙江卫视</td>
     <td><a href="https://www.iqiyi.com/v_1ksjynob77s.html" target="_blank" rel="noopener noreferrer">奔跑吧 第五季第3期</a></td>
-</tr>
-<tr>
-    <td>待播出</td>
-    <td>芒果TV</td>
-    <td>哥哥的滚烫人生</td>
-    <td>公演主持人</td>
 </tr>
 </tbody>
 </table>

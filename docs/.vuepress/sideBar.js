@@ -85,11 +85,10 @@ module.exports = sidebarConfig({
 
   //圆桌会
   "/roundtable/": [
-    "report", //报道
     "collection", //文集
     "sentence", //金句
-    "viewpoint/", //观点
     "anecdote", //轶事
+    "viewpoint/", //观点
   ],
 
   //关于
