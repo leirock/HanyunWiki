@@ -19,12 +19,6 @@ title: 关于本站
 
 含韵百科当前由站长 [Lei2Rock](https://dlzhang.com)（微博：[@醉里挑灯赏猫](https://weibo.com/7216640993)）进行维护，依托 [Vuepress](https://vuepress-theme-hope.github.io/zh) 创建，项目代码托管于 [GitHub](https://github.com/lei2rock/HanyunWiki)，部署在位于中国香港的服务器上。
 
-含韵百科运行维护遵循以下方针：
-
-1. 行文撰写尽量客观，确需使用主观判断性词汇的，尽量补充相应的媒体报道；
-1. 参考资料来源以纸质出版物、正规媒体在线报道、大型新闻网站报道为主，尽量不采用自媒体文章；
-1. 商务演出、网络个人直播、抖音视频等行程或动态如无特殊情况，暂不收录。
-
 ## 资金
 
 含韵百科是一项非营利性计划，运营主要支出为域名和服务器的租赁费用。如果您觉得本站有所助益，欢迎您通过 [<font color=#946ce6><i class="fas fa-fw fa-bolt"></i>爱发电</font>](https://afdian.net/@lei2rock) 或者 [<font color=#0070ba><i class="fab fa-fw fa-paypal"></i>Paypal</font>](https://paypal.me/lei2rock) 支持站长的日常维护。
