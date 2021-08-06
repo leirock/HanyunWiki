@@ -47,6 +47,9 @@ title: 文集
 
     - [（六）再说电视选秀：得意失意，时耶命耶](https://weibo.com/ttarticle/p/show?id=2309404651629222953121)
 
+
+- Vetrax嚣张卫视：[张含韵早年经历回忆](https://weibo.com/1668726803/Iph5QepLC)
+
 - ΩДΩ：[张含韵全面安利帖](https://www.douban.com/group/topic/175468942/)
 
 - 二花：[张含韵：打不倒我的，使我更强大](https://www.douban.com/note/762990650/)
