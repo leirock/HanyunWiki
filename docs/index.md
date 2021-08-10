@@ -39,14 +39,14 @@ features:
     link: /intro/branding/psa/
 
   - title: 文集
-    details: 关于张含韵的媒体报道、文章随笔
+    details: 媒体报道、文章随笔等文章
     link: /roundtable/collection/
 
   - title: 金句
-    details: 张含韵的经典发言、谈话语句
+    details: 经典发言、谈话语句
     link: /roundtable/sentence/
 
   - title: 轶事
-    details: 关于张含韵的逸闻趣事
+    details: 一些逸闻趣事
     link: /roundtable/anecdote/
 ---

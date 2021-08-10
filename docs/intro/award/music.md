@@ -8,7 +8,7 @@ title: 音乐奖项
 <thead>
 <tr>
     <th>年份</th>
-    <th>颁奖典礼/榜单</th>
+    <th>典礼榜单</th>
     <th>奖项</th>
     <th>作品</th>
     <th>结果</th>

@@ -30,7 +30,7 @@ module.exports = sidebarConfig({
     },
     {
       title: "形象代言",
-      icon: "ad",
+      icon: "lightbulb-flash",
       prefix: "branding/",
       collapsable: false,
       children: [
@@ -85,10 +85,9 @@ module.exports = sidebarConfig({
 
   //圆桌会
   "/roundtable/": [
-    "collection", //文集
+    "collection/", //文集
     "sentence", //金句
     "anecdote", //轶事
-    "viewpoint/", //观点
   ],
 
   //关于

@@ -1,5 +1,5 @@
 ---
-title: 2020年至今：重回视野
+title: 重回视野：2020年－至今
 ---
 
 2020年1-3月，参加湖南卫视配音类竞技节目《[声临其境（第三季）](https://baike.baidu.com/item/声临其境第三季)》。她为《[冰雪奇缘](https://movie.douban.com/subject/4202982/)》片段中的安娜、《[夏洛特烦恼](https://movie.douban.com/subject/25964071/)》片段中的马冬梅、《[哪吒之魔童降世](https://movie.douban.com/subject/26794435/)》片段中的哪吒、《[后妈茶话会](https://movie.douban.com/subject/34781246/)》片段中的多位角色的配音在网络上得到了很高的赞赏和讨论热度[^新快报]；亦使其虽于常规赛淘汰，得以复活参加了这一季的总决赛，最终获得了季军。

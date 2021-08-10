@@ -17,7 +17,7 @@ title: 关于本站
 
 ## 运行维护
 
-含韵百科当前由站长 [Lei2Rock](https://dlzhang.com)（微博：[@醉里挑灯赏猫](https://weibo.com/7216640993)）进行维护，依托 [Vuepress](https://vuepress-theme-hope.github.io/zh) 创建，项目代码托管于 [GitHub](https://github.com/lei2rock/HanyunWiki)，部署在位于中国香港的服务器上。
+当前由站长 [Lei2Rock](https://dlzhang.com)（微博：[@醉里挑灯赏猫](https://weibo.com/7216640993)）进行维护，依托 [Vuepress](https://vuepress-theme-hope.github.io/zh) 创建，项目代码托管于 [GitHub](https://github.com/lei2rock/HanyunWiki)，部署在位于中国香港的服务器上。
 
 ## 资金
 
@@ -27,7 +27,7 @@ title: 关于本站
 
 ## 免责声明
 
-含韵百科是由张含韵的支持者自发建设运营的网站，不是张含韵及其工作室的官方网站，本站的相关言论、观点不代表张含韵及其工作室或其过往经纪公司的立场与观点。
+含韵百科不是张含韵及其工作室的官方网站，本站的相关言论、观点不代表张含韵及其工作室或其过往经纪公司的立场与观点。
 
 含韵百科尽其最大审慎提供信息，但因未经张含韵及其工作室的审核确认，故不对内容之准确性、完整性、可靠性、可用性和及时性做保证。
 
