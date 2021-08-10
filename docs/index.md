@@ -15,7 +15,7 @@ action:
 
 features:
   - title: 时间轴
-    details: 自 2004 年出道以来的点滴记录
+    details: 自2004年出道以来的点滴记录
     link: /intro/timeline/89-03-early/
 
   - title: 音乐作品
