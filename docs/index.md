@@ -38,15 +38,15 @@ features:
     details: 公益代言、商业广告
     link: /intro/branding/psa/
 
-  - title: 文集
-    details: 媒体报道、文章随笔等文章
+  - title: 随笔文集
+    details: 关于张含韵的随笔与讨论文章
     link: /roundtable/collection/
 
-  - title: 金句
-    details: 经典发言、谈话语句
-    link: /roundtable/sentence/
+  - title: 媒体报道
+    details: 关于张含韵的非消息类媒体报道
+    link: /roundtable/report/
 
-  - title: 轶事
-    details: 一些逸闻趣事
+  - title: 逸闻趣事
+    details: 收录有关张含韵的逸闻趣事
     link: /roundtable/anecdote/
 ---
