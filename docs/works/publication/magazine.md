@@ -60,17 +60,17 @@ title: 报刊杂志
     <td>内页</td>
 </tr>
 <tr>
-    <td><a data-fancybox data-caption="Yes! 第769期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200512_Yes_769.jpg">769期</a></td>
+    <td><a data-fancybox data-caption="Yes! 第769期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200512_Yes_769.jpg">769</a></td>
     <td>Yes!<sup id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
     <td rowspan="2">封面</td>
 </tr>
 <tr>
     <td rowspan="8">2006</td>
-    <td><a data-fancybox data-caption="Yes! 第774期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_774.jpg">774期</a>、<a data-fancybox data-caption="Yes! 第782期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_782.jpg">782期</a>、<a data-fancybox data-caption="Yes! 第798期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_798.jpg">798期</a></td>
+    <td><a data-fancybox data-caption="Yes! 第774期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_774.jpg">774</a>、<a data-fancybox data-caption="Yes! 第782期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_782.jpg">782</a>、<a data-fancybox data-caption="Yes! 第798期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_798.jpg">798</a></td>
     <td>Yes!</td>
 </tr>
 <tr>
-    <td><a data-fancybox data-caption="Yes! 第781期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_781.jpg">781期</a>、<a data-fancybox data-caption="Yes! 第790期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_790.jpg">790期</a>、<a data-fancybox data-caption="Yes! 第792期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_792.jpg">792期</a>、<a data-fancybox data-caption="Yes! 第804期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_804.jpg">804期</a></td>
+    <td><a data-fancybox data-caption="Yes! 第781期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_781.jpg">781</a>、<a data-fancybox data-caption="Yes! 第790期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_790.jpg">790</a>、<a data-fancybox data-caption="Yes! 第792期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_792.jpg">792</a>、<a data-fancybox data-caption="Yes! 第804期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_804.jpg">804</a>、<a data-fancybox data-caption="Yes! 第808期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_808.jpg">808</a>、<a data-fancybox data-caption="Yes! 第809期" href="https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/magazine/200600_Yes_809.jpg">809</a></td>
     <td>Yes!</td>
     <td>内页</td>
 </tr>

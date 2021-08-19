@@ -19,7 +19,7 @@ features:
     link: /intro/timeline/89-03-early/
 
   - title: 音乐作品
-    details: 专辑、录音室单曲、专场歌友会、舞台表演、经典现场
+    details: 专辑、单曲、专场歌友会、舞台表演、经典现场
     link: /works/music/
 
   - title: 影视作品

@@ -437,9 +437,9 @@ title: 大型晚会典礼
 <tr>
     <td>8月18日</td>
     <td>湖南卫视818全球汽车夜</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://www.bilibili.com/video/BV1zf4y137RJ" target="_blank" rel="noopener noreferrer">极速战姬、手扶拖拉机斯基</a></td>
+    <td>张萌、弦子</td>
+    <td>唱跳舞台</td>
 </tr>
 </tbody>
 </table>

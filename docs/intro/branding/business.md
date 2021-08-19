@@ -8,7 +8,7 @@ title: 商业代言
 <table>
 <thead>
 <tr>
-    <th>年份</th>
+    <th>签约年份</th>
     <th>代言品牌</th>
     <th>代言类型</th>
 </tr>
