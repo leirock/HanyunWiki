@@ -172,7 +172,7 @@ title: 商业代言
 </tr>
 <tr>
     <td>手机游戏《QQ飞车》</td>
-    <td><a href="https://weibo.com/6444402026/KkVJxoBJH" target="_blank" rel="noopener noreferrer">元气赛车手</a></td>
+    <td><a href="https://weibo.com/6444402026/KkVJxoBJH" target="_blank" rel="noopener noreferrer">零号机甲驾驶官</a></td>
 </tr>
 </tbody>
 </table>

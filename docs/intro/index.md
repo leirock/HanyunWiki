@@ -72,7 +72,7 @@ title: 认识含韵
     <th>出道日期</th>
     <td>
         2004年9月22日<br/>
-        <small>（2004年《超级女声》总决赛）</small>
+        <small>（2004年《超级女声》全国总决赛）</small>
     </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ title: 认识含韵
 <tr>
     <th>经纪公司</th>
     <td>
-        张含韵工作室<br/>
+        <a href="https://weibo.com/u/5664119488" target="_blank" rel="noopener noreferrer">张含韵工作室</a><br/>
         <small>（？－ 至今）</small><br/>
         北京天中文化<br/>
         <small>（2004年9月－2009年2月）</small>
@@ -139,31 +139,11 @@ title: 认识含韵
 
 ## 社交媒体
 
-- [张含韵的微博](https://weibo.com/zhanghanyun)
-- [张含韵的抖音](https://v.douyin.com/e9kUKxe)
-- [张含韵的博客](http://blog.sina.com.cn/zhanghanyun)<Badge text="不再更新" type="warn"/>
-- [张含韵工作室的微博](https://weibo.com/u/5664119488)<Badge text="经纪团队" type="tip"/>
+- [微博](https://weibo.com/zhanghanyun)
+- [抖音](https://v.douyin.com/e9kUKxe)
+- [博客](http://blog.sina.com.cn/zhanghanyun)<Badge text="不再更新" type="warn"/>
 
 ## 音乐平台
 
-- [QQ音乐](https://y.qq.com/n/ryqq/singer/003hP1b82zqCtm)<Badge text="主要音源" type="tip"/>
+- [QQ 音乐](https://y.qq.com/n/ryqq/singer/003hP1b82zqCtm)<Badge text="主要音源" type="tip"/>
 - [网易云音乐](https://music.163.com/#/artist?id=10583)
-
-## 应援站点
-
-- [张含韵全球粉丝团 - 微博](https://weibo.com/xingyunxingjiazu)<Badge text="官方" type="tip"/>
-- [张含韵茶话会 - 豆瓣小组](https://www.douban.com/group/704311/)
-- [张含韵吧 - 百度贴吧](https://tieba.baidu.com/f?kw=张含韵)
-- [OnlyYun张含韵个站 - 微博](https://weibo.com/5120044924)
-- [ZHY_张含韵同款博 - 微博](https://weibo.com/6202435569)
-
-## 过往站点<Badge text="已失效" type="error"/>
-
-::: danger
-以下站点链接已失效，或不再继续维护，列举于此仅供存档，请勿访问。
-:::
-
-- ~~**张含韵官方网站**：www.babyzhang.com.cn~~
-- ~~**张含韵后援会**：www.zhanghanyun.org~~
-- ~~**张含韵中文网**：www.zhycn.com~~
-- ~~**张含韵西陆论坛**：zhanghy.bbs.xilu.com, club.xilu.com/zhanghy~~
