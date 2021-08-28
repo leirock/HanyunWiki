@@ -13,7 +13,7 @@ title: 著作权信息
 
 ### 文本内容
 
-含韵百科原始文本内容由本站站长  [Lei2Rock](https://dlzhang.com) 创作，最初发布于[维基百科张含韵词条](https://zh.wikipedia.org/w/index.php?title=张含韵&action=history)。含韵百科亦接受投稿以更新相关内容信息。
+含韵百科原始文本内容由本站站长 [leirock](https://dlzhang.com) 创作，最初发布于[维基百科张含韵词条](https://zh.wikipedia.org/w/index.php?title=张含韵&action=history)。含韵百科亦接受投稿以更新相关内容信息。
 
 含韵百科文本内容（包括原始文本内容和投稿中的文本内容）除特殊注明外，均在《**知识共享 署名-相同方式共享 3.0 协议**》下提供，附加条款亦可能应用。
 

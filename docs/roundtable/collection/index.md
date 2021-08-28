@@ -13,7 +13,7 @@ title: 随笔文集
 
 - 张含韵：[给自己](https://weibo.com/1172294045/Ab7N1y6mY)（2013年9月25日）
 
-- lei2rock：[很庆幸又遇见你，就像是和青春的再一次握手](https://blog.dlzhang.com/posts/56/)
+- leirock：[很庆幸又遇见你，就像是和青春的再一次握手](https://blog.dlzhang.com/posts/56/)
 
 - 23年的牛顿：[张含韵--伊人若水](https://weibo.com/ttarticle/p/show?id=2309404616776616116246)
 

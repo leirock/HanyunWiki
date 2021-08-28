@@ -13,11 +13,11 @@ title: 关于本站
 
 ## 运行维护
 
-当前由站长 [Lei2Rock](https://dlzhang.com) 进行维护，依托 [Vuepress](https://vuepress-theme-hope.github.io/zh) 创建，项目代码托管于 [GitHub](https://github.com/lei2rock/HanyunWiki)，部署在位于中国香港的服务器上。
+当前由站长 [leirock](https://dlzhang.com) 进行维护，依托 [Vuepress](https://vuepress-theme-hope.github.io/zh) 创建，项目代码托管于 [GitHub](https://github.com/leirock/HanyunWiki)，部署在位于中国香港的服务器上。
 
 ## 资金
 
-含韵百科是一项非营利性计划，运营主要支出为域名和服务器的租赁费用。如果您觉得本站有所助益，欢迎您通过 [<font color=#946ce6><i class="fas fa-fw fa-bolt"></i>爱发电</font>](https://afdian.net/@lei2rock) 或者 [<font color=#0070ba><i class="fab fa-fw fa-paypal"></i>Paypal</font>](https://paypal.me/lei2rock) 支持站长的日常维护。
+含韵百科是一项非营利性计划，运营主要支出为域名和服务器的租赁费用。如果您觉得本站有所助益，欢迎您通过 [<font color=#946ce6><i class="fas fa-fw fa-bolt"></i>爱发电</font>](https://afdian.net/@leirock) 支持站长的日常维护。
 
 除接受以上两种方式的资金支持外，本站不会以任何其他形式接受或募集资金、物资。
 

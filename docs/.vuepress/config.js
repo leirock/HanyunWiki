@@ -50,7 +50,7 @@ module.exports = config({
     logo: "/logo.png",
 
     //项目仓库地址
-    repo: "https://github.com/lei2rock/HanyunWiki",
+    repo: "https://github.com/leirock/HanyunWiki",
 
     //仓库分支
     docsBranch: "main",
