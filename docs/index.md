@@ -27,15 +27,15 @@ features:
     link: /intro/branding/psa/
 
   - title: 音乐作品
-    details: 专辑、单曲、专场歌友会、舞台表演、经典现场
+    details: 专辑、单曲、舞台表演等作品
     link: /works/music/
 
   - title: 影视作品
-    details: 电视剧、电影、综艺节目、访谈节目、节目主持、短片作品
+    details: 电视剧、电影、综艺节目等作品
     link: /works/video/
 
   - title: 出版物
-    details: 书籍、报刊、杂志等平面出版品
+    details: 书籍、报刊、杂志等出版物
     link: /works/publication/
 
   - title: 随笔文集
