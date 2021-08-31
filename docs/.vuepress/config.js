@@ -15,9 +15,6 @@ module.exports = config({
     ["script", { src: "https://cdn.jsdelivr.net/npm/@babel/standalone/babel.min.js"}],
     //百度搜索资源平台站点验证
     ["meta", { name: "baidu-site-verification", content: "code-exBGMGg3gF"}],
-    //谷歌分析代码
-    ["script", { async: "", src: "https://www.googletagmanager.com/gtag/js?id=UA-141207776-2"}],
-    ["script", { src: "/assets/js/gtag.js"}],
     //Fancybox
     ['script', { src: 'https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js' }],
     ['script', { src: 'https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js' }],
@@ -47,7 +44,7 @@ module.exports = config({
 
     //导航栏的 logo 图片，需填入绝对路径并放入`.vuepress/public`文件夹。
     //黑暗模式 logo 需配置 darkLogo
-    logo: "/logo.png",
+    logo: "/images/logo.png",
 
     //项目仓库地址
     repo: "https://github.com/leirock/HanyunWiki",
@@ -109,7 +106,7 @@ module.exports = config({
     },
 
     pwa: {
-      favicon: "/favicon.ico",
+      favicon: "/assets/icon/favicon.ico",
       themeColor: "#5c92d1",
       cachePic: true,
       apple: {

@@ -7,7 +7,7 @@ title: 早年经历：1989年－2003年
 据其母亲的描述，老师每一学期给张含韵的评语肯定有「能歌善舞」四个字，是学校的文艺标兵[^数码世界]。自初一入学开始，她每年都会在学校的文艺汇演中表演。2003年12月9日，通过学校文艺比赛的选拔，初三年级的张含韵参加了德阳中学「一二·九」文艺汇演[^一二九]，这是她第一次以歌手的身份站在舞台上独唱演出。[^我很张含韵]
 
 ::: center
-![2003年「一二·九」文艺汇演（图源：张含韵工作室）](https://website-1256060851.cos.ap-hongkong.myqcloud.com/zhy/timeline/early-129.jpg)<br/>
+![2003年「一二·九」文艺汇演（图源：张含韵工作室）](https://cdn.jsdelivr.net/gh/leirock/HanyunWiki/docs/.vuepress/public/images/timeline/early-129.jpg)<br/>
 <small>2003年「一二·九」文艺汇演（图源：张含韵工作室）</small>
 :::
 

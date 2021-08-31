@@ -36,7 +36,9 @@ jobs:
       run: yarn install --frozen-lockfile
 
     - name: Generate Vuepress site
-      run: yarn docs:build
+      run: |
+        yarn docs:build
+        rm -rf dist/images/magazine dist/images/timeline
 
     - name: Deploy to server
       uses: easingthemes/ssh-deploy@v2.1.5

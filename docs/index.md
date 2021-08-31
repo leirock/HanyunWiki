@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 含韵百科
-heroImage: /logo.png
+heroImage: /images/logo.png
 heroText: 含韵百科
 tagline: 全方位认识张含韵的百科站点
 action:
