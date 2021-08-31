@@ -18,6 +18,14 @@ features:
     details: 自2004年出道以来的点滴记录
     link: /intro/timeline/89-03-early/
 
+  - title: 奖项荣誉
+    details: 以音乐奖项为主的各类奖项荣誉
+    link: /intro/award/music/
+
+  - title: 形象代言
+    details: 公益代言、商业广告
+    link: /intro/branding/psa/
+
   - title: 音乐作品
     details: 专辑、单曲、专场歌友会、舞台表演、经典现场
     link: /works/music/
@@ -29,14 +37,6 @@ features:
   - title: 出版物
     details: 书籍、报刊、杂志等平面出版品
     link: /works/publication/
-
-  - title: 奖项荣誉
-    details: 以音乐奖项为主的各类奖项荣誉
-    link: /intro/award/music/
-
-  - title: 形象代言
-    details: 公益代言、商业广告
-    link: /intro/branding/psa/
 
   - title: 随笔文集
     details: 关于张含韵的随笔与讨论文章
