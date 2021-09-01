@@ -13,6 +13,8 @@ module.exports = config({
     ["script", { src: "https://cdn.jsdelivr.net/npm/react-dom/umd/react-dom.production.min.js"}],
     ["script", { src: "https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js"}],
     ["script", { src: "https://cdn.jsdelivr.net/npm/@babel/standalone/babel.min.js"}],
+    //访问统计
+    ["script", { async: "",  defer: "", 'data-website-id': "c0717375-4e12-40b0-943e-58cff1dbfe05", src: "https://stats.dlzhang.com/umami.js"}],
     //百度搜索资源平台站点验证
     ["meta", { name: "baidu-site-verification", content: "code-exBGMGg3gF"}],
     //Fancybox
