@@ -20,7 +20,7 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '15.14.0'
+        node-version: '16.x'
   
     - name: Yarn install cache
       uses: actions/cache@v2.1.6
@@ -38,7 +38,7 @@ jobs:
     - name: Generate Vuepress site
       run: |
         yarn docs:build
-        rm -rf dist/images/magazine dist/images/timeline
+        rm -rf dist/images
 
     - name: Deploy to server
       uses: easingthemes/ssh-deploy@v2.1.5
