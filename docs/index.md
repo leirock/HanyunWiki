@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 含韵百科
-heroImage: /images/logo.png
+heroImage: https://cdn.jsdelivr.net/gh/leirock/HanyunWiki/docs/.vuepress/public/images/logo.png
 heroText: 含韵百科
 tagline: 全方位认识张含韵的百科站点
 action:

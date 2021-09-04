@@ -46,7 +46,7 @@ module.exports = config({
 
     //导航栏的 logo 图片，需填入绝对路径并放入`.vuepress/public`文件夹。
     //黑暗模式 logo 需配置 darkLogo
-    logo: "/images/logo.png",
+    logo: "https://cdn.jsdelivr.net/gh/leirock/HanyunWiki/docs/.vuepress/public/images/logo.png",
 
     //项目仓库地址
     repo: "https://github.com/leirock/HanyunWiki",
