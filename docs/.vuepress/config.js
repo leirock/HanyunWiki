@@ -66,7 +66,7 @@ module.exports = config({
     //页脚文字
     footer: {
       display: true,
-      content: "本站采用<a rel='license' href='/about/copyright/'>知识共享 署名-相同方式共享 3.0 协议</a>",
+      content: "本站采用<a rel='license' href='/about/copyright/'>知识共享 署名-相同方式共享 4.0 协议</a>",
       copyright: "",
     },
 
