@@ -392,7 +392,7 @@ title: 大型晚会典礼
     <td>央视综合频道</td>
 </tr>
 <tr>
-    <td rowspan="7">2021</td>
+    <td rowspan="8">2021</td>
     <td>1月24日</td>
     <td>2020王者荣耀年度颁奖典礼</td>
     <td><a href="https://www.bilibili.com/video/BV1ut4y167oJ" target="_blank" rel="noopener noreferrer">你我皆王者</a></td>
@@ -440,6 +440,13 @@ title: 大型晚会典礼
     <td><a href="https://www.bilibili.com/video/BV1zf4y137RJ" target="_blank" rel="noopener noreferrer">极速战姬、手扶拖拉机斯基</a></td>
     <td>张萌、弦子</td>
     <td>唱跳舞台</td>
+</tr>
+<tr>
+    <td>9月21日</td>
+    <td>中央广播电视总台中秋晚会</td>
+    <td></td>
+    <td></td>
+    <td>央视综合频道</td>
 </tr>
 </tbody>
 </table>

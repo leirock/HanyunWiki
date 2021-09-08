@@ -3,23 +3,14 @@ icon: dashboard
 title: 关于本站
 ---
 
-含韵百科，顾名思义即「张含韵的百科站点」，以收录整理张含韵的生平经历、音乐影视作品等内容为主。
-
-## 宗旨
-
-- 为不甚了解张含韵的新朋友提供一个全方位认识张含韵的窗口；
-- 让熟悉张含韵的朋友从不同的角度加深对张含韵的认识；
-- 破除舆论对张含韵的误解，创造一个关于张含韵较为准确、详细的信息展示平台。
+含韵百科，顾名思义即「张含韵的百科站点」，旨在提供一个全方位认识张含韵的窗口。
 
 ## 运行维护
 
-当前由站长 [leirock](https://dlzhang.com) 进行维护，依托 [Vuepress](https://vuepress-theme-hope.github.io/zh) 创建，项目代码托管于 [GitHub](https://github.com/leirock/HanyunWiki)，部署在位于中国香港的服务器上。
+当前由站长 [@班班Leirock](https://weibo.com/leirock) 进行维护，依托 [Vuepress](https://vuepress-theme-hope.github.io/zh) 创建，项目代码托管于 [GitHub](https://github.com/leirock/HanyunWiki)，部署在位于中国香港的服务器上。
 
-## 资金
+含韵百科是一项非营利性计划，运营主要支出为域名和服务器的租赁费用。如果您觉得本站对您了解张含韵有所助益，欢迎您通过 [<font color=#946ce6><i class="fas fa-fw fa-bolt"></i>爱发电</font>](https://afdian.net/@leirock) 支持站长的日常维护。
 
-含韵百科是一项非营利性计划，运营主要支出为域名和服务器的租赁费用。如果您觉得本站有所助益，欢迎您通过 [<font color=#946ce6><i class="fas fa-fw fa-bolt"></i>爱发电</font>](https://afdian.net/@leirock) 支持站长的日常维护。
-
-除接受以上所列渠道之资金支持外，本站不会以任何其他形式接受或募集资金、物资。
 
 ## 免责声明
 
@@ -36,3 +27,13 @@ title: 关于本站
 其他类型作品著作权归原作者所有，如有作者授权则遵照授权协议使用。
 
 详细见 >> [著作权信息页](copyright/)
+
+## 联系方式
+
+您可以通过以下方式与本站管理员取得联系：
+
+- [在线留言](https://blog.dlzhang.com/about/#waline-comments)
+
+- 微博：[@班班Leirock](https://weibo.com/leirock)
+
+- 邮件：leirock (at) foxmail.com

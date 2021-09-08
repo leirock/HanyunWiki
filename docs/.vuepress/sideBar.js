@@ -95,7 +95,5 @@ module.exports = sidebarConfig({
     "", //关于本站
     "disclaimer", //免责声明
     "copyright", //著作权信息
-    "update", //更新日志
-    "contact", //联系方式
   ],
 });
