@@ -41,7 +41,7 @@ jobs:
         rm -rf dist/images
 
     - name: Deploy to server
-      uses: easingthemes/ssh-deploy@v2.1.5
+      uses: easingthemes/ssh-deploy@main
       env:
         ARGS: "-avz --delete"
         SOURCE: "dist/"
