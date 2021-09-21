@@ -41,7 +41,7 @@ module.exports = sidebarConfig({
   ],
 
   //音乐作品
-  "/works/music/": [
+  "/music/": [
     "album/", //专辑
     "single", //录音室单曲
     "concert", //专场歌友会
@@ -59,7 +59,7 @@ module.exports = sidebarConfig({
   ],
 
   //影视作品
-  "/works/video/": [
+  "/video/": [
     "drama", //电视剧
     "movie", //电影
     {
@@ -78,7 +78,7 @@ module.exports = sidebarConfig({
   ],
 
   //出版物
-  "/works/publication/": [
+  "/publication/": [
     "book", //书籍
     "magazine", //报刊杂志
   ],
@@ -92,7 +92,7 @@ module.exports = sidebarConfig({
 
   //关于
   "/about/": [
-    "", //关于本站
+    "", //关于
     "disclaimer", //免责声明
     "copyright", //著作权信息
   ],

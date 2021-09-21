@@ -10,8 +10,8 @@ action:
     link: /intro/
     type: primary
 
-  - text: 公告板
-    link: /bulletin/
+  - text: 关于本站
+    link: /about/
 
 features:
   - title: 时间轴
@@ -28,15 +28,15 @@ features:
 
   - title: 音乐作品
     details: 专辑、单曲、舞台表演等作品
-    link: /works/music/
+    link: /music/
 
   - title: 影视作品
     details: 电视剧、电影、综艺节目等作品
-    link: /works/video/
+    link: /video/
 
   - title: 出版物
     details: 书籍、报刊、杂志等出版物
-    link: /works/publication/
+    link: /publication/
 
   - title: 随笔文集
     details: 关于张含韵的随笔与讨论文章

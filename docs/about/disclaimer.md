@@ -1,5 +1,5 @@
 ---
-icon: information
+icon: bulletin
 title: 免责声明
 ---
 
