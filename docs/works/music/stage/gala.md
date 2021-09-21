@@ -392,7 +392,7 @@ title: 大型晚会典礼
     <td>央视综合频道</td>
 </tr>
 <tr>
-    <td rowspan="8">2021</td>
+    <td rowspan="10">2021</td>
     <td>1月24日</td>
     <td>2020王者荣耀年度颁奖典礼</td>
     <td><a href="https://www.bilibili.com/video/BV1ut4y167oJ" target="_blank" rel="noopener noreferrer">你我皆王者</a></td>
@@ -444,9 +444,23 @@ title: 大型晚会典礼
 <tr>
     <td>9月21日</td>
     <td>中央广播电视总台中秋晚会</td>
+    <td><a href="https://www.bilibili.com/video/BV1zh411n7GT" target="_blank" rel="noopener noreferrer">明月升</a></td>
+    <td>郑恺</td>
+    <td>开场曲</td>
+</tr>
+<tr>
+    <td>9月21日</td>
+    <td>湖南卫视中秋晚会</td>
+    <td><a href="https://www.bilibili.com/video/BV1wf4y1A7Mu" target="_blank" rel="noopener noreferrer">小幸运</a></td>
+    <td></td>
+    <td>钢琴弹唱</td>
+</tr>
+<tr>
+    <td>9月21日</td>
+    <td>首届中国无锡（荡口）光影艺术节</td>
+    <td><a href="https://www.bilibili.com/video/BV1bQ4y1z7He" target="_blank" rel="noopener noreferrer">赤伶</a></td>
     <td></td>
     <td></td>
-    <td>央视综合频道</td>
 </tr>
 </tbody>
 </table>
