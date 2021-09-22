@@ -159,7 +159,7 @@ title: 单曲
     <td></td>
 </tr>
 <tr>
-    <td rowspan="5">2021</td>
+    <td rowspan="6">2021</td>
     <td>1月18日</td>
     <td>逛</td>
     <td>单曲</td>
@@ -191,6 +191,13 @@ title: 单曲
     <td>7月10日</td>
     <td>极速战姬</td>
     <td>手游《QQ飞车》机甲主题曲</td>
+    <td></td>
+    <td class="yes"></td>
+</tr>
+<tr>
+    <td>9月22日</td>
+    <td>我们的生活充满阳光</td>
+    <td>建党百年献礼专辑《百年》</td>
     <td></td>
     <td class="yes"></td>
 </tr>
