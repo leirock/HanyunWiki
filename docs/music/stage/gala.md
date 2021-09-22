@@ -451,14 +451,14 @@ title: 大型晚会典礼
 <tr>
     <td>9月21日</td>
     <td>湖南卫视中秋晚会</td>
-    <td><a href="https://www.bilibili.com/video/BV1wf4y1A7Mu" target="_blank" rel="noopener noreferrer">小幸运</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1gq4y1P7jX" target="_blank" rel="noopener noreferrer">小幸运</a></td>
     <td></td>
     <td>钢琴弹唱</td>
 </tr>
 <tr>
     <td>9月21日</td>
     <td>首届中国无锡（荡口）光影艺术节</td>
-    <td><a href="https://www.bilibili.com/video/BV1bQ4y1z7He" target="_blank" rel="noopener noreferrer">赤伶</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1qQ4y1z7H4" target="_blank" rel="noopener noreferrer">赤伶</a></td>
     <td></td>
     <td></td>
 </tr>

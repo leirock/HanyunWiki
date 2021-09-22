@@ -218,7 +218,7 @@ title: 采访访谈
     <td rowspan="3">2016</td>
     <td>2月26日</td>
     <td>芒果TV《芒果捞星闻》</td>
-    <td><a href="https://www.mgtv.com/b/101575/2993038.html" target="_blank" rel="noopener noreferrer">2016元宵喜乐会录制采访</a></td>
+    <td><a href="https://www.mgtv.com/b/101575/2993038.html" target="_blank" rel="noopener noreferrer">2016年元宵喜乐会录制采访</a></td>
 </tr>
 <tr>
     <td>4月11日</td>
@@ -239,12 +239,18 @@ title: 采访访谈
 <tr>
     <td>9月15日</td>
     <td>央视新闻网络直播</td>
-    <td><a href="https://www.bilibili.com/video/BV1a54y1C7eV" target="_blank" rel="noopener noreferrer">中秋晚会录制后采访</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1a54y1C7eV" target="_blank" rel="noopener noreferrer">2020年中央广播电视总台中秋晚会录制采访</a></td>
 </tr>
 <tr>
     <td>12月20日</td>
     <td>央视频直播</td>
-    <td><a href="https://www.bilibili.com/video/BV1vf4y1e78n" target="_blank" rel="noopener noreferrer">启航2021跨年盛典探班</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1vf4y1e78n" target="_blank" rel="noopener noreferrer">中央广播电视总台启航2021跨年盛典探班</a></td>
+</tr>
+<tr>
+    <td>2021</td>
+    <td>9月4日</td>
+    <td>央视新闻网络直播</td>
+    <td><a href="https://www.bilibili.com/video/BV1dQ4y1C7JC" target="_blank" rel="noopener noreferrer">2021年中央广播电视总台中秋晚会录制采访</a></td>
 </tr>
 </tbody>
 </table>
