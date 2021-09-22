@@ -11,9 +11,9 @@ title: 关于本站
 
 ## 运行维护
 
-当前由站长 [Leirock](https://weibo.com/leirock) 进行维护，依托 [Vuepress](https://vuepress-theme-hope.github.io/zh) 创建，项目代码托管于 [GitHub](https://github.com/leirock/HanyunWiki)。
+当前由站长 [Leirock](https://dlzhang.com) 进行维护，依托 [Vuepress](https://vuepress-theme-hope.github.io/zh) 创建，项目代码托管于 [GitHub](https://github.com/leirock/HanyunWiki)。
 
-含韵百科是一项非营利性计划，运营主要支出为域名和服务器的租赁费用。如果您觉得本站对您了解张含韵有所助益，欢迎您通过 [<font color=#946ce6><i class="fas fa-fw fa-bolt"></i>爱发电</font>](https://afdian.net/@leirock) 支持站长的日常维护。
+含韵百科是一项非营利性计划，运营主要支出为域名和服务器的租赁费用。如果您觉得本站对您了解张含韵有所助益，欢迎您通过 [<font color=#946ce6><i class="fas fa-fw fa-bolt"></i>爱发电</font>](https://afdian.net/@leirock) 支持本站的日常维护。
 
 ## 免责声明
 
@@ -45,6 +45,6 @@ title: 关于本站
 
 - [在线留言](https://blog.dlzhang.com/guestbook)
 
-- 微博：[@班班Leirock](https://weibo.com/leirock)
+- 微博私信：[@班班Leirock](https://weibo.com/leirock)
 
 - 邮件：zjzdl (at) outlook.com

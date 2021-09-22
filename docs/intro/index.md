@@ -136,18 +136,16 @@ title: 认识含韵
 </tr>
 </tbody>
 <script type="text/javascript">
-var birth='1989-04-09';
-var debut='2004-09-22';
-birth = Date.parse(birth.replace('/-/g', "/"));
-debut = Date.parse(debut.replace('/-/g', "/"));
-var year = 1000 * 60 * 60 * 24 * 365;
-var now = new Date();
-var birthday = new Date(birth);
-var debutday = new Date(debut);
-var age = parseInt((now - birthday) / year);
-var debutyear = parseInt((now - debutday) / year);
-document.getElementById("age").innerHTML = age;
-document.getElementById("debutyear").innerHTML = debutyear;
+    var birth='1989/04/09';
+    var debut='2004/09/22';
+    var year = 1000 * 60 * 60 * 24 * 365;
+    var now = new Date();
+    var birthday = new Date(birth);
+    var debutday = new Date(debut);
+    var age = parseInt((now - birthday) / year);
+    var debutyear = parseInt((now - debutday) / year);
+    document.getElementById("age").innerHTML = age;
+    document.getElementById("debutyear").innerHTML = debutyear;
 </script>
 </table>
 
