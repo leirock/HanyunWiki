@@ -9,10 +9,10 @@ title: 单曲
 <thead>
 <tr>
     <th>年份</th>
-    <th>发行日期</th>
+    <th>日期</th>
     <th>曲目</th>
     <th style="width:35%">类型</th>
-    <th style="width:20%">合作者</th>
+    <th style="width:20%">合唱</th>
     <th>MV</th>
 </tr>
 </thead>
@@ -204,7 +204,7 @@ title: 单曲
 <tr>
     <td>9月27日</td>
     <td>瓮</td>
-    <td></td>
+    <td>单曲</td>
     <td></td>
     <td></td>
 </tr>
