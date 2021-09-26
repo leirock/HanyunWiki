@@ -159,7 +159,7 @@ title: 单曲
     <td></td>
 </tr>
 <tr>
-    <td rowspan="6">2021</td>
+    <td rowspan="7">2021</td>
     <td>1月18日</td>
     <td>逛</td>
     <td>单曲</td>
@@ -201,11 +201,18 @@ title: 单曲
     <td></td>
     <td class="yes"></td>
 </tr>
+<tr>
+    <td>9月27日</td>
+    <td>瓮</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
 </tbody>
 </table>
 
 <small>
 <b>注释：</b><br/>
 1. 《我不是复制品》未正式发行，故没有录音室版本，可观看<a href="https://v.youku.com/v_show/id_XMjY1MDI0OTAw" target="_blank" rel="noopener noreferrer">现场视频</a>。<br/>
-2. 《相思赋》、《问别》、《开心就好》、《温柔反击》、《逛》等五首单曲的音源在网易云音乐，其余单曲音源均在 QQ 音乐。
+2. 《相思赋》、《问别》、《开心就好》、《温柔反击》、《逛》、《瓮》的音源在网易云音乐，其余单曲音源均在 QQ 音乐。
 </small>
