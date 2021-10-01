@@ -109,7 +109,7 @@ module.exports = config({
 
     pwa: {
       favicon: "/assets/icon/favicon.ico",
-      themeColor: "#5c92d1",
+      themeColor: "",
       cachePic: true,
       apple: {
         icon: "/assets/icon/apple-icon-152x152.png",
