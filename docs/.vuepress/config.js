@@ -101,7 +101,7 @@ module.exports = config({
 //****************
     //Markdown增强插件
     mdEnhance: {
-      //imageFix: true,  //修复包含特殊字符的图片的引用
+      imageFix: true,  //修复包含特殊字符的图片的引用
       align:true,  //自定义对齐
       footnote:true,  //脚注
       mark: true,  //标记
@@ -109,15 +109,15 @@ module.exports = config({
 
     pwa: {
       favicon: "/assets/icon/favicon.ico",
-      themeColor: "",
+      themeColor: "#fff",
       cachePic: true,
       apple: {
         icon: "/assets/icon/apple-icon-152x152.png",
-        statusBarColor: "black",
+        statusBarColor: "#fff",
       },
       msTile: {
         image: "/assets/icon/ms-icon-144x144.png",
-        color: "#ffffff",
+        color: "#fff",
       },
       manifest: {
         icons: [
