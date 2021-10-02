@@ -55,7 +55,7 @@ title: 大型晚会典礼
 </tr>
 <tr>
     <td>11月12日</td>
-    <td>第一届CCTV-尼克<br/>「孩子的选择」欢乐盛典</td>
+    <td>第一届CCTV-尼克<br/>“孩子的选择”欢乐盛典</td>
     <td><a href="https://www.bilibili.com/video/BV1gU4y1b7qr" target="_blank" rel="noopener noreferrer">放假了</a></td>
     <td></td>
     <td>北京天桥剧场<br/>央视少儿频道</td>
@@ -84,7 +84,7 @@ title: 大型晚会典礼
 <tr>
     <td rowspan="9">2006</td>
     <td>1月2日</td>
-    <td>北京卫视「我的父亲母亲」评选活动颁奖晚会</td>
+    <td>北京卫视“我的父亲母亲”评选活动颁奖晚会</td>
     <td><a href="https://v.youku.com/v_show/id_XMTE2NzkyMTU2" target="_blank" rel="noopener noreferrer">妈妈我爱你</a></td>
     <td></td>
     <td></td>
@@ -126,7 +126,7 @@ title: 大型晚会典礼
 </tr>
 <tr>
     <td>7月27日</td>
-    <td>「同心同根万里行太阳计划」西安演唱会</td>
+    <td>“同心同根万里行太阳计划”西安演唱会</td>
     <td><a href="https://www.bilibili.com/video/BV1w4411w7fS" target="_blank" rel="noopener noreferrer">妈妈我爱你</a></td>
     <td></td>
     <td>陕西省体育场<br/>香港电台</td>
@@ -140,7 +140,7 @@ title: 大型晚会典礼
 </tr>
 <tr>
     <td>11月1日</td>
-    <td>第二届CCTV-尼克<br/>「孩子的选择」欢乐盛典</td>
+    <td>第二届CCTV-尼克<br/>“孩子的选择”欢乐盛典</td>
     <td><a href="https://www.bilibili.com/video/BV1gU4y1b7qr" target="_blank" rel="noopener noreferrer">妈妈我爱你</a></td>
     <td></td>
     <td>北京天桥剧场<br/>央视少儿频道</td>
@@ -191,7 +191,7 @@ title: 大型晚会典礼
 </tr>
 <tr>
     <td>5月17日</td>
-    <td>「为了灾区的孩子」<br/>海南省抗震救灾义演募捐晚会</td>
+    <td>“为了灾区的孩子”<br/>海南省抗震救灾义演募捐晚会</td>
     <td><a href="https://v.youku.com/v_show/id_XMTEwMjA0NDU2" target="_blank" rel="noopener noreferrer">好大一棵树</a></td>
     <td></td>
     <td>旅游卫视</td>
@@ -295,7 +295,7 @@ title: 大型晚会典礼
 <tr>
     <td rowspan="2">2016</td>
     <td>1月1日</td>
-    <td>四川卫视「花开天下」新春演唱会</td>
+    <td>四川卫视“花开天下”新春演唱会</td>
     <td><a href="https://www.bilibili.com/video/BV1G4411s7Ui" target="_blank" rel="noopener noreferrer">酸酸甜甜就是我</a>、<a href="https://www.bilibili.com/video/BV1ny4y1p7Tz" target="_blank" rel="noopener noreferrer">追梦、爱神总是敲错门</a></td>
     <td></td>
     <td></td>
@@ -332,7 +332,7 @@ title: 大型晚会典礼
 </tr>
 <tr>
     <td>9月20日</td>
-    <td>湖南卫视「看见美好生活——你眼中的国货潮流」</td>
+    <td>湖南卫视“看见美好生活——你眼中的国货潮流”</td>
     <td><a href="https://www.bilibili.com/video/BV1mi4y177zq" target="_blank" rel="noopener noreferrer">小幸运</a>、<a href="https://www.bilibili.com/video/BV13t4y1q7nD" target="_blank" rel="noopener noreferrer">嘿！姑娘</a></td>
     <td>金莎</td>
     <td>吉他弹唱</td>
@@ -360,7 +360,7 @@ title: 大型晚会典礼
 </tr>
 <tr>
     <td>12月6日</td>
-    <td>「高调少年」抖音大学生音乐大赛</td>
+    <td>“高调少年”抖音大学生音乐大赛</td>
     <td><a href="https://www.bilibili.com/video/BV1V64y1f7Kt" target="_blank" rel="noopener noreferrer">丹青墨绿</a></td>
     <td></td>
     <td></td>
@@ -392,7 +392,7 @@ title: 大型晚会典礼
     <td>央视综合频道</td>
 </tr>
 <tr>
-    <td rowspan="10">2021</td>
+    <td rowspan="11">2021</td>
     <td>1月24日</td>
     <td>2020王者荣耀年度颁奖典礼</td>
     <td><a href="https://www.bilibili.com/video/BV1ut4y167oJ" target="_blank" rel="noopener noreferrer">你我皆王者</a></td>
@@ -401,7 +401,7 @@ title: 大型晚会典礼
 </tr>
 <tr>
     <td>2月12日</td>
-    <td>「百花迎春」中国文学艺术界<br/>2021春节大联欢</td>
+    <td>“百花迎春”中国文学艺术界<br/>2021春节大联欢</td>
     <td><a href="https://www.bilibili.com/video/BV18K4y1n7Zs" target="_blank" rel="noopener noreferrer">少年</a></td>
     <td>梦然、胡夏、孙坚</td>
     <td></td>
@@ -422,7 +422,7 @@ title: 大型晚会典礼
 </tr>
 <tr>
     <td>4月1日</td>
-    <td>中央广播电视总台「心连心」<br/>艺术团赴雄安新区慰问演出</td>
+    <td>中央广播电视总台“心连心”<br/>艺术团赴雄安新区慰问演出</td>
     <td><a href="https://www.bilibili.com/video/BV1th411D7XA" target="_blank" rel="noopener noreferrer">我们都是追梦人</a></td>
     <td>朱正廷</td>
     <td>央视综艺频道</td>
@@ -461,6 +461,13 @@ title: 大型晚会典礼
     <td><a href="https://www.bilibili.com/video/BV1qQ4y1z7H4" target="_blank" rel="noopener noreferrer">赤伶</a></td>
     <td></td>
     <td></td>
+</tr>
+<tr>
+    <td>10月2日</td>
+    <td>“这样的我，很中国”国庆特别节目</td>
+    <td><a href="https://www.bilibili.com/video/BV1TQ4y167dw" target="_blank" rel="noopener noreferrer">星辰大海</a></td>
+    <td>王嘉</td>
+    <td>央视综艺频道</td>
 </tr>
 </tbody>
 </table>
