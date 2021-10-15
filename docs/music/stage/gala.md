@@ -392,7 +392,7 @@ title: 大型晚会典礼
     <td>央视综合频道</td>
 </tr>
 <tr>
-    <td rowspan="11">2021</td>
+    <td rowspan="12">2021</td>
     <td>1月24日</td>
     <td>2020王者荣耀年度颁奖典礼</td>
     <td><a href="https://www.bilibili.com/video/BV1ut4y167oJ" target="_blank" rel="noopener noreferrer">你我皆王者</a></td>
@@ -468,6 +468,13 @@ title: 大型晚会典礼
     <td><a href="https://www.bilibili.com/video/BV1TQ4y167dw" target="_blank" rel="noopener noreferrer">星辰大海</a></td>
     <td>王嘉</td>
     <td>央视综艺频道</td>
+</tr>
+<tr>
+    <td>10月15日</td>
+    <td>2021抖音奇妙夜</td>
+    <td><a href="https://www.bilibili.com/video/BV1Bq4y1d7HK" target="_blank" rel="noopener noreferrer">潇洒小姐</a></td>
+    <td>金晨、李斯丹妮</td>
+    <td></td>
 </tr>
 </tbody>
 </table>
