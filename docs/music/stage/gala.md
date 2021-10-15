@@ -474,7 +474,7 @@ title: 大型晚会典礼
     <td>2021抖音奇妙夜</td>
     <td><a href="https://www.bilibili.com/video/BV1Bq4y1d7HK" target="_blank" rel="noopener noreferrer">潇洒小姐</a></td>
     <td>金晨、李斯丹妮</td>
-    <td></td>
+    <td>唱跳舞台</td>
 </tr>
 </tbody>
 </table>
