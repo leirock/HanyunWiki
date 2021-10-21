@@ -295,7 +295,7 @@ title: 报刊杂志
 <tr>
     <td><a data-fancybox data-caption="座驾Car 2020年9月" href="https://cdn.jsdelivr.net/gh/leirock/HanyunWiki/docs/.vuepress/public/images/magazine/202009_座驾Car.jpg">9月</a></td>
     <td>座驾 Car</td>
-    <td rowspan="6">封面</td>
+    <td rowspan="7">封面</td>
 </tr>
 <tr>
     <td><a data-fancybox data-caption="女友 2020年10月" href="https://cdn.jsdelivr.net/gh/leirock/HanyunWiki/docs/.vuepress/public/images/magazine/202010_女友.jpg">10月</a></td>
@@ -306,17 +306,21 @@ title: 报刊杂志
     <td>茜茜姐妹</td>
 </tr>
 <tr>
-    <td rowspan="3">2021</td>
+    <td rowspan="4">2021</td>
     <td><a data-fancybox data-caption="婚姻与家庭 2021年2月" href="https://cdn.jsdelivr.net/gh/leirock/HanyunWiki/docs/.vuepress/public/images/magazine/202102_婚姻与家庭.jpg">2月上半月</a></td>
     <td><a href="http://www.mf-china.com.cn/MarryAndFamily/twolistController/content/1/32/17593.do" target="_blank" rel="noopener noreferrer">婚姻与家庭</a></td>
 </tr>
 <tr>
-    <td><a data-fancybox data-caption="嘉人 2021年2月" href="https://cdn.jsdelivr.net/gh/leirock/HanyunWiki/docs/.vuepress/public/images/magazine/202102_嘉人.jpg">2月</a></td>
+    <td><a data-fancybox data-caption="嘉人·嘉人行 2021年2月" href="https://cdn.jsdelivr.net/gh/leirock/HanyunWiki/docs/.vuepress/public/images/magazine/202102_嘉人.jpg">2月</a></td>
     <td>嘉人·嘉人行（单发别册）</td>
 </tr>
 <tr>
     <td><a data-fancybox data-caption="凤凰周刊·生活 2021年3月" href="https://cdn.jsdelivr.net/gh/leirock/HanyunWiki/docs/.vuepress/public/images/magazine/202103_凤凰周刊生活.jpg">3月</a></td>
     <td>凤凰周刊·生活</td>
+</tr>
+<tr>
+    <td><a data-fancybox data-caption="势界·My Play 2021年10月" href="https://cdn.jsdelivr.net/gh/leirock/HanyunWiki/docs/.vuepress/public/images/magazine/202110_势界.jpg">10月</a></td>
+    <td>势界·My Play（单发别册）</td>
 </tr>
 </tbody>
 </table>
