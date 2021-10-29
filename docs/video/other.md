@@ -46,7 +46,7 @@ title: 其他影视作品
 <tr>
     <td rowspan="4">2020</td>
     <td><a href="https://www.bilibili.com/video/BV1H54y1B7yQ" target="_blank" rel="noopener noreferrer">一起奔驰吧 EQC Radio</a></td>
-    <td>奔驰 EQC 电动汽车推广，清唱《丹青墨绿》</td>
+    <td>奔驰 EQC 电动汽车推广</td>
 </tr>
 <tr>
     <td><a href="https://www.bilibili.com/video/BV1az4y1X7xy" target="_blank" rel="noopener noreferrer">奥利奥广告</a></td>
