@@ -123,7 +123,7 @@ title: 非固定综艺节目
     <td>与赵丽颖、张杰 <a href="https://v.qq.com/x/page/0nYLEowMxgg.html" target="_blank" rel="noopener noreferrer">[片段1]</a> <a href="https://v.youku.com/v_show/id_XMzU5NDM2MTM1Ng==.html" target="_blank" rel="noopener noreferrer">[片段2]</a></td>
 </tr>
 <tr>
-    <td rowspan="10">2007</td>
+    <td rowspan="11">2007</td>
     <td>2月3日<sup id="cite_ref-2-1"><a href="#cite_note-2-1">[2]</a></sup></td>
     <td>山东卫视</td>
     <td><a href="https://v.youku.com/v_show/id_XMTEyMTQ3MzI0" target="_blank" rel="noopener noreferrer">阳光快车道</a></td>
@@ -166,10 +166,16 @@ title: 非固定综艺节目
     <td>与汪涵</td>
 </tr>
 <tr>
+    <td>5月17日</td>
+    <td>浙江卫视</td>
+    <td><a href="https://weibo.com/5603452185/K5m2VDrjN" target="_blank" rel="noopener noreferrer">太可乐了</a></td>
+    <td></td>
+</tr>
+<tr>
     <td>6月23日</td>
     <td>天津卫视</td>
     <td><a href="https://www.bilibili.com/video/BV13T4y1j7cH" target="_blank" rel="noopener noreferrer">快乐转转转</a></td>
-    <td>演唱《一人一梦》</td>
+    <td></td>
 </tr>
 <tr>
     <td>7月29日</td>
