@@ -159,7 +159,7 @@ title: 单曲
     <td></td>
 </tr>
 <tr>
-    <td rowspan="7">2021</td>
+    <td rowspan="8">2021</td>
     <td>1月18日</td>
     <td>逛</td>
     <td>单曲</td>
@@ -206,6 +206,13 @@ title: 单曲
     <td>瓮</td>
     <td>单曲</td>
     <td>葛东琪</td>
+    <td></td>
+</tr>
+<tr>
+    <td>11月25日</td>
+    <td>美味的爱</td>
+    <td>网络剧《爱很美味》主题曲</td>
+    <td>李纯、王菊</td>
     <td></td>
 </tr>
 </tbody>
