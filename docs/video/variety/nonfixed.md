@@ -324,7 +324,7 @@ title: 非固定综艺节目
     <td>《赤狐书生》剧组</td>
 </tr>
 <tr>
-    <td rowspan="8">2021</td>
+    <td rowspan="9">2021</td>
     <td>1月8日</td>
     <td>湖南卫视</td>
     <td><a href="https://www.mgtv.com/b/348499/10832150.html" target="_blank" rel="noopener noreferrer">姐姐的爱乐之程 第10期</a></td>
@@ -364,6 +364,12 @@ title: 非固定综艺节目
     <td>5月7日</td>
     <td>浙江卫视</td>
     <td><a href="https://www.iqiyi.com/v_1ksjynob77s.html" target="_blank" rel="noopener noreferrer">奔跑吧 第五季第3期</a></td>
+</tr>
+<tr>
+    <td>11月20日</td>
+    <td>央视综合频道</td>
+    <td><a href="https://www.bilibili.com/video/BV17f4y1M7dC?p=1" target="_blank" rel="noopener noreferrer">中国考古大会 第1期</a></td>
+    <td>良渚遗址</td>
 </tr>
 </tbody>
 </table>
