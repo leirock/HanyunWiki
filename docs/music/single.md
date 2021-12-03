@@ -159,7 +159,7 @@ title: 单曲
     <td></td>
 </tr>
 <tr>
-    <td rowspan="8">2021</td>
+    <td rowspan="9">2021</td>
     <td>1月18日</td>
     <td>逛</td>
     <td>单曲</td>
@@ -213,6 +213,13 @@ title: 单曲
     <td>美味的爱</td>
     <td>网络剧《爱很美味》主题曲</td>
     <td>李纯、王菊</td>
+    <td></td>
+</tr>
+<tr>
+    <td>12月3日</td>
+    <td>群英荟</td>
+    <td>成都第31届世界大学生夏季运动会主题推广歌曲</td>
+    <td></td>
     <td></td>
 </tr>
 </tbody>
