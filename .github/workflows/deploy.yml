@@ -38,7 +38,6 @@ jobs:
     - name: Generate Vuepress site
       run: |
         yarn docs:build
-        rm -rf dist/images
 
     - name: Deploy to server
       uses: easingthemes/ssh-deploy@main

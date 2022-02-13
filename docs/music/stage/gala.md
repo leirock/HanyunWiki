@@ -476,6 +476,14 @@ title: 大型晚会典礼
     <td>金晨、李斯丹妮</td>
     <td>唱跳舞台</td>
 </tr>
+<tr>
+    <td>2022</td>
+    <td>2月2日</td>
+    <td>新春的交响·西部畅想</td>
+    <td><a href="https://www.bilibili.com/video/BV1z3411E7eb" target="_blank" rel="noopener noreferrer">湫兮如风</a></td>
+    <td>李飚（指挥）</td>
+    <td>央视音乐频道</td>
+</tr>
 </tbody>
 </table>
 
