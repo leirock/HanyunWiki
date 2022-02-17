@@ -60,5 +60,10 @@ title: 其他影视作品
     <td><a href="https://www.mgtv.com/b/356432/10776457.html" target="_blank" rel="noopener noreferrer">纪录片《中国》第八集《融合》</a></td>
     <td>旁白解说配音</td>
 </tr>
+<tr>
+    <td rowspan="4">2021</td>
+    <td><a href="https://www.bilibili.com/video/BV1H54y1B7yQ" target="_blank" rel="noopener noreferrer">NBA 新春贺岁短片《十年之约》</a></td>
+    <td>NBA 新春贺岁十周年</td>
+</tr>
 </tbody>
 </table>

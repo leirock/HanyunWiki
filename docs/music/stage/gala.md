@@ -326,7 +326,7 @@ title: 大型晚会典礼
 <tr>
     <td>8月18日</td>
     <td>湖南卫视818全球汽车夜</td>
-    <td><a href="https://v.qq.com/x/page/w313885qfjx.html" target="_blank" rel="noopener noreferrer">明天的烦恼交给明天</a>、<a href="https://www.bilibili.com/video/BV16D4y127ue" target="_blank" rel="noopener noreferrer">无价之姐</a></td>
+    <td><a href="https://v.qq.com/x/page/w313885qfjx.html" target="_blank" rel="noopener noreferrer">明天的烦恼交给明天</a>、<br/><a href="https://www.bilibili.com/video/BV16D4y127ue" target="_blank" rel="noopener noreferrer">无价之姐</a></td>
     <td>王霏霏、孟佳、郁可唯、李斯丹妮、沈梦辰、黄晓明</td>
     <td>唱跳舞台</td>
 </tr>
@@ -437,7 +437,7 @@ title: 大型晚会典礼
 <tr>
     <td>8月18日</td>
     <td>湖南卫视818全球汽车夜</td>
-    <td><a href="https://www.bilibili.com/video/BV1zf4y137RJ" target="_blank" rel="noopener noreferrer">极速战姬、手扶拖拉机斯基</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1zf4y137RJ" target="_blank" rel="noopener noreferrer">极速战姬、<br/>手扶拖拉机斯基</a></td>
     <td>张萌、弦子</td>
     <td>唱跳舞台</td>
 </tr>
@@ -477,7 +477,14 @@ title: 大型晚会典礼
     <td>唱跳舞台</td>
 </tr>
 <tr>
-    <td>2022</td>
+    <td rowspan="2">2022</td>
+    <td>1月14日</td>
+    <td>2021年QQ飞车手游S联赛年度总决赛</td>
+    <td><a href="https://www.bilibili.com/video/BV1Gb4y1J7tQ?p=8" target="_blank" rel="noopener noreferrer">丹青墨绿、极速战姬</a></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
     <td>2月2日</td>
     <td>新春的交响·西部畅想</td>
     <td><a href="https://www.bilibili.com/video/BV1z3411E7eb" target="_blank" rel="noopener noreferrer">湫兮如风</a></td>

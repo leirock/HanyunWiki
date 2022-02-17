@@ -199,7 +199,7 @@ title: 采访访谈
 <tr>
     <td>2005</td>
     <td>5月6日</td>
-    <td></td>
+    <td>湖南卫视</td>
     <td><a href="https://www.bilibili.com/video/BV1wa4y1E7mb" target="_blank" rel="noopener noreferrer">2005超级女声广州唱区总决赛后台采访</a></td>
 </tr>
 <tr>
@@ -212,7 +212,7 @@ title: 采访访谈
     <td>2013</td>
     <td>7月18日</td>
     <td>央视音乐频道《今乐坛》</td>
-    <td><a href="https://tv.cctv.com/2013/07/18/VIDE1374143592580106.shtml" target="_blank" rel="noopener noreferrer">电影《初恋未满》主演采访</a></td>
+    <td><a href="https://tv.cctv.com/2013/07/18/VIDE1374143592580106.shtml" target="_blank" rel="noopener noreferrer">《初恋未满》主演采访</a></td>
 </tr>
 <tr>
     <td rowspan="3">2016</td>
@@ -228,7 +228,7 @@ title: 采访访谈
 <tr>
     <td>11月24日</td>
     <td>芒果TV</td>
-    <td><a href="https://www.mgtv.com/b/52918/3712722.html" target="_blank" rel="noopener noreferrer">电视剧《兰陵王妃》主演采访</a></td>
+    <td><a href="https://www.mgtv.com/b/52918/3712722.html" target="_blank" rel="noopener noreferrer">《兰陵王妃》主演采访</a></td>
 </tr>
 <tr>
     <td rowspan="3">2020</td>
@@ -247,10 +247,15 @@ title: 采访访谈
     <td><a href="https://www.bilibili.com/video/BV1vf4y1e78n" target="_blank" rel="noopener noreferrer">中央广播电视总台启航2021跨年盛典探班</a></td>
 </tr>
 <tr>
-    <td>2021</td>
+    <td rowspan="2">2021</td>
     <td>9月4日</td>
     <td>央视新闻网络直播</td>
     <td><a href="https://www.bilibili.com/video/BV1dQ4y1C7JC" target="_blank" rel="noopener noreferrer">2021年中央广播电视总台中秋晚会录制采访</a></td>
+</tr>
+<tr>
+    <td>11月30日</td>
+    <td>腾讯视频《Big磅来了》</td>
+    <td><a href="https://v.qq.com/x/cover/mzc00200307addg.html" target="_blank" rel="noopener noreferrer">《爱很美味》主演采访</a></td>
 </tr>
 </tbody>
 </table>
