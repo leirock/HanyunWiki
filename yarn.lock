@@ -1197,7 +1197,7 @@
     screenfull "^5.2.0"
     vue-router "^3.5.3"
 
-"@mr-hope/vuepress-plugin-copy-code@1.28.0":
+"@mr-hope/vuepress-plugin-copy-code@1.26.0":
   version "1.26.0"
   resolved "https://registry.yarnpkg.com/@mr-hope/vuepress-plugin-copy-code/-/vuepress-plugin-copy-code-1.26.0.tgz#03c8c2128f3a6f69c29014541840a45700455530"
   integrity sha512-Vv1J7CuTMxNZMd6CgOE5LQIoMcyGMG+E1fRyzcZwclVlLsdUlxQoSQ4t27l1XqEWvGcsCR+dgi7IcG18jrrCzg==
@@ -10391,7 +10391,7 @@ vuepress-theme-hope@^1.18.3:
     "@docsearch/js" "^3.0.0-alpha.50"
     "@mr-hope/vuepress-plugin-comment" "1.28.0"
     "@mr-hope/vuepress-plugin-components" "1.28.0"
-    "@mr-hope/vuepress-plugin-copy-code" "1.28.0"
+    "@mr-hope/vuepress-plugin-copy-code" "1.26.0"
     "@mr-hope/vuepress-plugin-feed" "1.28.0"
     "@mr-hope/vuepress-plugin-git" "1.28.0"
     "@mr-hope/vuepress-plugin-pwa" "1.28.0"
