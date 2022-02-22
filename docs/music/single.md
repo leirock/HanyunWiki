@@ -229,6 +229,14 @@ title: 单曲
     <td>小橘子</td>
     <td class="yes"></td>
 </tr>
+<tr>
+    <td>2022</td>
+    <td>2月22日</td>
+    <td>海与灯塔</td>
+    <td>电视剧《我们的婚姻》片尾曲</td>
+    <td>阿云嘎</td>
+    <td></td>
+</tr>
 </tbody>
 </table>
 
