@@ -5,15 +5,15 @@ title: 关于本站
 
 含韵百科，顾名思义即「张含韵的百科站点」，旨在提供一个全方位认识张含韵的窗口。
 
-含韵百科欢迎大家纠错或补充信息，也可以对本站建设提出意见建议。请注意，您的投稿将被视为默认接受本站关于文本内容的[著作权许可协议](/about/copyright/)。
+含韵百科原始文本内容由本站站长 [Leirock](https://blog.dlzhang.com) 于2021年5月创作，最初发布于维基百科张含韵词条。
 
-您可以直接点击页面左下角的「**编辑此页**」，前往 GitHub 上的代码仓库提交 Pull Request，请求被批准后就会更新您的更改。如果您阅读和修改本站代码有困难，也可以直接联系本站管理员提交您希望补充或修改的内容。
+含韵百科是一项非营利性计划，运营主要支出为域名和服务器的租赁费用。如果您觉得本站对您了解张含韵有所助益，欢迎您通过 [<font color=#946ce6><i class="fas fa-fw fa-bolt"></i>爱发电</font>](https://afdian.net/@leirock) 支持本站的日常运行。
 
 ## 运行维护
 
-当前由站长 [Leirock](https://dlzhang.com) 进行维护，依托 [Vuepress](https://vuepress-theme-hope.github.io/zh) 创建，项目代码托管于 [GitHub](https://github.com/leirock/HanyunWiki)。
+含韵百科当前由站长 Leirock 维护，依托 [Vuepress](https://vuepress-theme-hope.github.io/v1/zh/) 创建，项目代码托管于 [GitHub](https://github.com/leirock/HanyunWiki)。欢迎大家纠错或补充信息，也可以对本站建设提出意见建议。请注意，您的投稿将被视为默认接受本站关于文本内容的[著作权许可协议](/about/copyright/)。
 
-含韵百科是一项非营利性计划，运营主要支出为域名和服务器的租赁费用。如果您觉得本站对您了解张含韵有所助益，欢迎您通过 [<font color=#946ce6><i class="fas fa-fw fa-bolt"></i>爱发电</font>](https://afdian.net/@leirock) 支持本站的日常维护。
+您可以直接点击页面左下角的「**编辑此页**」，前往 GitHub 上的代码仓库提交 Pull Request，请求被批准后就会更新您的更改。如果您阅读和修改本站代码有困难，也可以直接联系本站管理员提交您希望补充或修改的内容。
 
 ## 免责声明
 
