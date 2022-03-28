@@ -20,13 +20,13 @@ title: 非固定综艺节目
 <tbody>
 <tr>
     <td rowspan="11">2005</td>
-    <td>7月18日<sup id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td></td>
+    <td>7月18日<sup id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
     <td>央视体育频道</td>
     <td>天下足球</td>
     <td>拜仁豪门周，演唱《想唱就唱》</td>
 </tr>
 <tr>
-    <td>7月19日<sup id="cite_ref-2-0"><a href="#cite_note-2-0">[2]</a></sup></td></td>
+    <td>7月19日<sup id="cite_ref-2-0"><a href="#cite_note-2-0">[2]</a></sup></td>
     <td>央视综艺频道</td>
     <td>想挑战吗·动感夏日</td>
     <td></td>
@@ -314,7 +314,7 @@ title: 非固定综艺节目
     <td rowspan="2">2020</td>
     <td>2月23日</td>
     <td>湖南卫视</td>
-    <td><a href="https://www.mgtv.com/b/334728/7594196.html" target="_blank" rel="noopener noreferrer">天天向上</a><sup id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></td></td>
+    <td><a href="https://www.mgtv.com/b/334728/7594196.html" target="_blank" rel="noopener noreferrer">天天向上</a><sup id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></td>
     <td><a href="https://www.bilibili.com/video/BV1r7411M7wu" target="_blank" rel="noopener noreferrer">表演《你看起来好像很好吃》配音</a></td>
 </tr>
 <tr>

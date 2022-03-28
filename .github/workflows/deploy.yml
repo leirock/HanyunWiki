@@ -13,31 +13,29 @@ jobs:
 
     steps:
     - name: Checkout source
-      uses: actions/checkout@v2
-      with:
-        persist-credentials: false
+      uses: actions/checkout@v3
 
     - name: Setup Node.js
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v3
       with:
-        node-version: '16.x'
-  
-    - name: Yarn install cache
-      uses: actions/cache@v2.1.6
+        node-version: '16'
+
+    - name: Install npm cache
+      uses: actions/cache@v3
       id: node-modules
       with:
         path: node_modules/
-        key: ${{ runner.os }}-node-modules-${{ hashFiles('yarn.lock') }}
+        key: ${{ runner.os }}-npm-cache-${{ hashFiles('package-lock.json') }}
         restore-keys: |
-          ${{ runner.os }}-node-modules-
+          ${{ runner.os }}-npm-cache
 
     - name: Install dependencies
       if: steps.node-modules.outputs.cache-hit != 'true'
-      run: yarn install --frozen-lockfile
+      run: npm i --no-audit
 
     - name: Generate Vuepress site
       run: |
-        yarn docs:build
+        npm run docs:build
 
     - name: Deploy to server
       uses: easingthemes/ssh-deploy@main
