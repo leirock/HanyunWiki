@@ -5,7 +5,7 @@ title: 关于本站
 
 含韵百科，顾名思义即「张含韵的百科站点」，旨在提供一个全方位认识张含韵的窗口。
 
-含韵百科原始文本内容由本站站长 [Leirock](https://blog.dlzhang.com) 于2021年5月创作，最初发布于维基百科张含韵词条。
+含韵百科原始文本内容由本站站长 [Leirock](https://pinlyu.com) 于2021年5月创作，最初发布于维基百科张含韵词条。
 
 含韵百科是一项非营利性计划，运营主要支出为域名和服务器的租赁费用。如果您觉得本站对您了解张含韵有所助益，欢迎您通过 [<font color=#946ce6><i class="fas fa-fw fa-bolt"></i>爱发电</font>](https://afdian.net/@leirock) 支持本站的日常运行。
 
@@ -43,8 +43,5 @@ title: 关于本站
 
 您可以通过以下方式与本站管理员取得联系：
 
-- [在线留言](https://blog.dlzhang.com/guestbook)
-
 - 微博私信：[@班班Leirock](https://weibo.com/leirock)
-
-- 邮件：zjzdl (at) outlook.com
+- 邮件：zdlzj (at) foxmail.com

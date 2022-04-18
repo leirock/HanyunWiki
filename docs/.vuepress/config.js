@@ -10,7 +10,7 @@ module.exports = config({
 
   head: [
     //访问统计
-    ["script", { async: "",  defer: "", 'data-website-id': "c0717375-4e12-40b0-943e-58cff1dbfe05", src: "https://stats.dlzhang.com/umami.js"}],
+    ["script", { async: "",  defer: "", 'data-website-id': "130b8b20-37c0-4c7e-a17f-77af96beb621", src: "https://stat.pinlyu.com/umami.js"}],
     //百度搜索资源平台站点验证
     ["meta", { name: "baidu-site-verification", content: "code-exBGMGg3gF"}],
     //Fancybox
@@ -35,7 +35,7 @@ module.exports = config({
     author: "含韵百科",
 
     //当前网站部署到的域名
-    hostname: "https://www.hanyunzhang.com",
+    hostname: "https://hanyun.pinlyu.com",
 
     //导航栏的 logo 图片，需填入绝对路径并放入`.vuepress/public`文件夹。
     //黑暗模式 logo 需配置 darkLogo
