@@ -477,7 +477,7 @@ title: 大型晚会典礼
     <td>唱跳舞台</td>
 </tr>
 <tr>
-    <td rowspan="2">2022</td>
+    <td rowspan="3">2022</td>
     <td>1月14日</td>
     <td>2021年QQ飞车手游S联赛年度总决赛</td>
     <td><a href="https://www.bilibili.com/video/BV1Gb4y1J7tQ?p=8" target="_blank" rel="noopener noreferrer">丹青墨绿、极速战姬</a></td>
@@ -490,6 +490,13 @@ title: 大型晚会典礼
     <td><a href="https://www.bilibili.com/video/BV1z3411E7eb" target="_blank" rel="noopener noreferrer">湫兮如风</a></td>
     <td>李飚（指挥）</td>
     <td>央视音乐频道</td>
+</tr>
+<tr>
+    <td>4月5日</td>
+    <td>古韵新声·清明</td>
+    <td><a href="https://www.bilibili.com/video/BV17S4y117M4" target="_blank" rel="noopener noreferrer">诗经·郑风·野有蔓草</a></td>
+    <td></td>
+    <td>央视综合频道</td>
 </tr>
 </tbody>
 </table>
