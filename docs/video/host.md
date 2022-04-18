@@ -35,27 +35,27 @@ title: 节目主持
 <tr>
     <td rowspan="3">2009</td>
     <td rowspan="3">旅游卫视</td>
-    <td><a href="https://www.bilibili.com/video/BV1fK4y1J7UZ" target="_blank" rel="noopener noreferrer">BAZAAR必须时尚</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1fK4y1J7UZ" target="_blank" rel="noopener">BAZAAR必须时尚</a></td>
     <td></td>
 </tr>
 <tr>
-    <td><a href="https://www.bilibili.com/video/BV1UT4y1w7u4" target="_blank" rel="noopener noreferrer">城市惠生活</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1UT4y1w7u4" target="_blank" rel="noopener">城市惠生活</a></td>
     <td></td>
 </tr>
 <tr>
-    <td><a href="https://www.bilibili.com/video/BV13s411R7ZD" target="_blank" rel="noopener noreferrer">激浪精舞门</a></td>
+    <td><a href="https://www.bilibili.com/video/BV13s411R7ZD" target="_blank" rel="noopener">激浪精舞门</a></td>
     <td></td>
 </tr>
 <tr>
     <td>2011</td>
     <td>浙江卫视</td>
-    <td><a href="http://www.le.com/zongyi/52238.html" target="_blank" rel="noopener noreferrer">快乐蓝天下</a></td>
+    <td><a href="http://www.le.com/zongyi/52238.html" target="_blank" rel="noopener">快乐蓝天下</a></td>
     <td>与华少搭档</td>
 </tr>
 <tr>
     <td>2021</td>
     <td>芒果TV</td>
-    <td><a href="https://www.mgtv.com/b/367750/13107580.html" target="_blank" rel="noopener noreferrer">披荆斩棘的哥哥</a></td>
+    <td><a href="https://www.mgtv.com/b/367750/13107580.html" target="_blank" rel="noopener">披荆斩棘的哥哥</a></td>
     <td>初舞台主持人</td>
 </tr>
 </tbody>

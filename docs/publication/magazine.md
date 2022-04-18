@@ -23,7 +23,7 @@ title: 报刊杂志
 </tr>
 <tr>
     <td><a data-fancybox data-caption="OK！ 2005年7月29日" href="/images/magazine/200507_OK.jpg">7月29日</a></td>
-    <td><a href="http://ent.sina.com.cn/s/m/2005-08-01/1751798029.html" target="_blank" rel="noopener noreferrer">OK！</a></td>
+    <td><a href="http://ent.sina.com.cn/s/m/2005-08-01/1751798029.html" target="_blank" rel="noopener">OK！</a></td>
     <td>封底</td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@ title: 报刊杂志
 <tr>
     <td>2011</td>
     <td><a data-fancybox data-caption="南都娱乐周刊 2011年第27期" href="/images/magazine/201107_南都娱乐周刊.jpg">第27期</a></td>
-    <td><a href="http://music.yule.sohu.com/20110804/n315449043_2.shtml" target="_blank" rel="noopener noreferrer">南都娱乐周刊</a></td>
+    <td><a href="http://music.yule.sohu.com/20110804/n315449043_2.shtml" target="_blank" rel="noopener">南都娱乐周刊</a></td>
     <td>封面</td>
 </tr>
 <tr>
@@ -181,11 +181,11 @@ title: 报刊杂志
 <tr>
     <td rowspan="3">2015</td>
     <td><a data-fancybox data-caption="南都娱乐周刊 2015年第39期" href="/images/magazine/201510_南都娱乐周刊.jpg">第39期</a></td>
-    <td><a href="https://weibo.com/1216431741/D1wN5vHfF" target="_blank" rel="noopener noreferrer">南都娱乐周刊</a></td>
+    <td><a href="https://weibo.com/1216431741/D1wN5vHfF" target="_blank" rel="noopener">南都娱乐周刊</a></td>
 </tr>
 <tr>
     <td><a data-fancybox data-caption="时尚健康 2015年11月" href="/images/magazine/201511_时尚健康.jpg">11月</a></td>
-    <td><a href="https://weibo.com/1841581081/D1ZX47ukI" target="_blank" rel="noopener noreferrer">时尚健康</a></td>
+    <td><a href="https://weibo.com/1841581081/D1ZX47ukI" target="_blank" rel="noopener">时尚健康</a></td>
 </tr>
 <tr>
     <td><a data-fancybox data-caption="精品购物指南 2015年12月10日 总第2102期" href="/images/magazine/201512_精品购物指南.jpg">12月10日 总第2102期</a></td>
@@ -224,12 +224,12 @@ title: 报刊杂志
 </tr>
 <tr>
     <td><a data-fancybox data-caption="瑞丽·伊人风尚 2017年3月" href="/images/magazine/201703_瑞丽伊人风尚.jpg">3月</a></td>
-    <td><a href="https://weibo.com/5295253869/EywPpxHmy" target="_blank" rel="noopener noreferrer">瑞丽·伊人风尚</a></td>
+    <td><a href="https://weibo.com/5295253869/EywPpxHmy" target="_blank" rel="noopener">瑞丽·伊人风尚</a></td>
     <td>内页</td>
 </tr>
 <tr>
     <td><a data-fancybox data-caption="凤凰周刊·生活 2017年4月" href="/images/magazine/201704_凤凰周刊生活.jpg">4月</a></td>
-    <td><a href="https://weibo.com/ttarticle/p/show?id=2309404093191841291570" target="_blank" rel="noopener noreferrer">凤凰周刊·生活</a></td>
+    <td><a href="https://weibo.com/ttarticle/p/show?id=2309404093191841291570" target="_blank" rel="noopener">凤凰周刊·生活</a></td>
     <td rowspan="14">封面</td>
 </tr>
 <tr>
@@ -260,7 +260,7 @@ title: 报刊杂志
 </tr>
 <tr>
     <td><a data-fancybox data-caption="MARS星纪时尚 2019年4月" href="/images/magazine/201904_MARS星纪时尚.jpg">4月</a></td>
-    <td><a href="https://mp.weixin.qq.com/s/Lozsxco62aGDkjdD6guCNw" target="_blank" rel="noopener noreferrer">MARS 星纪时尚</a></td>
+    <td><a href="https://mp.weixin.qq.com/s/Lozsxco62aGDkjdD6guCNw" target="_blank" rel="noopener">MARS 星纪时尚</a></td>
 </tr>
 <tr>
     <td><a data-fancybox data-caption="SENSE 2019年4月" href="/images/magazine/201904_SENSE.jpg">4月</a></td>
@@ -308,7 +308,7 @@ title: 报刊杂志
 <tr>
     <td rowspan="4">2021</td>
     <td><a data-fancybox data-caption="婚姻与家庭 2021年2月" href="/images/magazine/202102_婚姻与家庭.jpg">2月上半月</a></td>
-    <td><a href="http://www.mf-china.com.cn/MarryAndFamily/twolistController/content/1/32/17593.do" target="_blank" rel="noopener noreferrer">婚姻与家庭</a></td>
+    <td><a href="http://www.mf-china.com.cn/MarryAndFamily/twolistController/content/1/32/17593.do" target="_blank" rel="noopener">婚姻与家庭</a></td>
 </tr>
 <tr>
     <td><a data-fancybox data-caption="嘉人·嘉人行 2021年2月" href="/images/magazine/202102_嘉人.jpg">2月</a></td>

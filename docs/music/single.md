@@ -256,6 +256,6 @@ title: 单曲
 
 <small>
 <b>注释：</b><br/>
-1. 《我不是复制品》未正式发行，故没有录音室版本，可观看<a href="https://v.youku.com/v_show/id_XMjY1MDI0OTAw" target="_blank" rel="noopener noreferrer">现场视频</a>。<br/>
+1. 《我不是复制品》未正式发行，故没有录音室版本，可观看<a href="https://v.youku.com/v_show/id_XMjY1MDI0OTAw" target="_blank" rel="noopener">现场视频</a>。<br/>
 2. 《相思赋》、《问别》、《开心就好》、《温柔反击》、《逛》的音源在网易云音乐，其余单曲音源均在 QQ 音乐。
 </small>

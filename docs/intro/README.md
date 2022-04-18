@@ -56,8 +56,8 @@ title: 认识含韵
 <tr>
     <th>母校</th>
     <td>
-        <a href="http://www.chntheatre.edu.cn" target="_blank" rel="noopener noreferrer">中央戏剧学院</a><small>（进修）</small><br/>
-        <a href="http://www.scdyzx.com/a/Show/jiechuxiaoyou/20140604/102.html" target="_blank" rel="noopener noreferrer">四川省德阳中学</a>
+        <a href="http://www.chntheatre.edu.cn" target="_blank" rel="noopener">中央戏剧学院</a><small>（进修）</small><br/>
+        <a href="http://www.scdyzx.com/a/Show/jiechuxiaoyou/20140604/102.html" target="_blank" rel="noopener">四川省德阳中学</a>
     </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ title: 认识含韵
 <tr>
     <th>经纪公司</th>
     <td>
-        <a href="https://weibo.com/u/5664119488" target="_blank" rel="noopener noreferrer">张含韵工作室</a><br/>
+        <a href="https://weibo.com/u/5664119488" target="_blank" rel="noopener">张含韵工作室</a><br/>
         <small>（？－ 至今）</small><br/>
         北京天中文化<br/>
         <small>（2004年9月－2009年2月）</small>
@@ -126,12 +126,12 @@ title: 认识含韵
 </tr>
 <tr>
     <th colspan="2" style="text-align:center;">
-        <a href="https://movie.douban.com/celebrity/1312921/" target="_blank" rel="noopener noreferrer">豆瓣电影信息</a> · <a href="https://music.douban.com/musician/104835/" target="_blank" rel="noopener noreferrer">豆瓣音乐信息</a>
+        <a href="https://movie.douban.com/celebrity/1312921/" target="_blank" rel="noopener">豆瓣电影信息</a> · <a href="https://music.douban.com/musician/104835/" target="_blank" rel="noopener">豆瓣音乐信息</a>
     </th>
 </tr>
 <tr>
     <th colspan="2" style="text-align:center;">
-        <a href="https://www.imdb.com/name/nm07479446/" target="_blank" rel="noopener noreferrer">互联网电影数据库（IMDb）信息</a><br/>
+        <a href="https://www.imdb.com/name/nm07479446/" target="_blank" rel="noopener">互联网电影数据库（IMDb）信息</a><br/>
     </th>
 </tr>
 </tbody>
