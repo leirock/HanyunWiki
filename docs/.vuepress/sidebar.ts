@@ -23,8 +23,8 @@ export default defineSidebarConfig({
       prefix: "award/",
       collapsable: false,
       children: [
-        "music", //音乐奖项
-        "other", //其他荣誉
+        "music",
+        "other",
       ],
     },
     {
@@ -42,44 +42,24 @@ export default defineSidebarConfig({
   //音乐作品
   "/music/": [
     "album",
-    "single", //录音室单曲
-    "concert", //专场歌友会
-    {
-      text: "舞台表演",
-      icon: "apps",
-      prefix: "stage/",
-      collapsable: false,
-      children: [
-        "gala", //大型晚会典礼
-        "cctv", //央视户外歌会节目
-      ],
-    },
+    "single",
+    "concert",
+    "gala",
     "live",
   ],
 
   //影视作品
   "/video/": [
-    "drama", //电视剧
-    "movie", //电影
-    {
-      text: "综艺节目",
-      icon: "magic",
-      prefix: "variety/",
-      collapsable: false,
-      children: [
-        "fixed", //固定综艺节目
-        "nonfixed", //非固定综艺节目
-      ],
-    },
-    "interview", //访谈节目
-    "host", //节目主持
-    "other", //其他影视作品
+    "drama",
+    "movie",
+    "variety",
+    "interview",
+    "host",
+    "other",
   ],
 
   //出版物
   "/publication/": [
-    "book", //书籍
-    "magazine", //报刊杂志
   ],
 
   //圆桌会

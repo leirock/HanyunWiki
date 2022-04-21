@@ -1,7 +1,79 @@
 ---
-icon: creative
-title: 非固定综艺节目
+icon: magic
+title: 综艺节目
 ---
+
+::: center
+**表一 固定综艺节目**
+::: 
+
+以常驻嘉宾、参赛选手等身份参与的综艺节目（不含节目主持），点击节目名称可查看百度百科中的介绍。
+
+<table>
+<thead>
+<tr>
+    <th>年份</th>
+    <th>播放平台</th>
+    <th>节目</th>
+    <th>观看</th>
+    <th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <td>2004</td>
+    <td>湖南卫视</td>
+    <td><a href="https://baike.baidu.com/item/超级女声/2689" target="_blank" rel="noopener">超级女声</a></td>
+    <td><a href="https://www.mgtv.com/h/54734.html" target="_blank" rel="noopener">芒果TV</a><sup id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
+    <td>季军</td>
+</tr>
+<tr>
+    <td>2010</td>
+    <td>浙江卫视</td>
+    <td><a href="https://baike.baidu.com/item/非同凡响/7525553" target="_blank" rel="noopener">非同凡响</a></td>
+    <td><a href="https://www.youku.com/profile/index/?uid=UMjc5ODk3NTI0" target="_blank" rel="noopener">优酷</a><sup id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></td>
+    <td>季军</td>
+</tr>
+<tr>
+    <td>2015</td>
+    <td>湖南卫视</td>
+    <td><a href="https://baike.baidu.com/item/偶像来了" target="_blank" rel="noopener">偶像来了</a></td>
+    <td><a href="https://www.mgtv.com/h/157139.html" target="_blank" rel="noopener">芒果TV</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>2017</td>
+    <td>芒果TV</td>
+    <td><a href="https://baike.baidu.com/item/萌师驾到" target="_blank" rel="noopener">萌师驾到</a></td>
+    <td><a href="https://www.mgtv.com/h/318122.html" target="_blank" rel="noopener">芒果TV</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td rowspan="2">2020</td>
+    <td>湖南卫视</td>
+    <td><a href="https://baike.baidu.com/item/声临其境第三季" target="_blank" rel="noopener">声临其境（第三季）</a></td>
+    <td><a href="https://www.mgtv.com/h/334632.html" target="_blank" rel="noopener">芒果TV</a></td>
+    <td>季军</td>
+</tr>
+<tr>
+    <td>湖南娱乐频道、芒果TV</td>
+    <td><a href="https://baike.baidu.com/item/乘风破浪的姐姐第一季" target="_blank" rel="noopener">乘风破浪的姐姐（第一季）</a></td>
+    <td><a href="https://www.mgtv.com/h/338497.html" target="_blank" rel="noopener">芒果TV</a></td>
+    <td></td>
+</tr>
+</tbody>
+</table>
+
+<small>
+<b>注释：</b><br/>
+1. <sup id="cite_note-1"><a href="#cite_ref-1">^</a></sup> 缺失全国总决赛的亚军突围战一集，可在<a href="https://www.bilibili.com/video/BV1qK411L759" target="_blank" rel="noopener">哔哩哔哩观看</a>。<br/>
+2. <sup id="cite_note-2"><a href="#cite_ref-2">^</a></sup> 非完整节目，只是舞台的视频剪辑片段。
+</small>
+<br/><br/>
+
+::: center
+**表二 非固定综艺节目**
+::: 
 
 以飞行嘉宾身份参与的综艺节目（不含节目主持），点击表格内链接可查看相应节目或表演的视频。
 
@@ -20,13 +92,13 @@ title: 非固定综艺节目
 <tbody>
 <tr>
     <td rowspan="11">2005</td>
-    <td>7月18日<sup id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
+    <td>7月18日<sup id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></td>
     <td>央视体育频道</td>
     <td>天下足球</td>
     <td>拜仁豪门周，演唱《想唱就唱》</td>
 </tr>
 <tr>
-    <td>7月19日<sup id="cite_ref-2-0"><a href="#cite_note-2-0">[2]</a></sup></td>
+    <td>7月19日<sup id="cite_ref-4-0"><a href="#cite_note-4-0">[4.0]</a></sup></td>
     <td>央视综艺频道</td>
     <td>想挑战吗·动感夏日</td>
     <td></td>
@@ -124,7 +196,7 @@ title: 非固定综艺节目
 </tr>
 <tr>
     <td rowspan="11">2007</td>
-    <td>2月3日<sup id="cite_ref-2-1"><a href="#cite_note-2-1">[2]</a></sup></td>
+    <td>2月3日<sup id="cite_ref-4-1"><a href="#cite_note-4-1">[4.1]</a></sup></td>
     <td>山东卫视</td>
     <td><a href="https://v.youku.com/v_show/id_XMTEyMTQ3MzI0" target="_blank" rel="noopener">阳光快车道</a></td>
     <td>魅力红歌会</td>
@@ -314,7 +386,7 @@ title: 非固定综艺节目
     <td rowspan="2">2020</td>
     <td>2月23日</td>
     <td>湖南卫视</td>
-    <td><a href="https://www.mgtv.com/b/334728/7594196.html" target="_blank" rel="noopener">天天向上</a><sup id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></td>
+    <td><a href="https://www.mgtv.com/b/334728/7594196.html" target="_blank" rel="noopener">天天向上</a><sup id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></td>
     <td><a href="https://www.bilibili.com/video/BV1r7411M7wu" target="_blank" rel="noopener">表演《你看起来好像很好吃》配音</a></td>
 </tr>
 <tr>
@@ -382,7 +454,7 @@ title: 非固定综艺节目
 
 <small>
 <b>注释：</b><br/>
-1. <sup id="cite_note-1"><a href="#cite_ref-1">^</a></sup> 2005年6月30日录制。<br/>
-2. <sup id="cite_note-2-0"><a href="#cite_ref-2-0">2.0</a></sup> <sup id="cite_note-2-1"><a href="#cite_ref-2-1">2.1</a></sup> 此日期为录制日期。<br/>
-3. <sup id="cite_note-3"><a href="#cite_ref-3">^</a></sup> 本次节目由于新冠肺炎疫情防控，改为线上云录制。
+3. <sup id="cite_note-3"><a href="#cite_ref-3">^</a></sup> 2005年6月30日录制。<br/>
+4. <sup id="cite_note-4-0"><a href="#cite_ref-4-0">4.0</a></sup> <sup id="cite_note-4-1"><a href="#cite_ref-4-1">4.1</a></sup> 此日期为录制日期。<br/>
+5. <sup id="cite_note-5"><a href="#cite_ref-5">^</a></sup> 本次节目由于新冠肺炎疫情防控，改为线上云录制。
 </small>
