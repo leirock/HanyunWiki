@@ -9,12 +9,12 @@ export default defineSidebarConfig({
       prefix: "timeline/",
       collapsable: false,
       children: [
-        "89-03-early", //1989-2003年：早年经历
-        "04-debut", //2004年：超女出道
-        "05-07-vogue", //2005-2007年：迅速走红
-        "08-10-trough", //2008-2010年：陷入低谷
-        "11-19-transformation", //2011-2019年：转型演员
-        "20-back", //2020年至今：重回视野
+        "89-03-early",
+        "04-debut",
+        "05-07-vogue",
+        "08-10-trough",
+        "11-19-transformation",
+        "20-back",
       ],
     },
     {
@@ -71,8 +71,8 @@ export default defineSidebarConfig({
 
   //关于
   "/about/": [
-    "", //关于
-    "disclaimer", //免责声明
-    "copyright", //著作权信息
+    "",
+    "disclaimer",
+    "copyright",
   ],
 });

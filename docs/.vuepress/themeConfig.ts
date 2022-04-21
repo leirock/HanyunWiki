@@ -44,6 +44,9 @@ export default defineThemeConfig({
   fullscreen: false,
 
   plugins: {
+
+    copyCode: false,
+
     mdEnhance: {
       align:true,
       footnote:true,
@@ -58,9 +61,20 @@ export default defineThemeConfig({
       apple: {
         icon: "/assets/icon/apple-icon-152x152.png",
       },
+      manifest: {
+        name: 'Waline',
+        short_name: 'Waline',
+        description: 'A simple comment system with backend support',
+        icons: [
+          {
+            src: '/assets/icon/android-icon-192x192.png',
+            sizes: '192x192',
+            purpose: 'maskable',
+            type: 'image/png',
+          },
+        ],
+      },
     },
-
-    copyCode: false,
 
   },
 });

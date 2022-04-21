@@ -224,7 +224,7 @@ title: 舞台表演
     <td>晚会名称待查</td>
 </tr>
 <tr>
-    <td></td>
+    <td>6月17日</td>
     <td>欢乐中国行·<a href="https://www.bilibili.com/video/BV1E54y1Q7bR?p=5" target="_blank" rel="noopener">魅力督察</a>（深圳）</td>
     <td>一人一梦</td>
     <td></td>
@@ -467,7 +467,7 @@ title: 舞台表演
     <td>9月15日</td>
     <td>魅力中国城第一季·初赛第10期</td>
     <td><a href="https://www.bilibili.com/video/BV1Uv4y1Z7so?p=1" target="_blank" rel="noopener">我爱祖国的蓝天</a></td>
-    <td></td>
+    <td>秦颢文</td>
     <td>央视财经频道</td>
 </tr>
 <tr>
@@ -475,7 +475,7 @@ title: 舞台表演
     <td>1月1日</td>
     <td>魅力中国城第一季·魅力盛典</td>
     <td><a href="https://www.bilibili.com/video/BV1Uv4y1Z7so?p=2" target="_blank" rel="noopener">我爱祖国的蓝天</a></td>
-    <td></td>
+    <td>秦颢文</td>
     <td>央视财经频道</td>
 </tr>
 <tr>
