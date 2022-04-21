@@ -18,42 +18,42 @@ title: 专辑
 <tbody>
 <tr>
     <td>1</td>
-    <td><a href="/music/album/album1/">我很张含韵（预售版）</a></td>
+    <td><a href="/music/album/album1.html">我很张含韵（预售版）</a></td>
     <td>专辑预售版</td>
     <td>天中文化</td>
     <td>2005年7月10日</td>
 </tr>
 <tr>
     <td>2</td>
-    <td><a href="/music/album/album2/">我很张含韵</a></td>
+    <td><a href="/music/album/album2.html">我很张含韵</a></td>
     <td>专辑</td>
     <td>天中文化</td>
     <td>2005年7月20日</td>
 </tr>
 <tr>
     <td>3</td>
-    <td><a href="/music/album/album3/">Baby X’mas 新年好</a></td>
+    <td><a href="/music/album/album3.html">Baby X’mas 新年好</a></td>
     <td>迷你专辑</td>
     <td>天中文化</td>
     <td>2005年12月10日</td>
 </tr>
 <tr>
     <td>4</td>
-    <td><a href="/music/album/album4/">Baby Zhang 張含韻</a></td>
+    <td><a href="/music/album/album4.html">Baby Zhang 張含韻</a></td>
     <td>同名专辑</td>
     <td>天中文化</td>
     <td>2006年4月19日</td>
 </tr>
 <tr>
     <td>5</td>
-    <td><a href="/music/album/album5/">青春无敌</a></td>
+    <td><a href="/music/album/album5.html">青春无敌</a></td>
     <td>专辑</td>
     <td>天中文化</td>
     <td>2007年2月3日</td>
 </tr>
 <tr>
     <td>6</td>
-    <td><a href="/music/album/album6/">一人一梦</a></td>
+    <td><a href="/music/album/album6.html">一人一梦</a></td>
     <td>精选专辑</td>
     <td>天中文化</td>
     <td>2007年10月4日</td>
