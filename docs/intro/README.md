@@ -135,7 +135,7 @@ title: 认识含韵
     </th>
 </tr>
 </tbody>
-<script type="text/javascript">
+<component :is="'script'">
     var birth='1989/04/09';
     var debut='2004/09/22';
     var year = 1000 * 60 * 60 * 24 * 365;
@@ -146,14 +146,14 @@ title: 认识含韵
     var debutyear = parseInt((now - debutday) / year);
     document.getElementById("age").innerHTML = age;
     document.getElementById("debutyear").innerHTML = debutyear;
-</script>
+</component>
 </table>
 
 ## 社交媒体
 
 - [微博](https://weibo.com/zhanghanyun)
 - [抖音](https://v.douyin.com/e9kUKxe)
-- [博客](http://blog.sina.com.cn/zhanghanyun)<Badge text="不再更新" type="warn"/>
+- [博客](http://blog.sina.com.cn/zhanghanyun)<Badge text="不再更新" type="warning"/>
 
 ## 音乐平台
 

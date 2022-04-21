@@ -1,3 +1,12 @@
-.DS_Store
+# Node modules
 node_modules/
-dist/
+
+# Vuepress Cache
+docs/.vuepress/.cache/
+# Vuepress Temp
+docs/.vuepress/.temp/
+# Vuepress Output
+docs/.vuepress/dist/
+
+# macOS
+.DS_Store

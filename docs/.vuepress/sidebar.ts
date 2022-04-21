@@ -1,11 +1,10 @@
-const { sidebarConfig } = require("vuepress-theme-hope");
+import { defineSidebarConfig } from "vuepress-theme-hope";
 
-module.exports = sidebarConfig({
-  //走近小花
+export default defineSidebarConfig({
   "/intro/": [
     "", //认识含韵
     {
-      title: "时间轴",
+      text: "时间轴",
       icon: "footprint",
       prefix: "timeline/",
       collapsable: false,
@@ -19,7 +18,7 @@ module.exports = sidebarConfig({
       ],
     },
     {
-      title: "奖项荣誉",
+      text: "奖项荣誉",
       icon: "trophy",
       prefix: "award/",
       collapsable: false,
@@ -29,7 +28,7 @@ module.exports = sidebarConfig({
       ],
     },
     {
-      title: "形象代言",
+      text: "形象代言",
       icon: "lightbulb-flash",
       prefix: "branding/",
       collapsable: false,
@@ -42,11 +41,11 @@ module.exports = sidebarConfig({
 
   //音乐作品
   "/music/": [
-    "album/", //专辑
+    "album",
     "single", //录音室单曲
     "concert", //专场歌友会
     {
-      title: "舞台表演",
+      text: "舞台表演",
       icon: "apps",
       prefix: "stage/",
       collapsable: false,
@@ -63,7 +62,7 @@ module.exports = sidebarConfig({
     "drama", //电视剧
     "movie", //电影
     {
-      title: "综艺节目",
+      text: "综艺节目",
       icon: "magic",
       prefix: "variety/",
       collapsable: false,

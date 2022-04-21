@@ -11,7 +11,7 @@ title: 音乐奖项
     <th>典礼榜单</th>
     <th>奖项</th>
     <th>作品</th>
-    <th>结果</th>
+    <th style="width:8.5%">结果</th>
 </tr>
 </thead>
 <tbody>

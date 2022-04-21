@@ -12,7 +12,7 @@ title: 单曲
     <th>日期</th>
     <th>曲目</th>
     <th style="width:35%">类型</th>
-    <th style="width:20%">合唱</th>
+    <th style="width:20%">合作</th>
     <th>MV</th>
 </tr>
 </thead>

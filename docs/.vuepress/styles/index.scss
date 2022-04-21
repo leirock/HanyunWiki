@@ -1,5 +1,46 @@
-// 导入图标
-@import '//at.alicdn.com/t/font_2629682_w7f7d1vp64.css';
+.navbar .nav-links {
+    justify-content: right!important;
+}
+
+.feature[href*='timeline'] {
+    background:#fde5e7
+}
+
+.feature[href*='award'] {
+    background:#ffeee8
+}
+
+.feature[href*='branding'] {
+    background:#fef5e7
+}
+
+.feature[href='/music/'] {
+    background:#eafaf1
+}
+
+.feature[href*='video'] {
+    background:#e6f9ee
+}
+
+.feature[href*='publication'] {
+    background:#e4fcfc
+}
+
+.feature[href*='collection'] {
+    background:#e4f0fe
+}
+
+.feature[href*='report'] {
+    background:#f7f1fd
+}
+
+.feature[href*='anecdote'] {
+    background:#fdeaf5
+}
+
+.home.project .hero .action-button {
+    border-radius: 2rem;
+}
 
 // 表格首行颜色
 table thead tr:first-child th {

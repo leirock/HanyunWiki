@@ -1,16 +1,15 @@
 {
   "name": "hanyunwiki",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Zhang Hanyun's Wiki",
   "license": "MIT",
   "scripts": {
     "docs:build": "vuepress build docs",
-    "docs:clean-dev": "vuepress dev docs --no-cache",
-    "docs:dev": "vuepress dev docs",
-    "docs:eject-theme": "vuepress eject-hope docs"
+    "docs:clean-dev": "vuepress dev docs --clean-cache",
+    "docs:dev": "vuepress dev docs"
   },
   "devDependencies": {
-    "vuepress": "^1.8.2",
-    "vuepress-theme-hope": "^1.18.3"
+    "vuepress": "^2.0.0-beta.39",
+    "vuepress-theme-hope": "^2.0.0-beta.45"
   }
 }

@@ -1,17 +1,15 @@
 ---
 home: true
-icon: home
-title: 含韵百科
 heroImage: /images/logo.png
 heroText: 含韵百科
 tagline: 全方位认识张含韵的百科站点
-action:
+actions:
   - text: 认识含韵
     link: /intro/
-    type: primary
 
   - text: 关于本站
     link: /about/
+    type: secondary
 
 features:
   - title: 时间轴
