@@ -38,4 +38,4 @@ title: 著作权信息
 
 ### 法律文本
 
-完整的文本内容许可协议之法律文本见[《知识共享 署名-相同方式共享 4.0 协议》](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)。
+文本内容的完整许可协议之法律文本见[《知识共享 署名-相同方式共享 4.0 协议》](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)。
