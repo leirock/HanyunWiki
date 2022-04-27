@@ -5,6 +5,18 @@ title: 认识含韵
 
 张含韵（1989年4月9日－），出生于中国四川省德阳市，中国大陆女歌手、演员。
 
+<div class="intro-profile">
+    <div class="custom-container center">
+    <p>
+        <img src="/images/intro/zhanghanyun.jpg" alt="2003年「一二·九」文艺汇演（图源：张含韵工作室）" loading="lazy">
+        <small>
+            东方卫视2020年<a href="https://www.bilibili.com/video/BV1H5411h7TC" title="苏宁易购818超级秀" target="_blank" rel="noopener">苏宁易购818超级秀</a>
+            <span><svg class="external-link-icon" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path><polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg><span class="external-link-icon-sr-only">open in new window</span></span>
+        </small>
+    </p>
+    </div>
+</div>
+
 2004年夏季，刚初中毕业的张含韵参加由中国湖南卫视举办的[第一届《超级女声》](/intro/timeline/04-debut/)比赛，获得全国总决赛季军。2005年，她演唱的《2005年超级女声》主题曲《想唱就唱》和蒙牛酸酸乳饮料广告曲《酸酸甜甜就是我》被广为传唱，从而迅速走红歌坛。2005年5月，张含韵在中国中央电视台综艺频道《[音画时尚](https://baike.baidu.com/item/音画时尚)》节目举办专场歌友会，成为首位参与中央电视台节目录制的《超级女声》选手。2005年7月，发行首张个人专辑《[我很张含韵](/music/album/album2.html)》，获得当年唱片销量冠军。2006年，出演个人首部电视剧《浪击天涯》，并于香港发行个人同名专辑《Baby Zhang》。2007年2月，发行第二张个人专辑《[青春无敌](/music/album/album5.html)》，并为中国第一部与迪士尼合作拍摄的电影《[宝葫芦的秘密](https://movie.douban.com/subject/1960298/)》演唱主题曲《一人一梦》。
 
 2008年至2010年上半年期间，由于其经纪公司解散等诸多原因，张含韵的演艺事业陷入低谷。在此期间，她依然继续努力学习提升自我，并担任了一段时间的电视节目主持人。2010年7月，她复出参加由浙江卫视举办的选秀节目《[非同凡响](https://baike.baidu.com/item/非同凡响/7525553)》，最终获得季军。2011年，进入中央戏剧学院进修表演，开始尝试转型为演员。2013年7月，张含韵主演的首部电影《[初恋未满](https://movie.douban.com/subject/10833971/)》上映。此后，她还拍摄了《[兰陵王妃](https://movie.douban.com/subject/25023165/)》、《[新萧十一郎](https://movie.douban.com/subject/25966185/)》等电视剧，其中饰演的角色获得了观众的认可。
@@ -13,9 +25,7 @@ title: 认识含韵
 
 张含韵一直热心参与社会公益活动。自2012年开始担任北京市「手语推广大使」至今，多次拍摄手语推广宣传片及海报，积极参与手语推广的各类活动。
 
-## 基本信息
-
-<table style="text-align:left; line-height: 1.5em;">
+<table style="text-align:left; line-height:1.5em;">
 <thead>
 <tr>
     <th colspan="2" style="text-align:center; font-size:110%;">张含韵</th>
@@ -56,8 +66,11 @@ title: 认识含韵
 <tr>
     <th>母校</th>
     <td>
-        <a href="http://www.chntheatre.edu.cn" target="_blank" rel="noopener">中央戏剧学院</a><small>（进修）</small><br/>
+        <a href="http://www.chntheatre.edu.cn" target="_blank" rel="noopener">中央戏剧学院</a>
+        <span><svg class="external-link-icon" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path><polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg><span class="external-link-icon-sr-only">open in new window</span></span>
+        <small>（进修）</small><br/>
         <a href="http://www.scdyzx.com/a/Show/jiechuxiaoyou/20140604/102.html" target="_blank" rel="noopener">四川省德阳中学</a>
+        <span><svg class="external-link-icon" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path><polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg><span class="external-link-icon-sr-only">open in new window</span></span>
     </td>
 </tr>
 <tr>
@@ -96,13 +109,15 @@ title: 认识含韵
             《爱很美味》<br/>
         <b>综艺</b>：<br/>
             《2004年超级女声》<br/>
-            《乘风破浪的姐姐（第一季）》<br/>
+            《乘风破浪的姐姐·第一季》<br/>
     </td>
 </tr>
 <tr>
     <th>经纪公司</th>
     <td>
-        <a href="https://weibo.com/u/5664119488" target="_blank" rel="noopener">张含韵工作室</a><br/>
+        <a href="https://weibo.com/u/5664119488" target="_blank" rel="noopener">张含韵工作室</a>
+        <span><svg class="external-link-icon" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path><polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg><span class="external-link-icon-sr-only">open in new window</span></span>
+        <br/>
         <small>（？－ 至今）</small><br/>
         北京天中文化<br/>
         <small>（2004年9月－2009年2月）</small>
@@ -123,16 +138,6 @@ title: 认识含韵
         天空蓝 <div style="width: 12px;height: 12px;background-color: #87CEEB; display: inline-block"></div><br/>
         HEX #87CEEB, RGB (135, 206, 235) 
     </td>
-</tr>
-<tr>
-    <th colspan="2" style="text-align:center;">
-        <a href="https://movie.douban.com/celebrity/1312921/" target="_blank" rel="noopener">豆瓣电影信息</a> · <a href="https://music.douban.com/musician/104835/" target="_blank" rel="noopener">豆瓣音乐信息</a>
-    </th>
-</tr>
-<tr>
-    <th colspan="2" style="text-align:center;">
-        <a href="https://www.imdb.com/name/nm07479446/" target="_blank" rel="noopener">互联网电影数据库（IMDb）信息</a><br/>
-    </th>
 </tr>
 </tbody>
 <component :is="'script'">
@@ -159,3 +164,9 @@ title: 认识含韵
 
 - [QQ 音乐](https://y.qq.com/n/ryqq/singer/003hP1b82zqCtm)<Badge text="主要音源" type="tip"/>
 - [网易云音乐](https://music.163.com/#/artist?id=10583)
+
+## 影音数据库
+
+- [豆瓣音乐](https://music.douban.com/musician/104835/)
+- [豆瓣电影](https://movie.douban.com/celebrity/1312921/)
+- [互联网电影数据库（IMDb）](https://www.imdb.com/name/nm07479446/)
