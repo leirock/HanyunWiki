@@ -14,8 +14,8 @@
     background:#fef5e7
 }
 
-.feature[href='/music/'] {
-    background:#eafaf1
+.feature[href*='album'] {
+    background:#f6faea
 }
 
 .feature[href*='video'] {

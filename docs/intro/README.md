@@ -38,7 +38,7 @@ title: 认识含韵
 </tr>
 <tr>
     <th>英文名</th>
-    <td>Kristy Zhang、Baby Zhang</td>
+    <td>Baby Zhang、Kristy</td>
 </tr>
 <tr>
     <th>昵称</th>

@@ -41,7 +41,21 @@ export default defineSidebarConfig({
 
   //音乐作品
   "/music/": [
-    "album",
+    {
+      text: "专辑",
+      icon: "lightbulb-flash",
+      link: "album/",
+      prefix: "album/",
+      collapsable: true,
+      children: [
+        "album1",
+        "album2",
+        "album3",
+        "album4",
+        "album5",
+        "album6"
+      ],
+    },
     "single",
     "concert",
     "gala",
@@ -60,6 +74,7 @@ export default defineSidebarConfig({
 
   //出版物
   "/publication/": [
+    "",
   ],
 
   //圆桌会
@@ -69,7 +84,7 @@ export default defineSidebarConfig({
     "anecdote", //逸闻趣事
   ],
 
-  //关于
+  //关于本站
   "/about/": [
     "",
     "disclaimer",

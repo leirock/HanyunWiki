@@ -4,4 +4,4 @@
 
 This repository contains all source files of [Hanyun Wiki (含韵百科)](https://hanyun.pinlyu.com).
 
-All materials provided in this repository are licensed under the [Copyright Statement (in Chinese)](https://hanyun.pinlyu.com/about/copyright/).
+All materials provided in this repository are licensed under the [Copyright Statement (in Chinese)](https://hanyun.pinlyu.com/about/copyright.html).

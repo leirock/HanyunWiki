@@ -9,7 +9,7 @@ title: 关于本站
 
 ## 运行维护
 
-含韵百科当前由站长 [班班](https://pinlyu.com)（@leirock）维护，依托 [Vuepress](https://vuepress-theme-hope.github.io/v2/zh/) 创建，项目代码托管于 [GitHub](https://github.com/leirock/HanyunWiki)。欢迎大家纠错或补充信息，也可以对本站建设提出意见建议。请注意，您的投稿将被视为默认接受本站关于文本内容的[著作权许可协议](/about/copyright/)。
+含韵百科当前由站长 [班班](https://pinlyu.com) 维护，依托 [Vuepress](https://vuepress-theme-hope.github.io/v2/zh/) 创建，项目代码托管于 [GitHub](https://github.com/leirock/HanyunWiki)。欢迎大家纠错或补充信息，也可以对本站建设提出意见建议。请注意，您的投稿将被视为默认接受本站关于文本内容的[著作权许可协议](/about/copyright/)。
 
 您可以直接点击页面左下角的「**编辑此页**」，前往 GitHub 上的代码仓库提交 Pull Request，请求被批准后就会更新您的更改。如果您阅读和修改本站代码有困难，也可以直接联系本站管理员提交您希望补充或修改的内容。
 
@@ -19,7 +19,7 @@ title: 关于本站
 
 含韵百科尽其最大审慎提供信息，但因未经张含韵及其经纪团队的审核确认，故不对内容之准确性、完整性、可靠性、可用性和及时性做保证。
 
-详细见 >> [免责条款](disclaimer/)
+详细见 >> [免责条款](disclaimer.html)
 
 ## 著作权
 
@@ -27,7 +27,7 @@ title: 关于本站
 
 其他类型作品著作权归原作者所有，如有作者授权则遵照授权协议使用。
 
-详细见 >> [著作权信息](copyright/)
+详细见 >> [著作权信息](copyright.html)
 
 ## 访问限制
 

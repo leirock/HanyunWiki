@@ -26,11 +26,11 @@ features:
 
   - title: 音乐作品
     details: 专辑、单曲、舞台表演等作品
-    link: /music/
+    link: /music/album
 
   - title: 影视作品
     details: 电视剧、电影、综艺节目等作品
-    link: /video/
+    link: /video/drama
 
   - title: 出版物
     details: 书籍、报刊、杂志等出版物
