@@ -1,0 +1,7 @@
+Disallow: .jpg$
+Disallow: .jpeg$
+Disallow: .png$
+Disallow: .gif$
+Disallow: .webp$
+Disallow: .bmp$
+Disallow: .json$
