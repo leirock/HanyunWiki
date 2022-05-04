@@ -3,11 +3,15 @@ icon: magic
 title: 综艺节目
 ---
 
+以嘉宾、参赛选手身份参与的综艺节目，不含节目主持。
+
+但是，在综艺节目中实际举办了专场歌友会的节目列入音乐作品中的「[**专场歌友会**](/music/concert/)」表单，参加中央电视台《欢乐中国行》、《中华情》等系列户外歌会节目的表演列入音乐作品中的「[**舞台表演**](/music/gala/)」表单。
+
 ::: center
 **表一 固定综艺节目**
 ::: 
 
-以常驻嘉宾、参赛选手等身份参与的综艺节目（不含节目主持），点击节目名称可查看百度百科中的介绍。
+以常驻嘉宾、参赛选手等身份参与的综艺节目，点击节目名称可查看百度百科中的介绍。
 
 <table>
 <thead>
@@ -51,13 +55,13 @@ title: 综艺节目
 <tr>
     <td rowspan="2">2020</td>
     <td>湖南卫视</td>
-    <td><a href="https://baike.baidu.com/item/声临其境第三季" target="_blank" rel="noopener">声临其境（第三季）</a></td>
+    <td><a href="https://baike.baidu.com/item/声临其境第三季" target="_blank" rel="noopener">声临其境·第三季</a></td>
     <td><a href="https://www.mgtv.com/h/334632.html" target="_blank" rel="noopener">芒果TV</a></td>
     <td>季军</td>
 </tr>
 <tr>
     <td>湖南娱乐频道、芒果TV</td>
-    <td><a href="https://baike.baidu.com/item/乘风破浪的姐姐第一季" target="_blank" rel="noopener">乘风破浪的姐姐（第一季）</a></td>
+    <td><a href="https://baike.baidu.com/item/乘风破浪的姐姐第一季" target="_blank" rel="noopener">乘风破浪的姐姐·第一季</a></td>
     <td><a href="https://www.mgtv.com/h/338497.html" target="_blank" rel="noopener">芒果TV</a></td>
     <td></td>
 </tr>
@@ -75,9 +79,7 @@ title: 综艺节目
 **表二 非固定综艺节目**
 ::: 
 
-以飞行嘉宾身份参与的综艺节目（不含节目主持），点击表格内链接可查看相应节目或表演的视频。
-
-但是，在综艺节目中实际举办了专场歌友会的节目列入音乐作品中的「[专场歌友会](/music/concert/)」表单，参加中央电视台《欢乐中国行》、《中华情》等系列户外歌会节目的表演列入音乐作品中的「[舞台表演](/music/stage/cctv/)」表单。
+以飞行嘉宾身份参与的综艺节目，点击表格内链接可查看相应节目或表演的视频。
 
 <table>
 <thead>
@@ -304,7 +306,7 @@ title: 综艺节目
     <td rowspan="5">2013</td>
     <td>5月16日</td>
     <td>湖南卫视</td>
-    <td><a href="https://www.mgtv.com/b/10770/3170282.html" target="_blank" rel="noopener">百变大咖秀 第四季第4期</a></td>
+    <td><a href="https://www.mgtv.com/b/10770/3170282.html" target="_blank" rel="noopener">百变大咖秀·第四季 第4期</a></td>
     <td>模仿梅艳芳，<a href="https://www.bilibili.com/video/BV16k4y1B7DH" target="_blank" rel="noopener">演唱《夕阳之歌》</a></td>
 </tr>
 <tr>
@@ -361,13 +363,13 @@ title: 综艺节目
     <td rowspan="3">2017</td>
     <td>2月24日</td>
     <td>浙江卫视</td>
-    <td><a href="https://www.iqiyi.com/v_19rracza0s.html" target="_blank" rel="noopener">王牌对王牌 第二季第6期</a></td>
+    <td><a href="https://www.iqiyi.com/v_19rracza0s.html" target="_blank" rel="noopener">王牌对王牌·第二季 第6期</a></td>
     <td rowspan="2">后宫特辑</td>
 </tr>
 <tr>
     <td>3月3日</td>
     <td>浙江卫视</td>
-    <td><a href="https://www.iqiyi.com/v_19rraaekp0.html" target="_blank" rel="noopener">王牌对王牌 第二季第7期</a></td>
+    <td><a href="https://www.iqiyi.com/v_19rraaekp0.html" target="_blank" rel="noopener">王牌对王牌·第二季 第7期</a></td>
 </tr>
 <tr>
     <td>7月14日</td>
@@ -379,7 +381,7 @@ title: 综艺节目
     <td>2018</td>
     <td>10月6日</td>
     <td>浙江卫视</td>
-    <td><a href="https://www.iqiyi.com/v_19rwm9c1q8.html" target="_blank" rel="noopener">我就是演员 第一季第5期</a></td>
+    <td><a href="https://www.iqiyi.com/v_19rwm9c1q8.html" target="_blank" rel="noopener">我就是演员·第一季 第5期</a></td>
     <td>表演剧目《夜·店》</td>
 </tr>
 <tr>
@@ -396,7 +398,7 @@ title: 综艺节目
     <td>《赤狐书生》剧组</td>
 </tr>
 <tr>
-    <td rowspan="10">2021</td>
+    <td rowspan="9">2021</td>
     <td>1月8日</td>
     <td>湖南卫视</td>
     <td><a href="https://www.mgtv.com/b/348499/10832150.html" target="_blank" rel="noopener">姐姐的爱乐之程 第10期</a></td>
@@ -417,7 +419,7 @@ title: 综艺节目
 <tr>
     <td>3月28日</td>
     <td>央视综合频道</td>
-    <td><a href="https://tv.cctv.com/2021/03/28/VIDEwnwWKfQI0dlOf1qBTZPB210328.shtml" target="_blank" rel="noopener">经典咏流传 第四季第7期</a></td>
+    <td><a href="https://tv.cctv.com/2021/03/28/VIDEwnwWKfQI0dlOf1qBTZPB210328.shtml" target="_blank" rel="noopener">经典咏流传·第四季 第7期</a></td>
     <td><a href="https://www.bilibili.com/video/BV1R5411P7sD" target="_blank" rel="noopener">演唱《天街小雨》</a></td>
 </tr>
 <tr>
@@ -429,13 +431,13 @@ title: 综艺节目
 <tr>
     <td>4月30日</td>
     <td>浙江卫视</td>
-    <td><a href="https://www.iqiyi.com/v_26x0eaoj98o.html" target="_blank" rel="noopener">奔跑吧 第五季第2期</a></td>
+    <td><a href="https://www.iqiyi.com/v_26x0eaoj98o.html" target="_blank" rel="noopener">奔跑吧·第五季 第2期</a></td>
     <td rowspan="2">保护国宝主题</td>
 </tr>
 <tr>
     <td>5月7日</td>
     <td>浙江卫视</td>
-    <td><a href="https://www.iqiyi.com/v_1ksjynob77s.html" target="_blank" rel="noopener">奔跑吧 第五季第3期</a></td>
+    <td><a href="https://www.iqiyi.com/v_1ksjynob77s.html" target="_blank" rel="noopener">奔跑吧·第五季 第3期</a></td>
 </tr>
 <tr>
     <td>11月20日</td>
@@ -448,6 +450,19 @@ title: 综艺节目
     <td>虎牙直播</td>
     <td><a href="https://www.bilibili.com/video/BV19D4y1c7Nq" target="_blank" rel="noopener">QQ飞车手游四周年<br/>冠军福利之夜</a></td>
     <td></td>
+</tr>
+<tr>
+    <td rowspan="2">2022</td>
+    <td>4月23日</td>
+    <td>浙江卫视</td>
+    <td><a href="http://tv.cztv.com/vplay/1164970.html" target="_blank" rel="noopener">为歌而赞·第二季 第3期</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1VY4y187c5" target="_blank" rel="noopener">演唱《雨爱》</a></td>
+</tr>
+<tr>
+    <td>4月30日</td>
+    <td>浙江卫视</td>
+    <td><a href="http://tv.cztv.com/vplay/1168265.html" target="_blank" rel="noopener">为歌而赞·第二季 第4期</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1GT4y1k78m" target="_blank" rel="noopener">演唱《我爱你》</a></td>
 </tr>
 </tbody>
 </table>
