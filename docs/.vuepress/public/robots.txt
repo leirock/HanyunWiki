@@ -1,8 +1,5 @@
 User-agent: *
-Disallow: /*.jpg$
-Disallow: /*.jpeg$
-Disallow: /*.png$
-Disallow: /*.gif$
-Disallow: /*.webp$
-Disallow: /*.bmp$
-Disallow: /*.json$
+Disallow: /images/*/*.jpg$
+Disallow: /images/*/*.jpeg$
+Disallow: /images/*/*.png$
+Disallow: /images/*/*.webp$
