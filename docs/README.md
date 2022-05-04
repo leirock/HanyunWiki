@@ -14,23 +14,23 @@ actions:
 features:
   - title: 时间轴
     details: 自2004年出道以来的点滴记录
-    link: /intro/timeline/89-03-early/
+    link: /intro/timeline/89-03-early.html
 
   - title: 奖项荣誉
     details: 以音乐奖项为主的各类奖项荣誉
-    link: /intro/award/music/
+    link: /intro/award/music.html
 
   - title: 形象代言
     details: 公益代言、商业广告
-    link: /intro/branding/psa/
+    link: /intro/branding/psa.html
 
   - title: 音乐作品
     details: 专辑、单曲、舞台表演等作品
-    link: /music/album
+    link: /music/album/
 
   - title: 影视作品
     details: 电视剧、电影、综艺节目等作品
-    link: /video/drama
+    link: /video/drama.html
 
   - title: 出版物
     details: 书籍、报刊、杂志等出版物
@@ -42,9 +42,9 @@ features:
 
   - title: 媒体报道
     details: 关于张含韵的非消息类媒体报道
-    link: /roundtable/report/
+    link: /roundtable/report.html
 
   - title: 逸闻趣事
     details: 收录有关张含韵的逸闻趣事
-    link: /roundtable/anecdote/
+    link: /roundtable/anecdote.html
 ---
