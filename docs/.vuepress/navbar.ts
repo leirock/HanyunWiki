@@ -1,13 +1,13 @@
-import { defineNavbarConfig } from "vuepress-theme-hope";
+import { navbar } from "vuepress-theme-hope";
 
-export default defineNavbarConfig([
+export default navbar([
   "/intro/",
   {
     text: "音乐作品",
     icon: "music",
     prefix: "/music/",
     children: [
-      "album",
+      "album/",
       "single",
       "concert",
       "gala",
@@ -33,7 +33,7 @@ export default defineNavbarConfig([
     icon: "question-answer",
     prefix: "/roundtable/",
     children: [
-      "collection",
+      "collection/",
       "report",
       "anecdote",
     ],

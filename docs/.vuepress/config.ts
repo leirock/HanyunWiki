@@ -1,7 +1,7 @@
-import { defineHopeConfig } from "vuepress-theme-hope";
-import themeConfig from "./themeConfig";
+import { defineUserConfig } from "vuepress";
+import theme from './theme';
 
-export default defineHopeConfig({
+export default defineUserConfig({
   lang: "zh-CN",
   title: "含韵百科",
   description: "全方位认识张含韵的百科站点",
@@ -17,5 +17,6 @@ export default defineHopeConfig({
     ['link', { rel: 'stylesheet', type: 'text/css', href: 'https://lib.baomitu.com/fancybox/latest/jquery.fancybox.min.css' }],    
   ],
 
-  themeConfig,
+  theme,
+
 });
