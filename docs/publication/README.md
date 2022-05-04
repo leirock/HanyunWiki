@@ -358,6 +358,12 @@ title: 出版物
     <td><a data-fancybox data-caption="势界·My Play 2021年10月" href="/images/magazine/202110_势界.jpg">10月</a></td>
     <td>势界·My Play（单发别册）</td>
 </tr>
+<tr>
+    <td rowspan="1">2022</td>
+    <td><a data-fancybox data-caption="艺乐ELE杂志" href="https://si.geilicdn.com/pcitem1140729687-26610000017f920022ec0a20e2c5_1241_1683.jpg">3月-4月</a></td>
+    <td>艺乐ELE杂志 <a href="https://weibo.com/1686031952/LkA0NB6uh" target="_blank" rel="noopener">[微博]</a> <a href="https://www.bilibili.com/video/BV1W34y1e7cn" target="_blank" rel="noopener">[视频]</a> <a href="https://baijiahao.baidu.com/s?id=1730414266425239164&wfr=spider" target="_blank" rel="noopener">[网页]</a></td>
+    <td rowspan="1">封面和内页</td>
+</tr>    
 </tbody>
 </table>
 
