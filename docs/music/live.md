@@ -151,5 +151,16 @@ title: 经典现场
         <td>首届中国无锡（荡口）光影艺术节</td>
         <td>赤伶 <a href="https://www.bilibili.com/video/BV1qQ4y1z7H4" target="_blank" rel="noopener">[播出版+现场侧录]</a> <a href="https://www.bilibili.com/video/BV1iq4y1o7SM" target="_blank" rel="noopener">[直拍片段]</a></td>
     </tr>
+    <tr>
+        <td rowspan="2">2022</td>
+        <td>4月23日</td>
+        <td>为歌而赞第二季</td>
+        <td><a href="https://video.weibo.com/show?fid=1034:4761519150530711" target="_blank" rel="noopener">雨爱</a></td>
+    </tr>
+    <tr>
+        <td>4月30日</td>
+        <td>为歌而赞第二季</td>
+        <td><a href="https://video.weibo.com/show?fid=1034:4764051587399765" target="_blank" rel="noopener">我爱你</a></td>
+    </tr>  
 </tbody>
 </table>
