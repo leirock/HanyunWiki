@@ -3,11 +3,21 @@
   "version": "2.1.0",
   "description": "Zhang Hanyun's Wiki",
   "scripts": {
-    "docs:build": "vuepress build docs",
-    "docs:clean-dev": "vuepress dev docs --clean-cache",
-    "docs:dev": "vuepress dev docs"
+    "build": "vuepress build docs",
+    "clean-dev": "vuepress dev docs --clean-cache",
+    "dev": "vuepress dev docs"
   },
-  "devDependencies": {
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leirock/HanyunWiki.git"
+  },
+  "author": "leirock",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/leirock/HanyunWiki/issues"
+  },
+  "homepage": "https://github.com/leirock/HanyunWiki#readme",
+  "dependencies": {
     "vuepress": "^2.0.0-beta.43",
     "vuepress-theme-hope": "^2.0.0-beta.49"
   }

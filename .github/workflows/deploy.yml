@@ -19,12 +19,12 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: '16'
-        cache: 'npm'
+        cache: 'yarn'
 
     - name: Generate Vuepress site
       run: |
-        npm install --no-audit
-        npm run docs:build
+        yarn install
+        yarn build
 
     - name: Deploy to server
       uses: easingthemes/ssh-deploy@main
@@ -41,7 +41,7 @@ jobs:
       if: cancelled() == false
       uses: xinthink/action-telegram@v1.1
       with:
-        botToken: ${{ secrets.TG_BOT_TOKEN }} #use bot @BotFather
-        chatId: ${{ secrets.TG_CHAT_ID }} #use bot @userinfobot
+        botToken: ${{ secrets.TG_BOT_TOKEN }}
+        chatId: ${{ secrets.TG_CHAT_ID }}
         jobStatus: ${{ job.status }}
         skipSuccess: false

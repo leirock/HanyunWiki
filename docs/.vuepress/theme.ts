@@ -17,6 +17,8 @@ export default hopeTheme({
 
   docsDir: "docs",
 
+  lastUpdated: false,
+
   contributors: false,
 
   breadcrumbIcon: false,
