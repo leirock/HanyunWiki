@@ -20,9 +20,9 @@ title: 舞台表演
 <tr>
     <td rowspan="11">2005</td>
     <td>1月1日</td>
-    <td>湖南卫视元旦晚会</td>
-    <td></td>
-    <td></td>
+    <td>快乐为你·湖南卫视元旦晚会</td>
+    <td><a href="https://www.bilibili.com/video/BV1uR4y157Yz" target="_blank" rel="noopener">想唱就唱</a></td></td>
+    <td>安又琪</td>
     <td></td>
 </tr>
 <tr>
