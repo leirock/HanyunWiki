@@ -162,7 +162,7 @@ title: 舞台表演
 <tr>
     <td>8月27日</td>
     <td>太阳计划2006橙色南区太阳夜</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTE1NTIwOTk2" target="_blank" rel="noopener">想唱就唱</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1rh4118757" target="_blank" rel="noopener">想唱就唱</a></td>
     <td></td>
     <td>香港仔运动场<br/>香港电台</td>
 </tr>
