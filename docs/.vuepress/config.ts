@@ -1,5 +1,5 @@
 import { defineUserConfig } from "vuepress";
-import theme from './theme';
+import theme from "./theme";
 
 export default defineUserConfig({
   lang: "zh-CN",
@@ -9,7 +9,6 @@ export default defineUserConfig({
   base: "/",
 
   head: [
-    ["link", { rel: "stylesheet", href: "https://at.alicdn.com/t/font_2629682_w7f7d1vp64.css" },],
     ["script", { async: "",  defer: "", 'data-website-id': "130b8b20-37c0-4c7e-a17f-77af96beb621", src: "https://stat.pinlyu.com/script.js" }],
     //Fancybox
     ['script', { src: 'https://lib.baomitu.com/jquery/latest/jquery.min.js' }],
@@ -18,5 +17,7 @@ export default defineUserConfig({
   ],
 
   theme,
+
+  shouldPrefetch: false,
 
 });

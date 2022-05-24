@@ -7,7 +7,7 @@ export default hopeTheme({
 
   author: "含韵百科",
 
-  iconPrefix: "iconfont icon-",
+  iconAssets: "https://at.alicdn.com/t/font_2629682_w7f7d1vp64.css",
 
   logo: "/images/logo.png",
 
@@ -17,6 +17,16 @@ export default hopeTheme({
 
   docsDir: "docs",
 
+  navbar: navbar,
+
+  sidebar: sidebar,
+  
+  footer: "版权所有 © 含韵百科 | CC BY-SA 4.0",
+
+  displayFooter: true,
+
+  pageInfo: false,
+
   lastUpdated: false,
 
   contributors: false,
@@ -25,19 +35,9 @@ export default hopeTheme({
 
   pure: true,
 
-  navbar: navbar,
-
-  sidebar: sidebar,
-
   toc: false,
 
-  footer: "版权所有 © 含韵百科 | CC BY-SA 4.0",
-
   copyright: false,
-
-  displayFooter: true,
-
-  pageInfo: false,
 
   themeColor: false,
 
