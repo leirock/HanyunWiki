@@ -24,16 +24,16 @@ title: 公益代言
     <td><a href="http://news.sina.com.cn/s/2006-08-31/19359903131s.shtml" target="_blank" rel="noopener">宣传大使</a></td>
 </tr>
 <tr>
-    <td>2012年至今</td>
+    <td>2012年起</td>
     <td>北京市残疾人联合会</td>
     <td>手语推广大使<br/>
         (<a href="https://ent.163.com/12/1120/10/8GOGCP3N00032DGD.html" target="_blank" rel="noopener">2012</a>/<a href="http://qa.amway.com.cn/about/ztchome/beijing/zuixindongtai/201310/208949.html" target="_blank" rel="noopener">13</a>/<a href="http://ent.sina.com.cn/s/m/2014-05-27/17574149007.shtml" target="_blank" rel="noopener">14</a>/<a href="http://www.xinhuanet.com/ent/2015-12/04/c_128498487.htm" target="_blank" rel="noopener">15</a>/<a href="http://www.bdpf.org.cn/n1544/n1689/n1770/n1779/c55403/content.html" target="_blank" rel="noopener">16</a>/<a href="http://www.xinhuanet.com/ent/2017-05/22/c_1121013458.htm" target="_blank" rel="noopener">17</a>/<a href="http://www.chinanews.com/yl/2019/09-08/8950512.shtml" target="_blank" rel="noopener">19</a>)
     </td>
 </tr>
 <tr>
-    <td>2021年</td>
-    <td>上海市慈善基金会、上海复星公益基金会</td>
-    <td><a href="https://weibo.com/1172294045/Kx2xS9lp5" target="_blank" rel="noopener">宣传「2021世界阿尔茨海默症日」</a></td>
+    <td>2022年</td>
+    <td>中华思源工程扶贫基金会</td>
+    <td><a href="https://weibo.com/1172294045/LqmEzdPPg" target="_blank" rel="noopener">星愿宝贝公益计划爱心大使</a></td>
 </tr>
 </tbody>
 </table>

@@ -174,5 +174,10 @@ title: 商业代言
     <td>手机游戏《QQ飞车》</td>
     <td><a href="https://weibo.com/6444402026/KkVJxoBJH" target="_blank" rel="noopener">零号机甲驾驶官</a></td>
 </tr>
+<tr>
+    <td>2022</td>
+    <td>麦吉丽 Mageline</td>
+    <td><a href="https://weibo.com/3706556790/Lvnm4r9Ev" target="_blank" rel="noopener">品牌大使</a></td>
+</tr>
 </tbody>
 </table>
