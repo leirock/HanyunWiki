@@ -49,4 +49,4 @@ features:
     link: /roundtable/anecdote.html
 ---
 
-**数据统计截至：** 2022 年 5 月 30 日
+**数据截至：** 2022 年 5 月 30 日
