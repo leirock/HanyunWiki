@@ -32,7 +32,7 @@ title: 专辑
 </tr>
 <tr>
     <td>3</td>
-    <td><a href="album3.html">Baby X’mas 新年好</a></td>
+    <td><a href="album3.html">Baby X'mas 新年好</a></td>
     <td>迷你专辑</td>
     <td>天中文化</td>
     <td>2005年12月10日</td>
