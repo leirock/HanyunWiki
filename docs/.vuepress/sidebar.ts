@@ -57,8 +57,8 @@ export default sidebar({
       ],
     },
     "single",
-    "concert",
     "gala",
+    "concert",
     "live",
   ],
 

@@ -5,7 +5,7 @@ title: 综艺节目
 
 以嘉宾、参赛选手身份参与的综艺节目，不含节目主持。
 
-但是，在综艺节目中实际举办了专场歌友会的节目列入音乐作品中的「[**专场歌友会**](/music/concert/)」表单，参加中央电视台《欢乐中国行》、《中华情》等系列户外歌会节目的表演列入音乐作品中的「[**舞台表演**](/music/gala/)」表单。
+但是，以个人专场歌友会为主题的综艺节目列入音乐作品中的「[**歌友会**](/music/concert/)」，以舞台表演为主的综艺节目列入音乐作品中的「[**舞台表演**](/music/gala/)」。
 
 ::: center
 **表一 固定综艺节目**
@@ -93,7 +93,7 @@ title: 综艺节目
 </thead>
 <tbody>
 <tr>
-    <td rowspan="11">2005</td>
+    <td rowspan="10">2005</td>
     <td>7月18日<sup id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></td>
     <td>央视体育频道</td>
     <td>天下足球</td>
@@ -146,12 +146,6 @@ title: 综艺节目
     <td>中文国际频道</td>
     <td>欢聚一堂</td>
     <td></td>
-</tr>
-<tr>
-    <td>12月28日</td>
-    <td>TVB翡翠台</td>
-    <td>劲歌金曲</td>
-    <td><a href="https://v.youku.com/v_show/id_XMTMxNzcxNjAzNg" target="_blank" rel="noopener">演唱《最想念的季节》</a></td>
 </tr>
 <tr>
     <td>12月31日</td>
@@ -296,13 +290,6 @@ title: 综艺节目
     <td>大明星小职业</td>
 </tr>
 <tr>
-    <td>2011</td>
-    <td>7月11日</td>
-    <td>央视综艺频道</td>
-    <td><a href="https://tv.cctv.com/2011/07/11/VIDE1355632028689235.shtml" target="_blank" rel="noopener">我要上春晚</a></td>
-    <td><a href="https://www.bilibili.com/video/BV15x411k7Jb" target="_blank" rel="noopener">演唱《你好吗》</a></td>
-</tr>
-<tr>
     <td rowspan="5">2013</td>
     <td>5月16日</td>
     <td>湖南卫视</td>
@@ -398,7 +385,7 @@ title: 综艺节目
     <td>《赤狐书生》剧组</td>
 </tr>
 <tr>
-    <td rowspan="9">2021</td>
+    <td rowspan="8">2021</td>
     <td>1月8日</td>
     <td>湖南卫视</td>
     <td><a href="https://www.mgtv.com/b/348499/10832150.html" target="_blank" rel="noopener">姐姐的爱乐之程 第10期</a></td>
@@ -415,12 +402,6 @@ title: 综艺节目
     <td>湖南卫视</td>
     <td><a href="https://www.mgtv.com/b/349986/11281573.html" target="_blank" rel="noopener">快乐大本营</a></td>
     <td>宣传并<a href="https://www.bilibili.com/video/BV1oh411D7oo" target="_blank" rel="noopener">表演新歌舞蹈《温柔反击》</a></td>
-</tr>
-<tr>
-    <td>3月28日</td>
-    <td>央视综合频道</td>
-    <td><a href="https://tv.cctv.com/2021/03/28/VIDEwnwWKfQI0dlOf1qBTZPB210328.shtml" target="_blank" rel="noopener">经典咏流传·第四季 第7期</a></td>
-    <td><a href="https://www.bilibili.com/video/BV1R5411P7sD" target="_blank" rel="noopener">演唱《天街小雨》</a></td>
 </tr>
 <tr>
     <td>4月16日</td>
@@ -450,19 +431,6 @@ title: 综艺节目
     <td>虎牙直播</td>
     <td><a href="https://www.bilibili.com/video/BV19D4y1c7Nq" target="_blank" rel="noopener">QQ飞车手游四周年<br/>冠军福利之夜</a></td>
     <td></td>
-</tr>
-<tr>
-    <td rowspan="2">2022</td>
-    <td>4月23日</td>
-    <td>浙江卫视</td>
-    <td><a href="http://tv.cztv.com/vplay/1164970.html" target="_blank" rel="noopener">为歌而赞·第二季 第3期</a></td>
-    <td><a href="https://www.bilibili.com/video/BV1VY4y187c5" target="_blank" rel="noopener">演唱《雨爱》</a></td>
-</tr>
-<tr>
-    <td>4月30日</td>
-    <td>浙江卫视</td>
-    <td><a href="http://tv.cztv.com/vplay/1168265.html" target="_blank" rel="noopener">为歌而赞·第二季 第4期</a></td>
-    <td><a href="https://www.bilibili.com/video/BV1GT4y1k78m" target="_blank" rel="noopener">演唱《我爱你》</a></td>
 </tr>
 </tbody>
 </table>

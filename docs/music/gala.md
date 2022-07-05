@@ -3,7 +3,7 @@ icon: apps
 title: 舞台表演
 ---
 
-在大型晚会、典礼、音乐节等舞台的表演，点击表格内链接可查看相应舞台表演视频。
+在大型晚会、典礼、音乐节、音乐类综艺节目等舞台的表演，点击表格内链接可查看相应舞台表演视频。
 
 <table style="font-size:84%;">
 <thead>
@@ -18,7 +18,7 @@ title: 舞台表演
 </thead>
 <tbody>
 <tr>
-    <td rowspan="11">2005</td>
+    <td rowspan="12">2005</td>
     <td>1月1日</td>
     <td>快乐为你·湖南卫视元旦晚会</td>
     <td><a href="https://www.bilibili.com/video/BV1uR4y157Yz" target="_blank" rel="noopener">想唱就唱</a></td>
@@ -80,6 +80,13 @@ title: 舞台表演
     <td><a href="https://www.bilibili.com/video/BV1xA411v7X6" target="_blank" rel="noopener">最想念的季节</a></td>
     <td></td>
     <td>三亚美丽之冠<br/>央视综艺频道</td>
+</tr>
+<tr>
+    <td>12月28日</td>
+    <td>劲歌金曲</td>
+    <td><a href="https://v.youku.com/v_show/id_XMTMxNzcxNjAzNg" target="_blank" rel="noopener">最想念的季节</a></td>
+    <td></td>
+    <td>TVB翡翠台</td>
 </tr>
 <tr>
     <td>12月30日</td>
@@ -388,7 +395,14 @@ title: 舞台表演
     <td></td>
 </tr>
 <tr>
-    <td>2011</td>
+    <td rowspan="2">2011</td>
+    <td>7月11日</td>
+    <td>我要上春晚</td>
+    <td><a href="https://www.bilibili.com/video/BV15x411k7Jb" target="_blank" rel="noopener">你好吗</a></td>
+    <td></td>
+    <td>央视综艺频道</td>
+</tr>
+<tr>
     <td>9月21日</td>
     <td>欢乐中国行·<a href="https://tv.cctv.com/2011/09/22/VIDE1341992713325474.shtml" target="_blank" rel="noopener">魅力承德</a></td>
     <td>一人一梦、酸酸甜甜就是我</td>
@@ -563,7 +577,7 @@ title: 舞台表演
     <td>央视综合频道</td>
 </tr>
 <tr>
-    <td rowspan="12">2021</td>
+    <td rowspan="13">2021</td>
     <td>1月24日</td>
     <td>2020王者荣耀年度颁奖典礼</td>
     <td><a href="https://www.bilibili.com/video/BV1ut4y167oJ" target="_blank" rel="noopener">你我皆王者</a></td>
@@ -590,6 +604,13 @@ title: 舞台表演
     <td><a href="https://www.bilibili.com/video/BV1Db4y197mn" target="_blank" rel="noopener">恶作剧</a></td>
     <td>于朦胧</td>
     <td>钢琴弹奏</td>
+</tr>
+<tr>
+    <td>3月28日</td>
+    <td>经典咏流传·第四季 第7期</td>
+    <td><a href="https://www.bilibili.com/video/BV1R5411P7sD" target="_blank" rel="noopener">天街小雨</a></td>
+    <td>常静（古筝）</td>
+    <td>央视综合频道</td>
 </tr>
 <tr>
     <td>4月1日</td>
@@ -648,7 +669,7 @@ title: 舞台表演
     <td>唱跳舞台</td>
 </tr>
 <tr>
-    <td rowspan="3">2022</td>
+    <td rowspan="5">2022</td>
     <td>1月14日</td>
     <td>2021年QQ飞车手游S联赛年度总决赛</td>
     <td><a href="https://www.bilibili.com/video/BV1Gb4y1J7tQ?p=8" target="_blank" rel="noopener">丹青墨绿、极速战姬</a></td>
@@ -668,6 +689,20 @@ title: 舞台表演
     <td><a href="https://www.bilibili.com/video/BV17S4y117M4" target="_blank" rel="noopener">诗经·郑风·野有蔓草</a></td>
     <td></td>
     <td>央视综合频道</td>
+</tr>
+<tr>
+    <td>4月23日</td>
+    <td>为歌而赞·第二季 第3期</td>
+    <td><a href="https://www.bilibili.com/video/BV1VY4y187c5" target="_blank" rel="noopener">雨爱</a></td>
+    <td></td>
+    <td>浙江卫视</td>
+</tr>
+<tr>
+    <td>4月30日</td>
+    <td>为歌而赞·第二季 第4期</td>
+    <td><a href="https://www.bilibili.com/video/BV1GT4y1k78m" target="_blank" rel="noopener">我爱你</a></td>
+    <td></td>
+    <td>浙江卫视</td>
 </tr>
 </tbody>
 </table>

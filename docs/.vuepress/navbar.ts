@@ -9,8 +9,8 @@ export default navbar([
     children: [
       "album/",
       "single",
-      "concert",
       "gala",
+      "concert",
       "live",
     ],
   },
