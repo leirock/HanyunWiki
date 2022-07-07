@@ -9,7 +9,7 @@ title: 关于本站
 
 ## 运行维护
 
-含韵百科当前由站长 [班班](https://pinlyu.com) 维护，依托 [Vuepress](https://vuepress-theme-hope.github.io/v2/zh/) 创建，项目代码托管于 [GitHub](https://github.com/leirock/HanyunWiki)。欢迎大家纠错或补充信息，也可以对本站建设提出意见建议。请注意，您的投稿将被视为默认接受本站关于文本内容的[著作权许可协议](/about/copyright/)。
+含韵百科依托 [Vuepress](https://vuepress-theme-hope.github.io/v2/zh/) 创建，项目代码托管于 [GitHub](https://github.com/leirock/HanyunWiki)。欢迎大家纠错或补充信息，也可以对本站建设提出意见建议。请注意，您的投稿将被视为默认接受本站关于文本内容的[著作权许可协议](/about/copyright/)。
 
 您可以直接点击页面左下角的「**编辑此页**」，前往 GitHub 上的代码仓库提交 Pull Request，请求被批准后就会更新您的更改。如果您阅读和修改本站代码有困难，也可以直接联系本站管理员提交您希望补充或修改的内容。
 
