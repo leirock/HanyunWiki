@@ -65,6 +65,13 @@ title: 综艺节目
     <td><a href="https://www.mgtv.com/h/338497.html" target="_blank" rel="noopener">芒果TV</a></td>
     <td></td>
 </tr>
+<tr>
+    <td>2022</td>
+    <td>浙江卫视</td>
+    <td><a href="https://baike.baidu.com/item/听说很好吃第二季" target="_blank" rel="noopener">听说很好吃·第二季</a></td>
+    <td>待播出</td>
+    <td></td>
+</tr>
 </tbody>
 </table>
 
