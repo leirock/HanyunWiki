@@ -69,7 +69,7 @@ title: 综艺节目
     <td>2022</td>
     <td>浙江卫视</td>
     <td><a href="https://baike.baidu.com/item/听说很好吃第二季" target="_blank" rel="noopener">听说很好吃·第二季</a></td>
-    <td>待播出</td>
+    <td><a href="https://www.iqiyi.com/v_1l3xhdhvqz8.html" target="_blank" rel="noopener">爱奇艺</a>、<a href="https://v.qq.com/x/cover/mzc002001tfdrsp/j0043oo4isz.html" target="_blank" rel="noopener">腾讯视频</a></td>
     <td></td>
 </tr>
 </tbody>
