@@ -45,7 +45,7 @@ features:
     link: /roundtable/report.html
 
   - title: 逸闻趣事
-    details: 收录有关张含韵的逸闻趣事
+    details: 有关张含韵的逸闻趣事
     link: /roundtable/anecdote.html
 ---
 
