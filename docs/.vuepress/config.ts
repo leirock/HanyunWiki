@@ -11,8 +11,21 @@ export default defineUserConfig({
   base: "/",
 
   head: [
-    ["script", { async: "",  defer: "", 'data-website-id': "130b8b20-37c0-4c7e-a17f-77af96beb621", src: "https://stat.pinlyu.com/script.js" }],
-    //Fancybox
+    // Baidu
+    [ 'script', {}, 
+    `
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?37af799c6274452a7f3f66139e04e169";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    `
+    ],
+    // umami
+    //["script", { async: "",  defer: "", 'data-website-id': " ", src: " " }],
+    // Fancybox
     ['script', { src: 'https://lib.baomitu.com/jquery/latest/jquery.min.js' }],
     ['script', { src: 'https://lib.baomitu.com/fancybox/latest/jquery.fancybox.min.js' }],
     ['link', { rel: 'stylesheet', type: 'text/css', href: 'https://lib.baomitu.com/fancybox/latest/jquery.fancybox.min.css' }],    
