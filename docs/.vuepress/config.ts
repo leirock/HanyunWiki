@@ -11,8 +11,8 @@ export default defineUserConfig({
   base: "/",
 
   head: [
-    // Plausible Analytics
-    ['script', { defer: '', 'data-domain': 'hanyun.pinlyu.com', src: 'https://stat.pinlyu.com/js/script.outbound-links.js' }],
+    // Umami Analytics
+    ['script', { async: '', defer: '', 'data-website-id': '5dbcd13c-c6b1-4357-be62-89765d6aa384', src: 'https://stat.pinlyu.com/script.js' }],
     // Fancybox
     ['script', { src: 'https://lib.baomitu.com/jquery/latest/jquery.min.js' }],
     ['script', { src: 'https://lib.baomitu.com/fancybox/latest/jquery.fancybox.min.js' }],
