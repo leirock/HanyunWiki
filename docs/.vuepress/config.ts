@@ -62,6 +62,12 @@ export default defineUserConfig({
   
     fullscreen: false,
   
+    navbarLayout: {
+      left: ["Brand"],
+      center: [],
+      right: ["Links"]
+    },
+
     plugins: {
   
       copyCode: false,
