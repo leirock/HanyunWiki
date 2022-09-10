@@ -669,7 +669,7 @@ title: 舞台表演
     <td>唱跳舞台</td>
 </tr>
 <tr>
-    <td rowspan="6">2022</td>
+    <td rowspan="7">2022</td>
     <td>1月14日</td>
     <td>2021年QQ飞车手游S联赛年度总决赛</td>
     <td><a href="https://www.bilibili.com/video/BV1Gb4y1J7tQ?p=8" target="_blank" rel="noopener">丹青墨绿、极速战姬</a></td>
@@ -709,6 +709,13 @@ title: 舞台表演
     <td>古韵新声·七夕</td>
     <td><a href="https://www.bilibili.com/video/BV1dt4y137V7" target="_blank" rel="noopener">迢迢牵牛星</a></td>
     <td></td>
+    <td>央视综合频道</td>
+</tr>
+<tr>
+    <td>9月10日</td>
+    <td>中央广播电视总台中秋晚会</td>
+    <td>吉庆团圆</td>
+    <td>蔡国庆</td>
     <td>央视综合频道</td>
 </tr>
 </tbody>
