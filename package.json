@@ -8,15 +8,8 @@
     "clean-dev": "vuepress dev docs --clean-cache",
     "dev": "vuepress dev docs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/leirock/HanyunWiki.git"
-  },
+  "repository": "leirock/HanyunWiki",
   "author": "leirock",
-  "bugs": {
-    "url": "https://github.com/leirock/HanyunWiki/issues"
-  },
-  "homepage": "https://github.com/leirock/HanyunWiki#readme",
   "dependencies": {
     "@vuepress/client": "^2.0.0-beta.51",
     "vue": "^3.2.39",
