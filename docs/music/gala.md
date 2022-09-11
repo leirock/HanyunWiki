@@ -3,13 +3,13 @@ icon: apps
 title: 舞台表演
 ---
 
-在大型晚会、典礼、音乐节、音乐类综艺节目等舞台的表演，点击表格内链接可查看相应舞台表演视频。
+主要包括在大型晚会、典礼、音乐节、音乐类综艺节目等舞台的表演，点击表格内链接可查看相应舞台表演视频。
 
 <table style="font-size:84%;">
 <thead>
 <tr>
-    <th style="width:5%">年份</th>
-    <th style="width:13%">播出日期</th>
+    <th>年份</th>
+    <th style="width:11%">播出日期</th>
     <th style="width:30%">舞台</th>
     <th style="width:22%">曲目</th>
     <th>合作者</th>
@@ -714,8 +714,8 @@ title: 舞台表演
 <tr>
     <td>9月10日</td>
     <td>中央广播电视总台中秋晚会</td>
-    <td>吉庆团圆</td>
-    <td>蔡国庆</td>
+    <td><a href="https://www.bilibili.com/video/BV16a411u7wE" target="_blank" rel="noopener">吉庆团圆</a></td>
+    <td>蔡国庆、陈晓忠（大三弦）</td>
     <td>央视综合频道</td>
 </tr>
 </tbody>
