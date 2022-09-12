@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/logo.png
+heroImage: /images/logo.webp
 heroText: 含韵百科
 tagline: 全方位认识张含韵的百科站点
 actions:

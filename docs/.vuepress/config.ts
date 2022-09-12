@@ -26,7 +26,7 @@ export default defineUserConfig({
   
     iconAssets: "https://at.alicdn.com/t/font_2629682_w7f7d1vp64.css",
   
-    logo: "/images/logo.png",
+    logo: "/images/logo.webp",
   
     repo: "https://github.com/leirock/HanyunWiki",
     
