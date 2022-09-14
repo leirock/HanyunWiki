@@ -59,7 +59,6 @@ export default sidebar({
     "single",
     "gala",
     "concert",
-    "live",
   ],
 
   //影视作品
@@ -67,7 +66,6 @@ export default sidebar({
     "drama",
     "movie",
     "variety",
-    "interview",
     "host",
     "other",
   ],
@@ -79,9 +77,9 @@ export default sidebar({
 
   //圆桌会
   "/roundtable/": [
-    "collection/", //随笔文集
-    "report", //媒体报道
-    "anecdote", //逸闻趣事
+    "interview/",
+    "live",
+    "anecdote",
   ],
 
   //关于本站

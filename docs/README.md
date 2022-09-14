@@ -16,14 +16,6 @@ features:
     details: 自2004年出道以来的点滴记录
     link: /intro/timeline/89-03-early.html
 
-  - title: 奖项荣誉
-    details: 以音乐奖项为主的各类奖项荣誉
-    link: /intro/award/music.html
-
-  - title: 形象代言
-    details: 公益代言、商业广告
-    link: /intro/branding/psa.html
-
   - title: 音乐作品
     details: 专辑、单曲、舞台表演等作品
     link: /music/album/
@@ -36,13 +28,21 @@ features:
     details: 书籍、报刊、杂志等出版物
     link: /publication/
 
-  - title: 随笔文集
-    details: 关于张含韵的随笔与讨论文章
-    link: /roundtable/collection/
+  - title: 奖项荣誉
+    details: 以音乐奖项为主的各类奖项荣誉
+    link: /intro/award/music.html
 
-  - title: 媒体报道
-    details: 关于张含韵的非消息类媒体报道
-    link: /roundtable/report.html
+  - title: 形象代言
+    details: 公益代言、商业广告
+    link: /intro/branding/psa.html
+
+  - title: 访谈采访
+    details: 谈话类节目、媒体采访
+    link: /roundtable/interview.html
+
+  - title: 经典现场
+    details: 代表性演唱现场
+    link: /roundtable/live.html
 
   - title: 逸闻趣事
     details: 有关张含韵的逸闻趣事

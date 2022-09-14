@@ -11,7 +11,6 @@ export default navbar([
       "single",
       "gala",
       "concert",
-      "live",
     ],
   },
   {
@@ -22,7 +21,6 @@ export default navbar([
       "drama",
       "movie",
       "variety",
-      "interview",
       "host",
       "other",
     ],
@@ -33,8 +31,8 @@ export default navbar([
     icon: "question-answer",
     prefix: "/roundtable/",
     children: [
-      "collection/",
-      "report",
+      "interview",
+      "live",
       "anecdote",
     ],
   },
