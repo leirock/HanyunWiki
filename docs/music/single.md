@@ -3,7 +3,7 @@ icon: disc
 title: 单曲
 ---
 
-主要包括正式发行但是未收录于专辑中的单曲，MV 栏指是否录制 MV 视频或设计舞蹈表演。
+主要包括正式发行但是未收录于个人专辑中的录音室单曲，MV 栏指是否录制 MV 视频或设计舞蹈表演。
 
 <table>
 <thead>
@@ -230,7 +230,7 @@ title: 单曲
     <td class="yes"></td>
 </tr>
 <tr>
-    <td rowspan="3">2022</td>
+    <td rowspan="4">2022</td>
     <td>2月22日</td>
     <td>海与灯塔</td>
     <td>电视剧《我们的婚姻》片尾曲</td>
@@ -240,7 +240,7 @@ title: 单曲
 <tr>
     <td>4月2日</td>
     <td>山河是我</td>
-    <td>清明节“我的节日我的歌”</td>
+    <td>清明节“我的节日我的歌”活动</td>
     <td></td>
     <td class="yes"></td>
 </tr>
@@ -251,11 +251,19 @@ title: 单曲
     <td>佟梦实</td>
     <td></td>
 </tr>
+<tr>
+    <td>7月27日</td>
+    <td>带你吃好的</td>
+    <td>综艺《听说很好吃·第二季》主题曲</td>
+    <td>王耀庆、林依轮、罗一舟</td>
+    <td></td>
+</tr>
 </tbody>
 </table>
 
 <small>
 <b>注释：</b><br/>
-1. 《我不是复制品》未正式发行，故没有录音室版本，可观看<a href="https://v.youku.com/v_show/id_XMjY1MDI0OTAw" target="_blank" rel="noopener">现场视频</a>。<br/>
-2. 《相思赋》、《问别》、《开心就好》、《温柔反击》、《逛》的音源在网易云音乐，其余单曲音源均在 QQ 音乐。
+1. 本表不收录在<a href="/video/variety.html">固定综艺节目</a>现场演唱后收录于节目专辑的曲目。<br/>
+2. 《我不是复制品》曾录制过录音室版本，但未正式发行即销毁，可观看<a href="https://v.youku.com/v_show/id_XMjY1MDI0OTAw" target="_blank" rel="noopener">现场视频</a>。<br/>
+3. 《相思赋》、《问别》、《开心就好》、《温柔反击》、《逛》的音源在网易云音乐，其余单曲音源均在 QQ 音乐。
 </small>
