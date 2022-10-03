@@ -11,19 +11,6 @@ export default defineUserConfig({
   base: "/",
 
   head: [
-    //year calculator
-    ['script', {}, `
-      var birth='1989/04/09';
-      var debut='2004/09/22';
-      var year = 1000 * 60 * 60 * 24 * 365;
-      var now = new Date();
-      var birthday = new Date(birth);
-      var debutday = new Date(debut);
-      var age = parseInt((now - birthday) / year);
-      var debutyear = parseInt((now - debutday) / year);
-      document.getElementById("age").innerHTML = age;
-      document.getElementById("debutyear").innerHTML = debutyear;
-    `],
     // Umami Analytics
     ['script', { async: '', defer: '', 'data-website-id': '5dbcd13c-c6b1-4357-be62-89765d6aa384', src: 'https://stat.pinlyu.com/script.js' }],
     // Fancybox
