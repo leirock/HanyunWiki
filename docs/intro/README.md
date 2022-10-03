@@ -140,18 +140,6 @@ title: 认识含韵
     </td>
 </tr>
 </tbody>
-<component :is="'script'">
-    var birth='1989/04/09';
-    var debut='2004/09/22';
-    var year = 1000 * 60 * 60 * 24 * 365;
-    var now = new Date();
-    var birthday = new Date(birth);
-    var debutday = new Date(debut);
-    var age = parseInt((now - birthday) / year);
-    var debutyear = parseInt((now - debutday) / year);
-    document.getElementById("age").innerHTML = age;
-    document.getElementById("debutyear").innerHTML = debutyear;
-</component>
 </table>
 
 ## 社交媒体
