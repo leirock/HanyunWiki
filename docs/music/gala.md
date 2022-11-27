@@ -669,7 +669,7 @@ title: 舞台表演
     <td>唱跳舞台</td>
 </tr>
 <tr>
-    <td rowspan="7">2022</td>
+    <td rowspan="10">2022</td>
     <td>1月14日</td>
     <td>2021年QQ飞车手游S联赛年度总决赛</td>
     <td><a href="https://www.bilibili.com/video/BV1Gb4y1J7tQ?p=8" target="_blank" rel="noopener">丹青墨绿、极速战姬</a></td>
@@ -717,6 +717,23 @@ title: 舞台表演
     <td><a href="https://www.bilibili.com/video/BV16a411u7wE" target="_blank" rel="noopener">吉庆团圆</a></td>
     <td>蔡国庆、陈晓忠（大三弦）</td>
     <td>央视综合频道</td>
+</tr>
+<tr>
+    <td rowspan="3">11月9日</td>
+    <td rowspan="3">江苏卫视「2060元音之境」<br/>元宇宙原创音乐晚会</td>
+    <td><a href="https://www.bilibili.com/bangumi/play/ep702203" target="_blank" rel="noopener">初恋未满</a></td>
+    <td></td>
+    <td>初舞台</td>
+</tr>
+<tr>
+    <td><a href="https://www.bilibili.com/bangumi/play/ep702199" target="_blank" rel="noopener">给你一瓶魔法药水</a></td>
+    <td></td>
+    <td>增强现实舞台</td>
+</tr>
+<tr>
+    <td><a href="https://www.bilibili.com/bangumi/play/ep702193" target="_blank" rel="noopener">星辰大海</a></td>
+    <td></td>
+    <td>虚拟形象舞台</td>
 </tr>
 </tbody>
 </table>
