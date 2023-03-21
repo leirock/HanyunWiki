@@ -8,7 +8,7 @@ title: 访谈采访
 ::: center
 **表一 谈话类节目**
 ::: 
-<table>
+<table style="font-size:85%;">
 <thead>
 <tr>
     <th>年份</th>
@@ -187,7 +187,7 @@ title: 访谈采访
 **表二 剧组演员、表演后台采访**
 ::: 
 
-<table>
+<table style="font-size:85%;">
 <thead>
 <tr>
     <th>年份</th>

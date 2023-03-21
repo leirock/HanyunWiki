@@ -6,7 +6,7 @@ title: Baby X'mas 新年好
 
 ## 曲目
 
-<table>
+<table style="font-size:85%;">
 <thead>
 <tr>
     <th>曲序</th>

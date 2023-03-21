@@ -5,7 +5,7 @@ title: 节目主持
 
 主要包括以主持人身份参与的节目（含代班主持），点击表格内链接可查看相应节目视频。
 
-<table>
+<table style="font-size:85%;">
 <thead>
 <tr>
     <th>年份</th>

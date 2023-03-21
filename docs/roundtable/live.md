@@ -5,7 +5,7 @@ title: 经典现场
 
 汇总在晚会典礼、综艺节目等歌唱表演中的代表性现场，点击表格内链接可查看相应现场表演视频。
 
-<table>
+<table style="font-size:85%;">
 <thead>
 <tr>
     <th>年份</th>

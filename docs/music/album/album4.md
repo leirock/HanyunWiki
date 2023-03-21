@@ -6,7 +6,7 @@ title: Baby Zhang 張含韻
 
 ## 曲目
 
-<table>
+<table style="font-size:85%;">
 <thead>
 <tr>
     <th>曲序</th>

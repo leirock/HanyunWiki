@@ -10,7 +10,7 @@ title: 我很张含韵（预售版）
 
 ### 新歌预览部分
 
-<table>
+<table style="font-size:85%;">
 <thead>
 <tr>
     <th>曲序</th>
@@ -51,7 +51,7 @@ title: 我很张含韵（预售版）
 
 ### 韵乖乖的话
 
-<table style="text-align:center; font-size:90%; width:100%; display:table">
+<table style="text-align:center; font-size:85%; width:100%; display:table">
 <thead>
 <tr>
     <th>曲序</th>

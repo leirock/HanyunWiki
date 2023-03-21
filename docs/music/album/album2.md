@@ -10,7 +10,7 @@ title: 我很张含韵
 
 ## 曲目
 
-<table>
+<table style="font-size:85%;">
 <thead>
 <tr>
     <th>曲序</th>

@@ -5,7 +5,7 @@ title: 电影
 
 点击电视剧名称可查看该电影在豆瓣影视中的相关信息。
 
-<table>
+<table style="font-size:85%;">
 <thead>
 <tr>
     <th>上映年份</th>

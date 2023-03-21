@@ -5,7 +5,7 @@ title: 其他影视作品
 
 主要包括除为个人专辑、单曲之外拍摄的其他影视作品，点击表格内链接可查看相应视频。
 
-<table>
+<table style="font-size:85%;">
 <thead>
 <tr>
     <th>年份</th>

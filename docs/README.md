@@ -13,7 +13,7 @@ actions:
 
 features:
   - title: 时间轴
-    details: 自2004年出道以来的点滴记录
+    details: 2004年出道以来的点滴记录
     link: /intro/timeline/89-03-early.html
 
   - title: 音乐作品
@@ -21,7 +21,7 @@ features:
     link: /music/album/
 
   - title: 影视作品
-    details: 电视剧、电影、综艺节目等作品
+    details: 电视剧、电影、综艺等作品
     link: /video/drama.html
 
   - title: 出版物
@@ -29,7 +29,7 @@ features:
     link: /publication/
 
   - title: 奖项荣誉
-    details: 以音乐奖项为主的各类奖项荣誉
+    details: 音乐奖项为主的各类奖项荣誉
     link: /intro/award/music.html
 
   - title: 形象代言

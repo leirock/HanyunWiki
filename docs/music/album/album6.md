@@ -6,15 +6,15 @@ title: 一人一梦
 
 ## 曲目
 
-<table style="font-size:80%;">
+<table style="font-size:75%;">
 <thead>
 <tr>
     <th style="width:7%">曲序</th>
     <th style="width:15%">曲目</th>
     <th>作词</th>
-    <th>作曲</th>
-    <th>编曲</th>
-    <th>MV导演</th>
+    <th style="width:9%">作曲</th>
+    <th style="width:9%">编曲</th>
+    <th style="width:10%">MV导演</th>
     <th>备注</th>
     <th style="width:7%">时长</th>
 </tr>
@@ -25,7 +25,7 @@ title: 一人一梦
     <td>一人一梦</td>
     <td>陈少琪</td>
     <td>金培达</td>
-    <td>金培达、褚镇东</td>
+    <td>金培达<br/>褚镇东</td>
     <td>李志伦 Jacky@ConceptX</td>
     <td>电影《宝葫芦的秘密》主题曲</td>
     <td>3:29</td>
@@ -36,7 +36,7 @@ title: 一人一梦
     <td>萧萧</td>
     <td>林从胤</td>
     <td>林从胤</td>
-    <td>李丰博 @pple</td>
+    <td>李丰博@pple</td>
     <td></td>
     <td>3:52</td>
 </tr>
@@ -54,7 +54,7 @@ title: 一人一梦
     <td>4</td>
     <td>Baby Baby</td>
     <td>楚怡辰、楚天天</td>
-    <td>楚怡辰、楚天天</td>
+    <td>楚怡辰<br/>楚天天</td>
     <td>陈子杰</td>
     <td></td>
     <td></td>
@@ -74,7 +74,7 @@ title: 一人一梦
     <td>6</td>
     <td>白色</td>
     <td>楚怡辰、楚天天</td>
-    <td>楚怡辰、楚天天</td>
+    <td>楚怡辰<br/>楚天天</td>
     <td>郑嘉泽</td>
     <td></td>
     <td></td>
@@ -106,7 +106,7 @@ title: 一人一梦
     <td>何厚华</td>
     <td>殷文琦</td>
     <td>殷文琦</td>
-    <td>李丰博 @pple</td>
+    <td>李丰博@pple</td>
     <td></td>
     <td>4:08</td>
 </tr>
@@ -114,7 +114,7 @@ title: 一人一梦
     <td>10</td>
     <td>哎呀呀</td>
     <td>王韵淳、王韵晴、萧萧</td>
-    <td>王韵淳、王韵晴</td>
+    <td>王韵淳<br/>王韵晴</td>
     <td>林从胤</td>
     <td></td>
     <td></td>

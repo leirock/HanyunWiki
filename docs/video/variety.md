@@ -11,7 +11,7 @@ title: 综艺节目
 
 以常驻嘉宾、参赛选手等身份参与的综艺节目，点击节目名称可查看百度百科中的介绍。
 
-<table>
+<table style="font-size:80%;">
 <thead>
 <tr>
     <th>年份</th>
@@ -92,7 +92,7 @@ title: 综艺节目
 
 以飞行嘉宾身份参与的综艺节目，点击表格内链接可查看相应节目或表演的视频。
 
-<table>
+<table style="font-size:80%;">
 <thead>
 <tr>
     <th>年份</th>

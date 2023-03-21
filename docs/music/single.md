@@ -5,7 +5,7 @@ title: 单曲
 
 主要包括正式发行但是未收录于个人专辑中的录音室单曲，MV 栏指是否录制 MV 视频或设计舞蹈表演。
 
-<table>
+<table style="font-size:80%;">
 <thead>
 <tr>
     <th>年份</th>

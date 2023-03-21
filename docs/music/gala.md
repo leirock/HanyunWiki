@@ -5,7 +5,7 @@ title: 舞台表演
 
 主要包括在大型晚会、典礼、音乐节、音乐类综艺节目等舞台的表演，点击表格内链接可查看相应舞台表演视频。
 
-<table style="font-size:84%;">
+<table style="font-size:70%;">
 <thead>
 <tr>
     <th>年份</th>

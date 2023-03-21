@@ -14,7 +14,7 @@ title: 青春无敌
 
 ## 曲目
 
-<table style="font-size:80%;">
+<table style="font-size:75%;">
 <thead>
 <tr>
     <th>曲序</th>

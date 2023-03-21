@@ -1,40 +1,38 @@
-.home.project .feature h2 {
-    border-bottom: none
-}
 
-.feature[href*='timeline'] {
+
+.feature-item[href*='timeline'] {
     background:#fde5e7
 }
 
-.feature[href*='album'] {
+.feature-item[href*='album'] {
     background:#ffeee8
 }
 
-.feature[href*='video'] {
+.feature-item[href*='video'] {
     background:#fef5e7
 }
 
-.feature[href*='publication'] {
+.feature-item[href*='publication'] {
     background:#f6faea
 }
 
-.feature[href*='award'] {
+.feature-item[href*='award'] {
     background:#e6f9ee
 }
 
-.feature[href*='branding'] {
+.feature-item[href*='branding'] {
     background:#e4fcfc
 }
 
-.feature[href*='interview'] {
+.feature-item[href*='interview'] {
     background:#e4f0fe
 }
 
-.feature[href*='live'] {
+.feature-item[href*='live'] {
     background:#f7f1fd
 }
 
-.feature[href*='anecdote'] {
+.feature-item[href*='anecdote'] {
     background:#fdeaf5
 }
 

@@ -5,7 +5,7 @@ title: 电视剧
 
 点击电视剧名称可查看该剧在豆瓣影视中的相关信息。
 
-<table>
+<table style="font-size:80%;">
 <thead>
 <tr>
     <th>首播年份</th>

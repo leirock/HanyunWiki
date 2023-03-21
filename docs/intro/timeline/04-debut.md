@@ -9,7 +9,7 @@ title: 超女出道：2004年
 ::: center
 **张含韵 2004 年《超级女声》比赛进程**
 :::
-<table style="font-size:84%">
+<table style="font-size:75%">
 <thead>
 <tr>
     <th>赛区</th>
