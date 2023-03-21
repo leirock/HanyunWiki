@@ -5,7 +5,7 @@ title: 商业代言
 
 不包括无头衔仅单次推广的品牌，点击表格中的链接可查看相关媒体报道。
 
-<table>
+<table style="font-size:85%;">
 <thead>
 <tr>
     <th>签约年份</th>

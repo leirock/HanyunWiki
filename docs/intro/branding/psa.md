@@ -5,7 +5,7 @@ title: 公益代言
 
 点击表格中的链接可查看相关媒体报道。
 
-<table>
+<table style="font-size:85%;">
 <thead>
 <tr>
     <th>年份</th>

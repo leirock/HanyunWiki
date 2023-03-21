@@ -48,7 +48,7 @@ export default defineUserConfig({
   
     contributors: false,
   
-    breadcrumbIcon: false,
+    breadcrumb: false,
   
     pure: true,
   

@@ -4,7 +4,7 @@ title: 其他荣誉
 
 除音乐、表演奖项外所获得的其他奖项荣誉，点击所获荣誉的链接可查看相关媒体报道。
 
-<table>
+<table style="font-size:85%;">
 <thead>
 <tr>
     <th>年份</th>

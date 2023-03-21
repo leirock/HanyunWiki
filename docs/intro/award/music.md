@@ -4,7 +4,7 @@ title: 音乐奖项
 
 点击榜单链接可查看相关媒体报道。
 
-<table>
+<table style="font-size:80%;">
 <thead>
 <tr>
     <th>年份</th>
