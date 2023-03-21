@@ -183,5 +183,10 @@ title: 商业代言
     <td>一汽-大众 探岳家族</td>
     <td><a href="https://weibo.com/1172294045/M2lCq4Kf7" target="_blank" rel="noopener">品牌推荐官</a></td>
 </tr>
+<tr>
+    <td>2023</td>
+    <td>书亦烧仙草</td>
+    <td><a href="https://weibo.com/6444542300/4874074414646057" target="_blank" rel="noopener">星品调饮官</a></td>
+</tr>
 </tbody>
 </table>

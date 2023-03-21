@@ -22,14 +22,15 @@ title: 电影
     <td><a href="https://www.bilibili.com/bangumi/play/ss12498/" target="_blank" rel="noopener">哔哩哔哩</a>、<a href="https://www.iqiyi.com/v_19rrfwl6lc.html" target="_blank" rel="noopener">爱奇艺</a></td>
 </tr>
 <tr>
-    <td rowspan="2">待上映</td>
-    <td><a href="https://movie.douban.com/subject/27119587/" target="_blank" rel="noopener">单板厨神</a></td>
-    <td>冷珊</td>
+    <td>2023</td>
+    <td><a href="https://movie.douban.com/subject/35711450/" target="_blank" rel="noopener">爱很美味（电影版）</a></td>
+    <td>方欣</td>
     <td></td>
 </tr>
 <tr>
-    <td><a href="https://movie.douban.com/subject/35711450/" target="_blank" rel="noopener">爱很美味（电影版）</a></td>
-    <td>方欣</td>
+    <td>待上映</td>
+    <td><a href="https://movie.douban.com/subject/27119587/" target="_blank" rel="noopener">单板厨神</a></td>
+    <td>冷珊</td>
     <td></td>
 </tr>
 </tbody>

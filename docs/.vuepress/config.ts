@@ -63,9 +63,9 @@ export default defineUserConfig({
     fullscreen: false,
   
     navbarLayout: {
-      left: ["Brand"],
+      start: ["Brand"],
       center: [],
-      right: ["Links"]
+      end: ["Links"]
     },
 
     plugins: {
@@ -76,7 +76,7 @@ export default defineUserConfig({
         align:true,
         footnote:true,
         mark: true,
-        lazyLoad: true,
+        imgLazyload: true,
       },
   
       pwa: {

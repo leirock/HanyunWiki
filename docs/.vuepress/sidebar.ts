@@ -7,7 +7,7 @@ export default sidebar({
       text: "时间轴",
       icon: "footprint",
       prefix: "timeline/",
-      collapsable: false,
+      collapsible: false,
       children: [
         "89-03-early",
         "04-debut",
@@ -21,7 +21,7 @@ export default sidebar({
       text: "奖项荣誉",
       icon: "trophy",
       prefix: "award/",
-      collapsable: false,
+      collapsible: false,
       children: [
         "music",
         "other",
@@ -31,7 +31,7 @@ export default sidebar({
       text: "形象代言",
       icon: "lightbulb-flash",
       prefix: "branding/",
-      collapsable: false,
+      collapsible: false,
       children: [
         "psa", //公益代言 (public service advertising)
         "business", //商业代言
@@ -46,7 +46,7 @@ export default sidebar({
       icon: "lightbulb-flash",
       link: "album/",
       prefix: "album/",
-      collapsable: true,
+      collapsible: true,
       children: [
         "album1",
         "album2",
